@@ -1,0 +1,501 @@
+language,word,part_of_speech,alternatives,frequency_rank,url
+it,solo,adjective,semplice|singolo|abbandonato|singolare,1,https://www.synopedia.com/it/sinonimo/solo
+it,parte,noun,regione|zona|pezzo|porzione|faccia,2,https://www.synopedia.com/it/sinonimo/parte
+it,ora,adverb,oggi|adesso|ormai|attualmente|qui,3,https://www.synopedia.com/it/sinonimo/ora
+it,quanto,noun,prezzo|costo|quantità|somma|entità,4,https://www.synopedia.com/it/sinonimo/quanto
+it,tempo,noun,ora|giorno|momento|periodo|insieme,5,https://www.synopedia.com/it/sinonimo/tempo
+it,vita,noun,essere|attività|esistenza|biografia|energia,6,https://www.synopedia.com/it/sinonimo/vita
+it,no,adverb,per nulla|niente affatto,7,https://www.synopedia.com/it/sinonimo/no
+it,proprio,adjective,giusto|personale|preciso|corretto|istintivo,8,https://www.synopedia.com/it/sinonimo/proprio
+it,bene,noun,fortuna|felicità|ricchezza|bontà|cosa,9,https://www.synopedia.com/it/sinonimo/bene
+it,grazie,noun,ringraziamento|lode|gratitudine|riconoscenza|servizi,10,https://www.synopedia.com/it/sinonimo/grazie
+it,lavoro,noun,fatica|occupazione|impiego|mestiere|impasto,11,https://www.synopedia.com/it/sinonimo/lavoro
+it,modo,noun,stile|maniera|atteggiamento|guisa|scappatoia,12,https://www.synopedia.com/it/sinonimo/modo
+it,casa,noun,residenza|abitazione|dimora|domicilio|famiglia,13,https://www.synopedia.com/it/sinonimo/casa
+it,volta,noun,tempo|momento|occasione|fase|giro,14,https://www.synopedia.com/it/sinonimo/volta
+it,dire,verb,parlare|raccontare|affermare|dichiarare|chiamare,15,https://www.synopedia.com/it/sinonimo/dire
+it,giorno,noun,festa|anniversario|celebrazione|festività|tempo,16,https://www.synopedia.com/it/sinonimo/giorno
+it,mondo,noun,società|terra|globo|cosmo|gente,17,https://www.synopedia.com/it/sinonimo/mondo
+it,via,noun,strada|tramite|cammino|pista|missione,18,https://www.synopedia.com/it/sinonimo/via
+it,grande,adjective,importante|grosso|ampio|vasto|tale,19,https://www.synopedia.com/it/sinonimo/grande
+it,caso,noun,fatto|possibilità|occasione|avvenimento|nominativo,20,https://www.synopedia.com/it/sinonimo/caso
+it,oggi,adverb,ora|adesso|attualmente|tuttora|stamattina,21,https://www.synopedia.com/it/sinonimo/oggi
+it,città,noun,comune|centro|comunità|municipio|capitale,22,https://www.synopedia.com/it/sinonimo/citt%C3%A0
+it,nuovo,adjective,attuale|originale|recente|inedito|cambiato,23,https://www.synopedia.com/it/sinonimo/nuovo
+it,detto,noun,parola|discorso|proverbio|adagio|alias,24,https://www.synopedia.com/it/sinonimo/detto
+it,fine,noun,termine|scopo|finale|conclusione|limite,25,https://www.synopedia.com/it/sinonimo/fine
+it,storia,noun,vicenda|racconto|cronaca|narrazione|favola,26,https://www.synopedia.com/it/sinonimo/storia
+it,fino,adjective,minuto|intelligente|accorto|penetrante|puro,27,https://www.synopedia.com/it/sinonimo/fino
+it,meglio,noun,ottimo|crema|fior fiore|gotha,28,https://www.synopedia.com/it/sinonimo/meglio
+it,visto,adjective,capito|trovato|provato|conosciuto|considerato,29,https://www.synopedia.com/it/sinonimo/visto
+it,momento,noun,tempo|secondo|attimo|istante|data,30,https://www.synopedia.com/it/sinonimo/momento
+it,vedere,verb,trovare|guardare|controllare|visitare,31,https://www.synopedia.com/it/sinonimo/vedere
+it,forse,adverb,magari|probabilmente|chissà|può darsi|più o meno,32,https://www.synopedia.com/it/sinonimo/forse
+it,invece,adverb,piuttosto|anzi|al contrario|bensì|ora,33,https://www.synopedia.com/it/sinonimo/invece
+it,vero,adjective,reale|effettivo|autentico|genuino|fatto,34,https://www.synopedia.com/it/sinonimo/vero
+it,gente,noun,persona|popolo|popolazione|nazione|folla,35,https://www.synopedia.com/it/sinonimo/gente
+it,legge,noun,diritto|decreto|norma|legislazione|recita,36,https://www.synopedia.com/it/sinonimo/legge
+it,posto,noun,sito|luogo|posizione|spazio|appostamento,37,https://www.synopedia.com/it/sinonimo/posto
+it,nome,noun,fama|denominazione|soprannome|sostantivo|firma,38,https://www.synopedia.com/it/sinonimo/nome
+it,andare,verb,portare|camminare|recarsi|portarsi|usare,39,https://www.synopedia.com/it/sinonimo/andare
+it,punto,noun,luogo|posizione|passo|segno|situazione,40,https://www.synopedia.com/it/sinonimo/punto
+it,qualcuno,noun,qualcosa|nome|personalità|pezzo grosso|uno,41,https://www.synopedia.com/it/sinonimo/qualcuno
+it,tipo,noun,genere|specie|modello|sorta|tizio,42,https://www.synopedia.com/it/sinonimo/tipo
+it,davvero,adverb,proprio|veramente|effettivamente|realmente,43,https://www.synopedia.com/it/sinonimo/davvero
+it,nuova,noun,ultima|notizia|novità|novella|seconda,44,https://www.synopedia.com/it/sinonimo/nuova
+it,comunque,adverb,in ogni modo|in ogni caso|ad ogni modo|tuttavia|lo stesso,45,https://www.synopedia.com/it/sinonimo/comunque
+it,video,noun,schermo|monitor|display|televisore|piccolo schermo,46,https://www.synopedia.com/it/sinonimo/video
+it,male,noun,colpa|dolore|peccato|vizio|malore,47,https://www.synopedia.com/it/sinonimo/male
+it,numero,noun,quantità|elenco|cifra|fascicolo|interno,48,https://www.synopedia.com/it/sinonimo/numero
+it,quasi,adverb,circa|ormai|pressoché|pressappoco|come,49,https://www.synopedia.com/it/sinonimo/quasi
+it,certo,adjective,sicuro|evidente|convinto|indubbio|tale,50,https://www.synopedia.com/it/sinonimo/certo
+it,gruppo,noun,insieme|compagnia|associazione|team|band,51,https://www.synopedia.com/it/sinonimo/gruppo
+it,persona,noun,uomo|anima|individuo|creatura|vita,52,https://www.synopedia.com/it/sinonimo/persona
+it,dato,adjective,certo|determinato|stabilito|concesso|raccontato,53,https://www.synopedia.com/it/sinonimo/dato
+it,società,noun,mondo|azienda|associazione|impresa|democrazia,54,https://www.synopedia.com/it/sinonimo/societ%C3%A0
+it,uomo,noun,persona|umano|essere umano|umanità|signore,55,https://www.synopedia.com/it/sinonimo/uomo
+it,famiglia,noun,casa|stirpe|discendenza|lignaggio|gruppo,56,https://www.synopedia.com/it/sinonimo/famiglia
+it,paese,noun,nazione|villaggio|patria|borgo|marca,57,https://www.synopedia.com/it/sinonimo/paese
+it,problema,noun,questione|fastidio|inconveniente|seccatura|vivo,58,https://www.synopedia.com/it/sinonimo/problema
+it,circa,adverb,quasi|all'incirca|approssimativamente|pressappoco,59,https://www.synopedia.com/it/sinonimo/circa
+it,credo,noun,idea|fede|ideale|convinzione|penso,60,https://www.synopedia.com/it/sinonimo/credo
+it,governo,noun,direzione|gestione|amministrazione|presidenza|potere,61,https://www.synopedia.com/it/sinonimo/governo
+it,esempio,noun,tipo|modello|dimostrazione|esemplare|caso,62,https://www.synopedia.com/it/sinonimo/esempio
+it,possibile,adjective,potenziale|fattibile|realizzabile|pensabile|facoltativo,63,https://www.synopedia.com/it/sinonimo/possibile
+it,rispetto,noun,riguardo|considerazione|stima|ossequio|punto di vista,64,https://www.synopedia.com/it/sinonimo/rispetto
+it,sistema,noun,metodo|complesso|regime|impianto|soluzione,65,https://www.synopedia.com/it/sinonimo/sistema
+it,adesso,adverb,ora|oggi|ormai|attualmente,66,https://www.synopedia.com/it/sinonimo/adesso
+it,bisogno,noun,necessità|desiderio|esigenza|istanza|fame,67,https://www.synopedia.com/it/sinonimo/bisogno
+it,serie,noun,categoria|catena|sequenza|sfilza|ciclo,68,https://www.synopedia.com/it/sinonimo/serie
+it,almeno,adverb,se non altro|per lo meno|al minimo|comunque|magari,69,https://www.synopedia.com/it/sinonimo/almeno
+it,donna,noun,moglie|signora|regina|fidanzata|persona,70,https://www.synopedia.com/it/sinonimo/donna
+it,nazionale,adjective,pubblico|interno|statale|governativo|popolare,71,https://www.synopedia.com/it/sinonimo/nazionale
+it,generale,adjective,comune|globale|universale|vago|congiunto,72,https://www.synopedia.com/it/sinonimo/generale
+it,guerra,noun,campagna|lotta|conflitto|scontro|conflagrazione,73,https://www.synopedia.com/it/sinonimo/guerra
+it,infatti,adverb,già|in realtà|effettivamente|invero|di fatto,74,https://www.synopedia.com/it/sinonimo/infatti
+it,morte,noun,scomparsa|estinzione|decesso|trapasso|sangue,75,https://www.synopedia.com/it/sinonimo/morte
+it,sito,noun,posto|luogo|zona|ambiente|indirizzo,76,https://www.synopedia.com/it/sinonimo/sito
+it,base,noun,principio|fondamento|fondamenta|piedistallo|punto,77,https://www.synopedia.com/it/sinonimo/base
+it,film,noun,cinema|pizza|pellicola|cinematografia|proiezione,78,https://www.synopedia.com/it/sinonimo/film
+it,politica,noun,sistema|strategia|approccio|diplomazia|governo,79,https://www.synopedia.com/it/sinonimo/politica
+it,pure,adverb,anche|persino|perfino|parimenti|anche se,80,https://www.synopedia.com/it/sinonimo/pure
+it,spesso,adjective,grosso|consistente|denso|fitto,81,https://www.synopedia.com/it/sinonimo/spesso
+it,comune,adjective,qualunque|corrente|banale|ordinario|commerciale,82,https://www.synopedia.com/it/sinonimo/comune
+it,subito,adverb,su due piedi|immediatamente|prontamente|istantaneamente|in breve,83,https://www.synopedia.com/it/sinonimo/subito
+it,centro,noun,mezzo|cuore|nucleo|nocciolo|paese,84,https://www.synopedia.com/it/sinonimo/centro
+it,dio,noun,mito|divinità|idolo|deità|signore,85,https://www.synopedia.com/it/sinonimo/dio
+it,inoltre,adverb,anche|poi|ancora|altresì|per di più,86,https://www.synopedia.com/it/sinonimo/inoltre
+it,parlare,verb,dire|chiacchierare|conversare|discorrere|aprire bocca,87,https://www.synopedia.com/it/sinonimo/parlare
+it,scuola,noun,istituto|educazione|collegio|insegnamento|casa,88,https://www.synopedia.com/it/sinonimo/scuola
+it,appena,adverb,quasi|a fatica|malapena|a stento|solo,89,https://www.synopedia.com/it/sinonimo/appena
+it,idea,noun,pensiero|ispirazione|concezione|nozione|prospettiva,90,https://www.synopedia.com/it/sinonimo/idea
+it,mano,noun,giro|direzione|tocco|impronta|scrittura,91,https://www.synopedia.com/it/sinonimo/mano
+it,causa,noun,perché|ragione|motivo|origine|questione,92,https://www.synopedia.com/it/sinonimo/causa
+it,corso,noun,processo|evoluzione|iter|decorso|viaggio,93,https://www.synopedia.com/it/sinonimo/corso
+it,forza,noun,energia|violenza|coraggio|potenza|carica,94,https://www.synopedia.com/it/sinonimo/forza
+it,importante,adjective,fondamentale|notevole|significativo|cruciale|principale,95,https://www.synopedia.com/it/sinonimo/importante
+it,presidente,noun,capo|direttore|coordinatore|governante|speaker,96,https://www.synopedia.com/it/sinonimo/presidente
+it,seguito,noun,serie|risultato|conseguenza|continuazione|aderenza,97,https://www.synopedia.com/it/sinonimo/seguito
+it,senso,noun,valore|concetto|significato|spirito|lato,98,https://www.synopedia.com/it/sinonimo/senso
+it,successo,noun,risultato|vittoria|esito|trionfo|carriera,99,https://www.synopedia.com/it/sinonimo/successo
+it,basta,noun,silenzio|ferma,100,https://www.synopedia.com/it/sinonimo/basta
+it,diritto,noun,potere|facoltà|beneficio|privilegio|legge,101,https://www.synopedia.com/it/sinonimo/diritto
+it,parole,noun,testo|parlando|esclamazione,102,https://www.synopedia.com/it/sinonimo/parole
+it,scritto,noun,articolo|testo|messaggio|scrittura|pagina,103,https://www.synopedia.com/it/sinonimo/scritto
+it,soprattutto,adverb,in particolare|specialmente|principalmente|anzitutto|elettivamente,104,https://www.synopedia.com/it/sinonimo/soprattutto
+it,terra,noun,paese|fondo|terreno|suolo|mondo,105,https://www.synopedia.com/it/sinonimo/terra
+it,padre,noun,maestro|fondatore|creatore|iniziatore|papà,106,https://www.synopedia.com/it/sinonimo/padre
+it,penso,noun,credo|progetto|sospetto|figuro|disegno,107,https://www.synopedia.com/it/sinonimo/penso
+it,dare,verb,fornire|offrire|donare|attribuire|guardare,108,https://www.synopedia.com/it/sinonimo/dare
+it,piano,noun,progetto|programma|proposito|schema|strato,109,https://www.synopedia.com/it/sinonimo/piano
+it,porta,noun,ingresso|entrata|portone|uscio|prova,110,https://www.synopedia.com/it/sinonimo/porta
+it,settimana,noun,mondo|stipendio,111,https://www.synopedia.com/it/sinonimo/settimana
+it,trovare,verb,incontrare|ritrovare|reperire|scovare|pescare,112,https://www.synopedia.com/it/sinonimo/trovare
+it,vista,noun,aspetto|visione|panorama|visuale|rivista,113,https://www.synopedia.com/it/sinonimo/vista
+it,genere,noun,gruppo|specie|categoria|varietà,114,https://www.synopedia.com/it/sinonimo/genere
+it,letto,noun,culla|branda|amaca|alcova|materasso,115,https://www.synopedia.com/it/sinonimo/letto
+it,migliore,adjective,primo|superiore|ideale|ottimale|meglio,116,https://www.synopedia.com/it/sinonimo/migliore
+it,pubblico,adjective,comune|noto|popolare|collettivo|civile,117,https://www.synopedia.com/it/sinonimo/pubblico
+it,realtà,noun,verità|esistenza|concretezza|materialità|storia,118,https://www.synopedia.com/it/sinonimo/realt%C3%A0
+it,strada,noun,cammino|sentiero|itinerario|carreggiata|via,119,https://www.synopedia.com/it/sinonimo/strada
+it,livello,noun,grado|fase|standard|altezza|aspetto,120,https://www.synopedia.com/it/sinonimo/livello
+it,lungo,adjective,grande|tanto|alto|esteso|lento,121,https://www.synopedia.com/it/sinonimo/lungo
+it,mezzo,noun,sistema|strumento|metodo|espediente|centro,122,https://www.synopedia.com/it/sinonimo/mezzo
+it,tale,adjective,questo|certo|simile|siffatto|grande,123,https://www.synopedia.com/it/sinonimo/tale
+it,bella,noun,fidanzata|innamorata|pupa|spareggio,124,https://www.synopedia.com/it/sinonimo/bella
+it,particolare,adjective,speciale|singolare|insolito|peculiare|tecnico,125,https://www.synopedia.com/it/sinonimo/particolare
+it,pubblicato,adjective,comunicato|stampato|edito|divulgato|inserito,126,https://www.synopedia.com/it/sinonimo/pubblicato
+it,ragione,noun,perché|causa|motivo|raziocinio|titolo,127,https://www.synopedia.com/it/sinonimo/ragione
+it,notte,noun,buio|tenebre|oscurità|nottata|decadenza,128,https://www.synopedia.com/it/sinonimo/notte
+it,situazione,noun,stato|posizione|condizione|circostanza|regno,129,https://www.synopedia.com/it/sinonimo/situazione
+it,attività,noun,lavoro|azione|funzione|occupazione|alacrità,130,https://www.synopedia.com/it/sinonimo/attivit%C3%A0
+it,attraverso,adverb,trasversalmente|obliquamente|di sbieco|di sghembo,131,https://www.synopedia.com/it/sinonimo/attraverso
+it,consiglio,noun,parere|avviso|suggerimento|raccomandazione|assemblea,132,https://www.synopedia.com/it/sinonimo/consiglio
+it,forma,noun,linea|aspetto|figura|sagoma|condizione,133,https://www.synopedia.com/it/sinonimo/forma
+it,libro,noun,scritto|testo|edizione|trattato|volume,134,https://www.synopedia.com/it/sinonimo/libro
+it,qualsiasi,adjective,tutto|ogni|qualunque|qualsivoglia,135,https://www.synopedia.com/it/sinonimo/qualsiasi
+it,sapere,verb,conoscere|provare|imparare|apprendere|ricordare,136,https://www.synopedia.com/it/sinonimo/sapere
+it,soldi,noun,fortuna|denaro|moneta|contante|banane,137,https://www.synopedia.com/it/sinonimo/soldi
+it,campo,noun,settore|area|ambito|sfera|sfondo,138,https://www.synopedia.com/it/sinonimo/campo
+it,faccia,noun,aria|espressione|volto|viso|effetto,139,https://www.synopedia.com/it/sinonimo/faccia
+it,figlio,noun,giovane|ragazzo|bambino|fanciullo|erede,140,https://www.synopedia.com/it/sinonimo/figlio
+it,prendere,verb,ottenere|ricevere|assumere|afferrare|andare,141,https://www.synopedia.com/it/sinonimo/prendere
+it,progetto,noun,piano|programma|disegno|schema|gestazione,142,https://www.synopedia.com/it/sinonimo/progetto
+it,servizio,noun,attività|funzione|incarico|prestazione|piacere,143,https://www.synopedia.com/it/sinonimo/servizio
+it,testa,noun,capo|mente|cervello|capoccia|fronte,144,https://www.synopedia.com/it/sinonimo/testa
+it,accordo,noun,patto|intesa|convenzione|compromesso|faccia a faccia,145,https://www.synopedia.com/it/sinonimo/accordo
+it,amore,noun,bene|passione|affetto|tenerezza|innamorato,146,https://www.synopedia.com/it/sinonimo/amore
+it,capo,noun,presidente|principale|direttore|responsabile|punta,147,https://www.synopedia.com/it/sinonimo/capo
+it,conto,noun,dovuto|nota|calcolo|computo|gioco,148,https://www.synopedia.com/it/sinonimo/conto
+it,giusto,adjective,proprio|esatto|corretto|equo|figo,149,https://www.synopedia.com/it/sinonimo/giusto
+it,madre,noun,mamma|origine|fonte|genitrice|monaca,150,https://www.synopedia.com/it/sinonimo/madre
+it,periodo,noun,tempo|momento|età|epoca|meriggio,151,https://www.synopedia.com/it/sinonimo/periodo
+it,preso,adjective,assunto|accettato|occupato|attinto|catturato,152,https://www.synopedia.com/it/sinonimo/preso
+it,studio,noun,progetto|ricerca|saggio|schizzo|scienza,153,https://www.synopedia.com/it/sinonimo/studio
+it,tratta,noun,distanza|percorso|titolo di credito|tirata|raccolta,154,https://www.synopedia.com/it/sinonimo/tratta
+it,unico,adjective,eccezionale|esclusivo|impareggiabile|inimitabile|continuo,155,https://www.synopedia.com/it/sinonimo/unico
+it,gioco,noun,divertimento|intrattenimento|passatempo|ricreazione|scherzo,156,https://www.synopedia.com/it/sinonimo/gioco
+it,grado,noun,livello|classe|condizione|rango|punto,157,https://www.synopedia.com/it/sinonimo/grado
+it,voce,noun,chiacchiera|diceria|indiscrezione|ciancia|punto,158,https://www.synopedia.com/it/sinonimo/voce
+it,forte,adjective,grande|potente|intenso|robusto|fondato,159,https://www.synopedia.com/it/sinonimo/forte
+it,giro,noun,viaggio|passeggiata|gita|tragitto|gruppo,160,https://www.synopedia.com/it/sinonimo/giro
+it,mese,noun,stipendio|mensile|salario|mensilità,161,https://www.synopedia.com/it/sinonimo/mese
+it,ricerca,noun,studio|indagine|sperimentazione|esplorazione|relazione,162,https://www.synopedia.com/it/sinonimo/ricerca
+it,uso,noun,utilizzo|consumo|impiego|utilizzazione|esercito,163,https://www.synopedia.com/it/sinonimo/uso
+it,capire,verb,vedere|imparare|comprendere|intendere|mangiare la foglia,164,https://www.synopedia.com/it/sinonimo/capire
+it,corpo,noun,forma|materia|fisico|sostanza|gruppo,165,https://www.synopedia.com/it/sinonimo/corpo
+it,luogo,noun,posto|paese|sito|posizione|postazione,166,https://www.synopedia.com/it/sinonimo/luogo
+it,nemmeno,adverb,neanche|né anche|neppure|manco,167,https://www.synopedia.com/it/sinonimo/nemmeno
+it,ormai,adverb,ora|adesso|finalmente|quasi|pressoché,168,https://www.synopedia.com/it/sinonimo/ormai
+it,partito,noun,gruppo|movimento|associazione|fazione|consiglio,169,https://www.synopedia.com/it/sinonimo/partito
+it,passato,adjective,precedente|finito|scorso|trascorso|andato a male,170,https://www.synopedia.com/it/sinonimo/passato
+it,ragazza,noun,giovane|fidanzata|signorina|fanciulla|commessa,171,https://www.synopedia.com/it/sinonimo/ragazza
+it,avanti,adverb,oltre|davanti|dinanzi|innanzi,172,https://www.synopedia.com/it/sinonimo/avanti
+it,euro,noun,soldi|moneta unica|contanti|spiccioli|capitale,173,https://www.synopedia.com/it/sinonimo/euro
+it,favore,noun,piacere|protezione|carità|beneficio|incontro,174,https://www.synopedia.com/it/sinonimo/favore
+it,sicurezza,noun,fiducia|certezza|affidabilità|baldanza|incolumità,175,https://www.synopedia.com/it/sinonimo/sicurezza
+it,acqua,noun,onda|pioggia|liquido|linfa|sorgente,176,https://www.synopedia.com/it/sinonimo/acqua
+it,cuore,noun,centro|nucleo|essenza|nocciolo|coraggio,177,https://www.synopedia.com/it/sinonimo/cuore
+it,difficile,adjective,pesante|complicato|arduo|difficoltoso|dubbio,178,https://www.synopedia.com/it/sinonimo/difficile
+it,domanda,noun,questione|richiesta|istanza|quesito|cerca,179,https://www.synopedia.com/it/sinonimo/domanda
+it,presente,noun,ricordo|offerta|dono|omaggio|oggi,180,https://www.synopedia.com/it/sinonimo/presente
+it,articolo,noun,punto|parte del discorso|capitolo|lemma|lavoro,181,https://www.synopedia.com/it/sinonimo/articolo
+it,bello,adjective,buono|carino|magnifico|incantevole|amato,182,https://www.synopedia.com/it/sinonimo/bello
+it,capito,adjective,visto|compreso|inteso|immaginato|assimilato,183,https://www.synopedia.com/it/sinonimo/capito
+it,chiesa,noun,tempio|basilica|parrocchia|abbazia|religione,184,https://www.synopedia.com/it/sinonimo/chiesa
+it,cioè,adverb,in altre parole|vale a dire|alias,185,https://www.synopedia.com/it/sinonimo/cio%C3%A8
+it,media,noun,centrale|standard|mass media|mediana|comune,186,https://www.synopedia.com/it/sinonimo/media
+it,parola,noun,voce|termine|espressione|vocabolo|testo,187,https://www.synopedia.com/it/sinonimo/parola
+it,prova,noun,test|esame|tentativo|verifica|porta,188,https://www.synopedia.com/it/sinonimo/prova
+it,sera,noun,serata|tramonto|crepuscolo|vespro|smoking,189,https://www.synopedia.com/it/sinonimo/sera
+it,sud,noun,mezzogiorno|meridione|meridionale|antartico,190,https://www.synopedia.com/it/sinonimo/sud
+it,titolo,noun,nome|diritto|qualifica|intestazione|libro,191,https://www.synopedia.com/it/sinonimo/titolo
+it,musica,noun,canto|armonia|melodia|sinfonia|storia,192,https://www.synopedia.com/it/sinonimo/musica
+it,nuove,noun,giovani|messaggi|novità,193,https://www.synopedia.com/it/sinonimo/nuove
+it,paura,noun,terrore|timore|preoccupazione|spavento|spettro,194,https://www.synopedia.com/it/sinonimo/paura
+it,pensare,verb,credere|immaginare|ritenere|supporre,195,https://www.synopedia.com/it/sinonimo/pensare
+it,regione,noun,zona|territorio|area|circoscrizione|terra,196,https://www.synopedia.com/it/sinonimo/regione
+it,sociale,adjective,pubblico|politico|collettivo|comunitario|civile,197,https://www.synopedia.com/it/sinonimo/sociale
+it,dietro,adverb,dopo|sotto|alle spalle|posteriormente,198,https://www.synopedia.com/it/sinonimo/dietro
+it,inglese,adjective,britannico|anglosassone|britanno,199,https://www.synopedia.com/it/sinonimo/inglese
+it,maggiore,adjective,principale|fondamentale|prevalente|preponderante|senior,200,https://www.synopedia.com/it/sinonimo/maggiore
+it,messo,adjective,sito|collocato|sistemato|posizionato|portata,201,https://www.synopedia.com/it/sinonimo/messo
+it,nord,noun,mezzanotte|settentrione|tramontana|settentrionale|norte,202,https://www.synopedia.com/it/sinonimo/nord
+it,questione,noun,problema|domanda|faccenda|quesito|punto,203,https://www.synopedia.com/it/sinonimo/questione
+it,re,noun,principe|sovrano|monarca|regnante|star,204,https://www.synopedia.com/it/sinonimo/re
+it,termine,noun,parola|limite|conclusione|vocabolo|tempo,205,https://www.synopedia.com/it/sinonimo/termine
+it,vicino,adjective,simile|adiacente|confinante|limitrofo|prossimo,206,https://www.synopedia.com/it/sinonimo/vicino
+it,vivere,verb,essere|stare|sopravvivere|abitare|sostenersi,207,https://www.synopedia.com/it/sinonimo/vivere
+it,abbastanza,adverb,assai|sufficientemente|discretamente|moderatamente|fin troppo,208,https://www.synopedia.com/it/sinonimo/abbastanza
+it,data,noun,tempo|giorno|momento|scadenza|presupposto,209,https://www.synopedia.com/it/sinonimo/data
+it,giornata,noun,festa|anniversario|festività|ricorrenza|giorno,210,https://www.synopedia.com/it/sinonimo/giornata
+it,lingua,noun,vocabolario|parlata|lessico|idioma|parlare,211,https://www.synopedia.com/it/sinonimo/lingua
+it,mettere,verb,portare|porre|disporre|collocare|giocare,212,https://www.synopedia.com/it/sinonimo/mettere
+it,piccolo,adjective,breve|basso|minuscolo|piccino|portatile,213,https://www.synopedia.com/it/sinonimo/piccolo
+it,posizione,noun,posto|punto di vista|atteggiamento|postura|status,214,https://www.synopedia.com/it/sinonimo/posizione
+it,possibilità,noun,occasione|capacità|opportunità|ipotesi|pericolo,215,https://www.synopedia.com/it/sinonimo/possibilit%C3%A0
+it,programma,noun,piano|progetto|disegno|elenco|strategia,216,https://www.synopedia.com/it/sinonimo/programma
+it,zona,noun,luogo|regione|territorio|area,217,https://www.synopedia.com/it/sinonimo/zona
+it,controllo,noun,esame|verifica|monitoraggio|ispezione|comando,218,https://www.synopedia.com/it/sinonimo/controllo
+it,cultura,noun,formazione|educazione|istruzione|erudizione|spirito,219,https://www.synopedia.com/it/sinonimo/cultura
+it,dovuto,adjective,giusto|necessario|debito|doveroso|compiuto,220,https://www.synopedia.com/it/sinonimo/dovuto
+it,futuro,adjective,altro|prossimo|a venire|venturo|distante,221,https://www.synopedia.com/it/sinonimo/futuro
+it,mercato,noun,traffico|commercio|scambio|fiera|caos,222,https://www.synopedia.com/it/sinonimo/mercato
+it,neanche,adverb,nemmeno|neppure|manco|nemmanco|assolutamente no,223,https://www.synopedia.com/it/sinonimo/neanche
+it,polizia,noun,commissariato|questura|gendarmeria|forza pubblica|forze dell'ordine,224,https://www.synopedia.com/it/sinonimo/polizia
+it,veramente,adverb,proprio|davvero|effettivamente|realmente|tuttavia,225,https://www.synopedia.com/it/sinonimo/veramente
+it,alto,adjective,grande|lungo|superiore|elevato|alzato,226,https://www.synopedia.com/it/sinonimo/alto
+it,amico,noun,socio|alleato|sostenitore|confidente|fratello,227,https://www.synopedia.com/it/sinonimo/amico
+it,cura,noun,attenzione|riguardo|considerazione|sollecitudine|trattamento,228,https://www.synopedia.com/it/sinonimo/cura
+it,davanti,adverb,prima|avanti|di fronte|innanzi,229,https://www.synopedia.com/it/sinonimo/davanti
+it,magari,adverb,anche|anche se|forse|persino|almeno,230,https://www.synopedia.com/it/sinonimo/magari
+it,personale,adjective,proprio|privato|individuale|intimo|diretto,231,https://www.synopedia.com/it/sinonimo/personale
+it,piuttosto,adverb,invece|anzi|bensì|di preferenza|preferibilmente,232,https://www.synopedia.com/it/sinonimo/piuttosto
+it,punti,verb,posti|posizioni|fissi|appoggi,233,https://www.synopedia.com/it/sinonimo/punti
+it,scelta,noun,decisione|selezione|opzione|preferenza|migliore,234,https://www.synopedia.com/it/sinonimo/scelta
+it,semplice,adjective,facile|elementare|spontaneo|ingenuo|secco,235,https://www.synopedia.com/it/sinonimo/semplice
+it,sviluppo,noun,crescita|evoluzione|espansione|progresso|maturità,236,https://www.synopedia.com/it/sinonimo/sviluppo
+it,trovato,adjective,scoperto|ritrovato|rivelato|rintracciato|visto,237,https://www.synopedia.com/it/sinonimo/trovato
+it,fronte,noun,partito|linea|unione|cartello|davanti,238,https://www.synopedia.com/it/sinonimo/fronte
+it,luce,noun,illuminazione|luminosità|bagliore|chiarore|lampada,239,https://www.synopedia.com/it/sinonimo/luce
+it,motivo,noun,causa|ragione|tema|movente|decorazione,240,https://www.synopedia.com/it/sinonimo/motivo
+it,opera,noun,lavoro|creazione|impresa|istituzione|testo,241,https://www.synopedia.com/it/sinonimo/opera
+it,probabilmente,adverb,forse|facilmente|presumibilmente|verosimilmente|possibilmente,242,https://www.synopedia.com/it/sinonimo/probabilmente
+it,rapporto,noun,relazione|legame|collegamento|resoconto|ragione,243,https://www.synopedia.com/it/sinonimo/rapporto
+it,resto,noun,fondo|residuo|rimanente|rimanenza,244,https://www.synopedia.com/it/sinonimo/resto
+it,sicuro,adjective,certo|tranquillo|assicurato|affidabile|salvo,245,https://www.synopedia.com/it/sinonimo/sicuro
+it,attenzione,noun,cura|riguardo|interesse|prudenza|mente,246,https://www.synopedia.com/it/sinonimo/attenzione
+it,giovani,noun,nuove|leva|gioventù,247,https://www.synopedia.com/it/sinonimo/giovani
+it,risposta,noun,opinione|reazione|replica|responso|soluzione,248,https://www.synopedia.com/it/sinonimo/risposta
+it,ruolo,noun,ufficio|funzione|carica|incarico|posizione,249,https://www.synopedia.com/it/sinonimo/ruolo
+it,sola,noun,unica|truffa|ritirata|fregatura|frode,250,https://www.synopedia.com/it/sinonimo/sola
+it,x,adjective,determinante|ignoto|indeterminato|tot,251,https://www.synopedia.com/it/sinonimo/x
+it,linea,noun,forma|direzione|limite|riga|figura,252,https://www.synopedia.com/it/sinonimo/linea
+it,mente,noun,testa|anima|cervello|animo|cospetto,253,https://www.synopedia.com/it/sinonimo/mente
+it,ok,noun,bene|autorizzazione|placet|nullaosta,254,https://www.synopedia.com/it/sinonimo/ok
+it,classe,noun,gruppo|famiglia|categoria|ceto|società,255,https://www.synopedia.com/it/sinonimo/classe
+it,esperienza,noun,pratica|conoscenza|competenza|abilità|esperimento,256,https://www.synopedia.com/it/sinonimo/esperienza
+it,squadra,noun,gruppo|formazione|team|compagine|unità,257,https://www.synopedia.com/it/sinonimo/squadra
+it,ultimo,adjective,finale|estremo|definitivo|conclusivo|scorso,258,https://www.synopedia.com/it/sinonimo/ultimo
+it,voglia,noun,volontà|desiderio|brama|smania|neo,259,https://www.synopedia.com/it/sinonimo/voglia
+it,arte,noun,tecnica|professione|abilità|mestiere|corporazione,260,https://www.synopedia.com/it/sinonimo/arte
+it,auto,noun,macchina|vettura,261,https://www.synopedia.com/it/sinonimo/auto
+it,giovane,adjective,nuovo|piccolo|ingenuo|inesperto|minore,262,https://www.synopedia.com/it/sinonimo/giovane
+it,piazza,noun,centro|largo|foro|piazzale|gente,263,https://www.synopedia.com/it/sinonimo/piazza
+it,processo,noun,corso|sviluppo|procedura|procedimento|verbale,264,https://www.synopedia.com/it/sinonimo/processo
+it,qualità,noun,tipo|natura|proprietà|caratteristica|numeri,265,https://www.synopedia.com/it/sinonimo/qualit%C3%A0
+it,ragazzo,noun,giovane|fidanzato|ragazzino|giovanotto|innamorato,266,https://www.synopedia.com/it/sinonimo/ragazzo
+it,specie,noun,tipo|natura|sorta|varietà,267,https://www.synopedia.com/it/sinonimo/specie
+it,aiuto,noun,assistenza|soccorso|beneficio|ausilio|mezzo,268,https://www.synopedia.com/it/sinonimo/aiuto
+it,colpa,noun,male|errore|mancanza|peccato|causa,269,https://www.synopedia.com/it/sinonimo/colpa
+it,domani,noun,futuro|orizzonte|sostantivo|avverbio,270,https://www.synopedia.com/it/sinonimo/domani
+it,facile,adjective,possibile|semplice|comodo|agevole|di tutto riposo,271,https://www.synopedia.com/it/sinonimo/facile
+it,internazionale,adjective,mondiale|universale|planetario|cosmopolita|sovranazionale,272,https://www.synopedia.com/it/sinonimo/internazionale
+it,produzione,noun,opera|creazione|lavorazione|fabbricazione|scelta,273,https://www.synopedia.com/it/sinonimo/produzione
+it,repubblica,noun,paese|comunità|democrazia|nazione|confusione,274,https://www.synopedia.com/it/sinonimo/repubblica
+it,sinistra,noun,manca|mancina|socialdemocrazia|progressismo|storta,275,https://www.synopedia.com/it/sinonimo/sinistra
+it,ufficiale,adjective,pubblico|formale|autorizzato|autentico|militare,276,https://www.synopedia.com/it/sinonimo/ufficiale
+it,ultima,noun,nuova|notizia|bassa|scorsa|cenerentola,277,https://www.synopedia.com/it/sinonimo/ultima
+it,fondo,noun,deposito|residuo|avanzo|sedimento|terra,278,https://www.synopedia.com/it/sinonimo/fondo
+it,leggere,verb,vedere|comprendere|interpretare|decifrare|semplici,279,https://www.synopedia.com/it/sinonimo/leggere
+it,libertà,noun,facoltà|licenza|indipendenza|autonomia|spontaneità,280,https://www.synopedia.com/it/sinonimo/libert%C3%A0
+it,massimo,noun,estremo|apice|culmine|sommo|più grande,281,https://www.synopedia.com/it/sinonimo/massimo
+it,metà,noun,marito|compagno|coniuge|mezzo,282,https://www.synopedia.com/it/sinonimo/met%C3%A0
+it,passo,noun,cammino|marcia|ritmo|andatura|punto,283,https://www.synopedia.com/it/sinonimo/passo
+it,popolo,noun,gente|pubblico|comunità|etnia|plebe,284,https://www.synopedia.com/it/sinonimo/popolo
+it,presto,adverb,tra poco|velocemente|rapidamente|celermente|entro breve,285,https://www.synopedia.com/it/sinonimo/presto
+it,ricordo,noun,memoria|testimonianza|rimpianto|reminiscenza|traccia,286,https://www.synopedia.com/it/sinonimo/ricordo
+it,sede,noun,luogo|residenza|abitazione|dimora|centrale,287,https://www.synopedia.com/it/sinonimo/sede
+it,spazio,noun,tempo|posto|luogo|intervallo|aria,288,https://www.synopedia.com/it/sinonimo/spazio
+it,territorio,noun,paese|regione|zona|distretto|dominio,289,https://www.synopedia.com/it/sinonimo/territorio
+it,valore,noun,prezzo|importanza|significato|coraggio|funzione,290,https://www.synopedia.com/it/sinonimo/valore
+it,vera,noun,fede|reale|originale|sicura|autentica,291,https://www.synopedia.com/it/sinonimo/vera
+it,verità,noun,realtà|certezza|veridicità|autenticità|dogma,292,https://www.synopedia.com/it/sinonimo/verit%C3%A0
+it,viaggio,noun,giro|gita|tragitto|itinerario|andata,293,https://www.synopedia.com/it/sinonimo/viaggio
+it,cerca,noun,ricerca|domanda|arringa|questua,294,https://www.synopedia.com/it/sinonimo/cerca
+it,mamma,noun,madre|femmina,295,https://www.synopedia.com/it/sinonimo/mamma
+it,migliori,adjective,felice|onesti|sani,296,https://www.synopedia.com/it/sinonimo/migliori
+it,moglie,noun,donna|sposa|compagna|consorte,297,https://www.synopedia.com/it/sinonimo/moglie
+it,pace,noun,armonia|tranquillità|serenità|quiete|respiro,298,https://www.synopedia.com/it/sinonimo/pace
+it,papa,noun,pastore|pontefice|santità,299,https://www.synopedia.com/it/sinonimo/papa
+it,politico,adjective,sociale|amministrativo|istituzionale|governativo|diplomatico,300,https://www.synopedia.com/it/sinonimo/politico
+it,presenza,noun,vista|figura|esistenza|cospetto|intervento,301,https://www.synopedia.com/it/sinonimo/presenza
+it,servizi,noun,latrina|water closet|grazie|affari|compiti,302,https://www.synopedia.com/it/sinonimo/servizi
+it,breve,adjective,corto|sintetico|conciso|succinto|veloce,303,https://www.synopedia.com/it/sinonimo/breve
+it,civile,adjective,umano|urbano|civico|educato|sociale,304,https://www.synopedia.com/it/sinonimo/civile
+it,lavorare,verb,fare|agire|trattare|operare|sgobbare,305,https://www.synopedia.com/it/sinonimo/lavorare
+it,ministro,noun,prete|difensore|sacerdote|segretario|amministratore,306,https://www.synopedia.com/it/sinonimo/ministro
+it,ordine,noun,genere|disposizione|comando|assetto|decreto,307,https://www.synopedia.com/it/sinonimo/ordine
+it,oro,noun,soldi|denaro|tesoro|ricchezza|medaglia d'oro,308,https://www.synopedia.com/it/sinonimo/oro
+it,rete,noun,sistema|gol|maglia|trappola|porta,309,https://www.synopedia.com/it/sinonimo/rete
+it,speciale,adjective,particolare|specifico|eccezionale|singolare|apposito,310,https://www.synopedia.com/it/sinonimo/speciale
+it,tramite,noun,via|accesso|passaggio|collegamento|intermediario,311,https://www.synopedia.com/it/sinonimo/tramite
+it,calcio,noun,colpo|tiro|spinta|pedata|football,312,https://www.synopedia.com/it/sinonimo/calcio
+it,centrale,adjective,principale|fondamentale|essenziale|nevralgico|intermedio,313,https://www.synopedia.com/it/sinonimo/centrale
+it,codice,noun,legge|regola|regolamento|normativa|linguaggio,314,https://www.synopedia.com/it/sinonimo/codice
+it,felice,adjective,contento|fortunato|soddisfatto|lieto|migliore,315,https://www.synopedia.com/it/sinonimo/felice
+it,pagina,noun,scritto|faccia|vicenda|facciata|carta,316,https://www.synopedia.com/it/sinonimo/pagina
+it,piccola,noun,bassa|stretta|modesta|minuscola|bambina,317,https://www.synopedia.com/it/sinonimo/piccola
+it,provincia,noun,città|distretto|circoscrizione|circondario,318,https://www.synopedia.com/it/sinonimo/provincia
+it,sentire,verb,provare|ascoltare|percepire|udire,319,https://www.synopedia.com/it/sinonimo/sentire
+it,sole,noun,giorno|luce|caldo|calore,320,https://www.synopedia.com/it/sinonimo/sole
+it,macchina,noun,auto|vettura|automobile|autovettura|costruzione,321,https://www.synopedia.com/it/sinonimo/macchina
+it,movimento,noun,corso|gesto|mossa|spostamento|partito,322,https://www.synopedia.com/it/sinonimo/movimento
+it,perdere,verb,lasciare|sprecare|calare|smarrire|scappare,323,https://www.synopedia.com/it/sinonimo/perdere
+it,riguardo,noun,rispetto|cura|attenzione|considerazione|verso,324,https://www.synopedia.com/it/sinonimo/riguardo
+it,stile,noun,modo|forma|maniera|carattere|treno,325,https://www.synopedia.com/it/sinonimo/stile
+it,cittadini,noun,gente|paese|popolo|popolazione|anime,326,https://www.synopedia.com/it/sinonimo/cittadini
+it,età,noun,era|periodo|generazione|epoca,327,https://www.synopedia.com/it/sinonimo/et%C3%A0
+it,inizio,noun,nascita|principio|alba|avvio|primavera,328,https://www.synopedia.com/it/sinonimo/inizio
+it,nota,noun,particolare|lista|lettera|annotazione|comune,329,https://www.synopedia.com/it/sinonimo/nota
+it,occasione,noun,caso|momento|possibilità|opportunità|spunto,330,https://www.synopedia.com/it/sinonimo/occasione
+it,passare,verb,superare|trascorrere|scorrere|allungare|accedere,331,https://www.synopedia.com/it/sinonimo/passare
+it,perso,adjective,rovinato|sprecato|disperso|smarrito|lasciato,332,https://www.synopedia.com/it/sinonimo/perso
+it,prezzo,noun,valore|costo|importo|tariffa|etichetta,333,https://www.synopedia.com/it/sinonimo/prezzo
+it,prodotto,noun,bene|risultato|frutto|merce|fornito,334,https://www.synopedia.com/it/sinonimo/prodotto
+it,scusa,noun,pretesto|alibi|scappatoia|discolpa|scintilla,335,https://www.synopedia.com/it/sinonimo/scusa
+it,secolo,noun,tempo|periodo|età|epoca,336,https://www.synopedia.com/it/sinonimo/secolo
+it,stagione,noun,periodo|fase|clima|annata|età,337,https://www.synopedia.com/it/sinonimo/stagione
+it,università,noun,accademia|politecnico|corporazione|studio|facoltà,338,https://www.synopedia.com/it/sinonimo/universit%C3%A0
+it,cambiare,verb,sostituire|modificare|trasformare|mutare|farsi,339,https://www.synopedia.com/it/sinonimo/cambiare
+it,camera,noun,locale|sala|ambiente|stanza|parlamento,340,https://www.synopedia.com/it/sinonimo/camera
+it,corte,noun,scorta|cortile|aia|tribunale|aula,341,https://www.synopedia.com/it/sinonimo/corte
+it,deciso,adjective,pronto|determinato|disposto|risoluto|concluso,342,https://www.synopedia.com/it/sinonimo/deciso
+it,destra,noun,dritta|tribordo|sicura,343,https://www.synopedia.com/it/sinonimo/destra
+it,formazione,noun,costruzione|costituzione|educazione|istruzione|squadra,344,https://www.synopedia.com/it/sinonimo/formazione
+it,locale,noun,posto|camera|ambiente|stanza|bar,345,https://www.synopedia.com/it/sinonimo/locale
+it,mondiale,adjective,internazionale|globale|universale|planetario,346,https://www.synopedia.com/it/sinonimo/mondiale
+it,necessario,adjective,richiesto|indispensabile|inevitabile|obbligatorio,347,https://www.synopedia.com/it/sinonimo/necessario
+it,popolazione,noun,città|gente|cittadini|cittadinanza|fauna,348,https://www.synopedia.com/it/sinonimo/popolazione
+it,portato,adjective,dato|disposto|consegnato|incline|proposto,349,https://www.synopedia.com/it/sinonimo/portato
+it,reale,adjective,vero|autentico|regale|fattuale|storico,350,https://www.synopedia.com/it/sinonimo/reale
+it,sesso,noun,sensualità|organo sessuale|apparato genitale,351,https://www.synopedia.com/it/sinonimo/sesso
+it,soltanto,adverb,semplicemente|solamente|esclusivamente|unicamente,352,https://www.synopedia.com/it/sinonimo/soltanto
+it,testo,noun,scritto|articolo|opera|contenuto|parole,353,https://www.synopedia.com/it/sinonimo/testo
+it,totale,adjective,tutto|intero|assoluto|completo|radicale,354,https://www.synopedia.com/it/sinonimo/totale
+it,versione,noun,traduzione|interpretazione|testimonianza|narrazione|modello,355,https://www.synopedia.com/it/sinonimo/versione
+it,bambino,noun,piccolo|bimbo|fanciullo|infante|maschio,356,https://www.synopedia.com/it/sinonimo/bambino
+it,chiaro,adjective,evidente|trasparente|palese|limpido|bianco,357,https://www.synopedia.com/it/sinonimo/chiaro
+it,diventare,verb,farsi|rendersi|divenire|trasformarsi|costituire,358,https://www.synopedia.com/it/sinonimo/diventare
+it,finalmente,adverb,poi|alla fine|infine|insomma|conclusivamente,359,https://www.synopedia.com/it/sinonimo/finalmente
+it,fratello,noun,amico|compagno|alleato|compatriota|monaco,360,https://www.synopedia.com/it/sinonimo/fratello
+it,fuoco,noun,passione|calore|fervore|ardore|incendio,361,https://www.synopedia.com/it/sinonimo/fuoco
+it,interesse,noun,importanza|beneficio|profitto|guadagno|amore,362,https://www.synopedia.com/it/sinonimo/interesse
+it,maniera,noun,forma|stile|comportamento|guisa|verso,363,https://www.synopedia.com/it/sinonimo/maniera
+it,natura,noun,qualità|specie|carattere|indole|pasta,364,https://www.synopedia.com/it/sinonimo/natura
+it,ovviamente,adverb,certamente|chiaramente|naturalmente|evidentemente|banalmente,365,https://www.synopedia.com/it/sinonimo/ovviamente
+it,partire,verb,andare|uscire|iniziare|andarsene|decollare,366,https://www.synopedia.com/it/sinonimo/partire
+it,piacere,noun,favore|gioia|gusto|godimento|hobby,367,https://www.synopedia.com/it/sinonimo/piacere
+it,portare,verb,guidare|condurre|trasportare|accompagnare|contenere,368,https://www.synopedia.com/it/sinonimo/portare
+it,risultato,noun,successo|effetto|frutto|esito|soluzione,369,https://www.synopedia.com/it/sinonimo/risultato
+it,semplicemente,adverb,solo|proprio|soltanto|solamente|positivamente,370,https://www.synopedia.com/it/sinonimo/semplicemente
+it,arrivare,verb,venire|raggiungere|riuscire|giungere|bastare,371,https://www.synopedia.com/it/sinonimo/arrivare
+it,aspetto,noun,forma|faccia|punto di vista|apparenza|attesa,372,https://www.synopedia.com/it/sinonimo/aspetto
+it,carta,noun,documento|foglio|certificato|tessera|mappa,373,https://www.synopedia.com/it/sinonimo/carta
+it,cercare,verb,provare|tentare|ricercare|scandagliare,374,https://www.synopedia.com/it/sinonimo/cercare
+it,completamente,adverb,assolutamente|totalmente|interamente|pienamente|addirittura,375,https://www.synopedia.com/it/sinonimo/completamente
+it,comunità,noun,società|associazione|congregazione|collettività|città,376,https://www.synopedia.com/it/sinonimo/comunit%C3%A0
+it,danno,noun,perdita|svantaggio|discapito|detrimento|rovina,377,https://www.synopedia.com/it/sinonimo/danno
+it,festa,noun,cerimonia|anniversario|celebrazione|solennità|party,378,https://www.synopedia.com/it/sinonimo/festa
+it,francese,adjective,gallico|transalpino,379,https://www.synopedia.com/it/sinonimo/francese
+it,libero,adjective,aperto|indipendente|franco|sciolto|disponibile,380,https://www.synopedia.com/it/sinonimo/libero
+it,presenti,noun,pubblico|sala|correnti|doni|avanzi,381,https://www.synopedia.com/it/sinonimo/presenti
+it,principale,adjective,primo|fondamentale|essenziale|primario|maestro,382,https://www.synopedia.com/it/sinonimo/principale
+it,relazione,noun,rapporto|connessione|legame|correlazione|esposto,383,https://www.synopedia.com/it/sinonimo/relazione
+it,scrivere,verb,segnare|comporre|redigere|annotare|abbozzare,384,https://www.synopedia.com/it/sinonimo/scrivere
+it,stampa,noun,disegno|illustrazione|incisione|veduta|specie,385,https://www.synopedia.com/it/sinonimo/stampa
+it,tornare,verb,diventare|ritornare|rientrare|ricomparire|venire,386,https://www.synopedia.com/it/sinonimo/tornare
+it,usare,verb,utilizzare|applicare|impiegare|adoperare,387,https://www.synopedia.com/it/sinonimo/usare
+it,messaggio,noun,scritto|comunicazione|avviso|annuncio|discorso,388,https://www.synopedia.com/it/sinonimo/messaggio
+it,mostra,noun,fiera|esposizione|parata|vetrina|evidenza,389,https://www.synopedia.com/it/sinonimo/mostra
+it,prossimo,adjective,vicino|futuro|imminente|venturo|primo,390,https://www.synopedia.com/it/sinonimo/prossimo
+it,scopo,noun,obiettivo|proposito|mira|intento|funzione,391,https://www.synopedia.com/it/sinonimo/scopo
+it,simile,adjective,tale|pari|paragonabile|somigliante|convergente,392,https://www.synopedia.com/it/sinonimo/simile
+it,cibo,noun,mangiare|pasto|alimento|vitto,393,https://www.synopedia.com/it/sinonimo/cibo
+it,direttamente,adverb,subito|immediatamente|prontamente|all'istante|chiaramente,394,https://www.synopedia.com/it/sinonimo/direttamente
+it,figlia,noun,ragazza|bambino|bambina|figliola,395,https://www.synopedia.com/it/sinonimo/figlia
+it,finale,noun,chiusa|conclusione|traguardo|epilogo|ballottaggio,396,https://www.synopedia.com/it/sinonimo/finale
+it,lato,noun,faccia|fianco|margine|versante|via,397,https://www.synopedia.com/it/sinonimo/lato
+it,sangue,noun,cuore|discendenza|stirpe|vitalità|morte,398,https://www.synopedia.com/it/sinonimo/sangue
+it,tema,noun,oggetto|materia|argomento|soggetto|contesto,399,https://www.synopedia.com/it/sinonimo/tema
+it,vecchio,adjective,antico|anziano|vetusto|decrepito|precedente,400,https://www.synopedia.com/it/sinonimo/vecchio
+it,voto,noun,impegno|giudizio|promessa|giuramento|elezione,401,https://www.synopedia.com/it/sinonimo/voto
+it,anzi,adverb,invece|piuttosto|al contrario|affatto|avanti,402,https://www.synopedia.com/it/sinonimo/anzi
+it,basso,adjective,piccolo|inferiore|vile|meschino|grave,403,https://www.synopedia.com/it/sinonimo/basso
+it,contratto,noun,accordo|trattato|patto|convenzione|polizza,404,https://www.synopedia.com/it/sinonimo/contratto
+it,costa,noun,spiaggia|riva|riviera|litorale|versante,405,https://www.synopedia.com/it/sinonimo/costa
+it,crisi,noun,depressione|crollo|recessione|dissesto|difficoltà,406,https://www.synopedia.com/it/sinonimo/crisi
+it,differenza,noun,diversità|distinzione|divergenza|discrepanza|resto,407,https://www.synopedia.com/it/sinonimo/differenza
+it,entrare,verb,accedere|penetrare|addentrarsi|introdursi|immedesimarsi,408,https://www.synopedia.com/it/sinonimo/entrare
+it,fortuna,noun,bene|tesoro|felicità|ricchezza|ventura,409,https://www.synopedia.com/it/sinonimo/fortuna
+it,guida,noun,direzione|gestione|pilota|conducente|consigliere,410,https://www.synopedia.com/it/sinonimo/guida
+it,incontro,noun,partita|appuntamento|riunione|combattimento|verso,411,https://www.synopedia.com/it/sinonimo/incontro
+it,iniziato,adjective,cominciato|fondato|introdotto|avviato|nato,412,https://www.synopedia.com/it/sinonimo/iniziato
+it,intorno,adverb,circa|in giro|attorno|all'incirca|circolarmente,413,https://www.synopedia.com/it/sinonimo/intorno
+it,nero,adjective,buio|scuro|oscuro|sporco|furioso,414,https://www.synopedia.com/it/sinonimo/nero
+it,notizia,noun,nuova|informazione|novità|annuncio|rivelazione,415,https://www.synopedia.com/it/sinonimo/notizia
+it,ottenere,verb,raggiungere|guadagnare|conquistare|acquisire|mietere,416,https://www.synopedia.com/it/sinonimo/ottenere
+it,pena,noun,dolore|punizione|castigo|afflizione,417,https://www.synopedia.com/it/sinonimo/pena
+it,azione,noun,fatto|attività|atto|gesto|gioco,418,https://www.synopedia.com/it/sinonimo/azione
+it,chiedere,verb,richiedere|pretendere|esigere|domandare|avere bisogno,419,https://www.synopedia.com/it/sinonimo/chiedere
+it,creare,verb,fare|realizzare|formare|costituire|frapporre,420,https://www.synopedia.com/it/sinonimo/creare
+it,discorso,noun,discussione|conversazione|colloquio|orazione|parlare,421,https://www.synopedia.com/it/sinonimo/discorso
+it,lista,noun,elenco|banda|catalogo|striscia|carta,422,https://www.synopedia.com/it/sinonimo/lista
+it,morto,adjective,scomparso|defunto|deceduto|estinto|secco,423,https://www.synopedia.com/it/sinonimo/morto
+it,pari,adjective,stesso|simile|uguale|equivalente,424,https://www.synopedia.com/it/sinonimo/pari
+it,pensiero,noun,idea|mente|concetto|riflessione|inquietudine,425,https://www.synopedia.com/it/sinonimo/pensiero
+it,posti,verb,punti|posizioni|messi|terreni|immaginati,426,https://www.synopedia.com/it/sinonimo/posti
+it,proprietà,noun,cosa|bene|possesso|possedimento|convenienza,427,https://www.synopedia.com/it/sinonimo/propriet%C3%A0
+it,rischio,noun,pericolo|minaccia|azzardo|incerto|gioco,428,https://www.synopedia.com/it/sinonimo/rischio
+it,sicuramente,adverb,certo|certamente|senz'altro|indubbiamente|efficacemente,429,https://www.synopedia.com/it/sinonimo/sicuramente
+it,solito,adjective,normale|consueto|abituale|usuale|stesso,430,https://www.synopedia.com/it/sinonimo/solito
+it,soluzione,noun,spiegazione|risoluzione|sospensione|determinazione|risposta,431,https://www.synopedia.com/it/sinonimo/soluzione
+it,superiore,adjective,maggiore|alto|elevato|eccellente|sacro,432,https://www.synopedia.com/it/sinonimo/superiore
+it,telefono,noun,telefonia|apparecchio telefonico|ricevitore|cornetta|interno,433,https://www.synopedia.com/it/sinonimo/telefono
+it,andato,adjective,passato|uscito|accompagnato|trascorso|scorso,434,https://www.synopedia.com/it/sinonimo/andato
+it,atto,noun,fatto|opera|azione|gesto|documento,435,https://www.synopedia.com/it/sinonimo/atto
+it,autore,noun,scrittore|artista|compositore|romanziere|creatore,436,https://www.synopedia.com/it/sinonimo/autore
+it,campagna,noun,terra|terreno|tenuta|podere|guerra,437,https://www.synopedia.com/it/sinonimo/campagna
+it,colore,noun,intensità|tonalità|timbro|gradazione|tono,438,https://www.synopedia.com/it/sinonimo/colore
+it,commissione,noun,compito|incarico|faccenda|delega|richiesta,439,https://www.synopedia.com/it/sinonimo/commissione
+it,difesa,noun,protezione|tutela|salvaguardia|baluardo|avvocato,440,https://www.synopedia.com/it/sinonimo/difesa
+it,diretta,noun,rivolta|condotta|retta|coordinata|tesa,441,https://www.synopedia.com/it/sinonimo/diretta
+it,direttore,noun,presidente|responsabile|amministratore|gestore|regista,442,https://www.synopedia.com/it/sinonimo/direttore
+it,infine,adverb,poi|alla fine|finalmente|insomma|comunque,443,https://www.synopedia.com/it/sinonimo/infine
+it,matrimonio,noun,unione|nozze|unione matrimoniale|connubio|letto,444,https://www.synopedia.com/it/sinonimo/matrimonio
+it,morti,verb,resti|fermi|finiti|sepolti|secchi,445,https://www.synopedia.com/it/sinonimo/morti
+it,porto,noun,scalo|approdo|banchina|rada|termine,446,https://www.synopedia.com/it/sinonimo/porto
+it,pratica,noun,attività|esperienza|esercizio|abitudine|allenamento,447,https://www.synopedia.com/it/sinonimo/pratica
+it,qualunque,adjective,ogni|comune|qualsiasi|qualsivoglia,448,https://www.synopedia.com/it/sinonimo/qualunque
+it,scena,noun,vista|luogo|teatro|quadro|finzione,449,https://www.synopedia.com/it/sinonimo/scena
+it,storico,adjective,reale|famoso|memorabile|documentabile|importante,450,https://www.synopedia.com/it/sinonimo/storico
+it,usato,adjective,utilizzato|impiegato|sfruttato|adoperato,451,https://www.synopedia.com/it/sinonimo/usato
+it,vivo,adjective,caldo|vitale|animato|vivace|presente,452,https://www.synopedia.com/it/sinonimo/vivo
+it,aria,noun,faccia|aspetto|cera|apparenza|tema,453,https://www.synopedia.com/it/sinonimo/aria
+it,assolutamente,adverb,veramente|completamente|affatto|totalmente|in ogni caso,454,https://www.synopedia.com/it/sinonimo/assolutamente
+it,capitale,noun,fortuna|tesoro|patrimonio|ricchezza|apporto,455,https://www.synopedia.com/it/sinonimo/capitale
+it,guardare,verb,vedere|osservare|mirare|scrutare|affacciarsi,456,https://www.synopedia.com/it/sinonimo/guardare
+it,mattina,noun,mattinata|mane|alba,457,https://www.synopedia.com/it/sinonimo/mattina
+it,militare,adjective,guerriero|marziale|bellico|guerresco|rigido,458,https://www.synopedia.com/it/sinonimo/militare
+it,salute,noun,forza|prosperità|vitalità|floridezza|sanità,459,https://www.synopedia.com/it/sinonimo/salute
+it,sentito,adjective,provato|ascoltato|avvertito|appreso|caldo,460,https://www.synopedia.com/it/sinonimo/sentito
+it,settore,noun,campo|ambito|ramo|comparto|specialità,461,https://www.synopedia.com/it/sinonimo/settore
+it,ufficio,noun,studio|ruolo|agenzia|incarico|personale,462,https://www.synopedia.com/it/sinonimo/ufficio
+it,uscire,verb,andare|partire|venire fuori|andarsene|fare coppia,463,https://www.synopedia.com/it/sinonimo/uscire
+it,chiama,noun,nomina|recluta,464,https://www.synopedia.com/it/sinonimo/chiama
+it,chiamato,adjective,eletto|assunto|nominato|designato|soprannominato,465,https://www.synopedia.com/it/sinonimo/chiamato
+it,difficoltà,noun,disagio|ostacolo|guaio|contrarietà|complessità,466,https://www.synopedia.com/it/sinonimo/difficolt%C3%A0
+it,lettera,noun,scritto|nota|missiva|dispaccio|battuta,467,https://www.synopedia.com/it/sinonimo/lettera
+it,mangiare,verb,rubare|consumare|divorare|cibarsi|cenare,468,https://www.synopedia.com/it/sinonimo/mangiare
+it,partita,noun,incontro|gara|sfida|match|conto,469,https://www.synopedia.com/it/sinonimo/partita
+it,pieno,adjective,carico|ricco|colmo|zeppo|intero,470,https://www.synopedia.com/it/sinonimo/pieno
+it,precedente,adjective,scorso|anteriore|preesistente|antecedente|vecchio,471,https://www.synopedia.com/it/sinonimo/precedente
+it,riferimento,noun,menzione|accenno|cenno|allusione|esempio,472,https://www.synopedia.com/it/sinonimo/riferimento
+it,signore,noun,uomo|marito|principe|sovrano|nobile,473,https://www.synopedia.com/it/sinonimo/signore
+it,venire,verb,arrivare|risultare|giungere|capitare|prendersi,474,https://www.synopedia.com/it/sinonimo/venire
+it,azienda,noun,società|compagnia|impresa|ditta|organismo,475,https://www.synopedia.com/it/sinonimo/azienda
+it,cielo,noun,paradiso|gloria|empireo|spazio|firmamento,476,https://www.synopedia.com/it/sinonimo/cielo
+it,conoscere,verb,sapere|capire|imparare|riconoscere|essere a conoscenza,477,https://www.synopedia.com/it/sinonimo/conoscere
+it,diverso,adjective,altro|differente|vario|dissimile|alquanto,478,https://www.synopedia.com/it/sinonimo/diverso
+it,esattamente,adverb,proprio|giusto|precisamente|correttamente|matematicamente,479,https://www.synopedia.com/it/sinonimo/esattamente
+it,finito,adjective,pronto|completo|compiuto|concluso|passato,480,https://www.synopedia.com/it/sinonimo/finito
+it,modello,noun,tipo|esempio|schema|prototipo|guida,481,https://www.synopedia.com/it/sinonimo/modello
+it,nato,adjective,generato|derivato|sorto|sbocciato|iniziato,482,https://www.synopedia.com/it/sinonimo/nato
+it,parlando,noun,parole|bocca|comunicando,483,https://www.synopedia.com/it/sinonimo/parlando
+it,ritorno,noun,rientro|rimpatrio|ricomparsa|riapparizione|venuta,484,https://www.synopedia.com/it/sinonimo/ritorno
+it,scoperto,adjective,aperto|ritrovato|esposto|rivelato|nudo,485,https://www.synopedia.com/it/sinonimo/scoperto
+it,vittoria,noun,successo|conquista|trionfo|vincita|trofeo,486,https://www.synopedia.com/it/sinonimo/vittoria
+it,bianco,adjective,pallido|immacolato|lattiginoso|latteo|invernale,487,https://www.synopedia.com/it/sinonimo/bianco
+it,canzone,noun,poesia|canto|melodia|ballata|predica,488,https://www.synopedia.com/it/sinonimo/canzone
+it,compagnia,noun,gruppo|squadra|banda|combriccola|amicizia,489,https://www.synopedia.com/it/sinonimo/compagnia
+it,dubbio,noun,paura|sospetto|incertezza|perplessità|problema,490,https://www.synopedia.com/it/sinonimo/dubbio
+it,effetto,noun,risultato|conseguenza|esito|riflesso|sensazione,491,https://www.synopedia.com/it/sinonimo/effetto
+it,evitare,verb,prevenire|aggirare|scongiurare|scansare|declinare,492,https://www.synopedia.com/it/sinonimo/evitare
+it,giustizia,noun,onestà|equità|imparzialità|rettitudine|legge,493,https://www.synopedia.com/it/sinonimo/giustizia
+it,medico,noun,professore|primario|specialista|cura|medicina,494,https://www.synopedia.com/it/sinonimo/medico
+it,merito,noun,qualità|valore|virtù|dote|pregio,495,https://www.synopedia.com/it/sinonimo/merito
+it,noto,adjective,conosciuto|famoso|celebre|rinomato|determinato,496,https://www.synopedia.com/it/sinonimo/noto
+it,passa,noun,passata|cola,497,https://www.synopedia.com/it/sinonimo/passa
+it,radio,noun,stazione|stazione radio|emittente|mass media|radium,498,https://www.synopedia.com/it/sinonimo/radio
+it,scorso,adjective,passato|andato|trascorso|fuggito|altro,499,https://www.synopedia.com/it/sinonimo/scorso
+it,struttura,noun,costruzione|costituzione|organizzazione|intelaiatura|locale,500,https://www.synopedia.com/it/sinonimo/struttura

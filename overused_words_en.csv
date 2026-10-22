@@ -1,0 +1,501 @@
+language,word,part_of_speech,alternatives,frequency_rank,url
+en,like,verb,love|enjoy|want|prefer|wish,1,https://www.synopedia.com/synonym/like
+en,time,noun,day|moment|space|period|schedule,2,https://www.synopedia.com/synonym/time
+en,new,adjective,brand-new|unused|virgin|mint|young,3,https://www.synopedia.com/synonym/new
+en,people,noun,community|folk|family|race|populace,4,https://www.synopedia.com/synonym/people
+en,good,adjective,nice|decent|excellent|superb|able,5,https://www.synopedia.com/synonym/good
+en,know,verb,have|do it|get it on|make love|understand,6,https://www.synopedia.com/synonym/know
+en,see,verb,find|find out|understand|watch|view,7,https://www.synopedia.com/synonym/see
+en,think,verb,believe|consider|suppose|imagine|ponder,8,https://www.synopedia.com/synonym/think
+en,back,verb,support|help|assist|aid|game,9,https://www.synopedia.com/synonym/back
+en,want,verb,need|wish|require|crave|would like,10,https://www.synopedia.com/synonym/want
+en,way,noun,course|approach|method|manner|path,11,https://www.synopedia.com/synonym/way
+en,need,noun,necessity|urgency|indigence|pauperism|use,12,https://www.synopedia.com/synonym/need
+en,really,adverb,truly|certainly|indeed|honestly|very,13,https://www.synopedia.com/synonym/really
+en,right,adjective,just|correct|appropriate|accurate|right-hand,14,https://www.synopedia.com/synonym/right
+en,work,verb,use|run|go|do|forge,15,https://www.synopedia.com/synonym/work
+en,year,noun,school year|tax year|fiscal year|quality-adjusted life year|tropical year,16,https://www.synopedia.com/synonym/year
+en,years,noun,ages|age|days,17,https://www.synopedia.com/synonym/years
+en,day,noun,time|cycle|day-time|photoperiod|sunshine,18,https://www.synopedia.com/synonym/day
+en,going,noun,exit|passing|departure|release,19,https://www.synopedia.com/synonym/going
+en,take,verb,get|get hold of|catch|accept|consider,20,https://www.synopedia.com/synonym/take
+en,life,noun,soul|being|energy|essence|living,21,https://www.synopedia.com/synonym/life
+en,world,noun,nature|universe|existence|cosmos|human race,22,https://www.synopedia.com/synonym/world
+en,great,adjective,huge|wonderful|excellent|fantastic|outstanding,23,https://www.synopedia.com/synonym/great
+en,last,adjective,final|ultimate|concluding|latter,24,https://www.synopedia.com/synonym/last
+en,best,adjective,first|prime|foremost|superlative|optimal,25,https://www.synopedia.com/synonym/best
+en,love,noun,darling|heart|sweetheart|lover|liking,26,https://www.synopedia.com/synonym/love
+en,man,noun,person|humanity|human being|gentleman|valet,27,https://www.synopedia.com/synonym/man
+en,home,noun,house|abode|dwelling|residence|family,28,https://www.synopedia.com/synonym/home
+en,long,adjective,lengthy|prolonged|extended|protracted|tenacious,29,https://www.synopedia.com/synonym/long
+en,look,verb,consider|examine|take notice|behold|expect,30,https://www.synopedia.com/synonym/look
+en,use,verb,utilize|apply|employ|treat|consume,31,https://www.synopedia.com/synonym/use
+en,used,adjective,put-upon|ill-used|victimized|pre-owned|employed,32,https://www.synopedia.com/synonym/used
+en,come,verb,take place|occur|happen|arise|originate,33,https://www.synopedia.com/synonym/come
+en,part,noun,component|piece|portion|element|section,34,https://www.synopedia.com/synonym/part
+en,state,noun,pass|condition|situation|position|nation,35,https://www.synopedia.com/synonym/state
+en,better,verb,improve|improve on|ameliorate|promote,36,https://www.synopedia.com/synonym/better
+en,find,verb,discover|learn|locate|determine|get,37,https://www.synopedia.com/synonym/find
+en,help,verb,assist|aid|support|benefit|facilitate,38,https://www.synopedia.com/synonym/help
+en,high,adjective,tall|elevated|soaring|lofty|haute,39,https://www.synopedia.com/synonym/high
+en,little,adjective,small|slight|insignificant|tiny|unimportant,40,https://www.synopedia.com/synonym/little
+en,old,adjective,former|past|erstwhile|one-time|not bad,41,https://www.synopedia.com/synonym/old
+en,things,noun,clothes|impedimenta,42,https://www.synopedia.com/synonym/things
+en,game,noun,fun|sport|gamble|pastime|strategy,43,https://www.synopedia.com/synonym/game
+en,thing,noun,matter|act|concern|circumstance|being,44,https://www.synopedia.com/synonym/thing
+en,give,verb,allow|grant|hand|confer|yield,45,https://www.synopedia.com/synonym/give
+en,house,noun,home|family|door|household|shop,46,https://www.synopedia.com/synonym/house
+en,place,noun,position|location|situation|office|plaza,47,https://www.synopedia.com/synonym/place
+en,school,noun,university|college|academy|seminary|department,48,https://www.synopedia.com/synonym/school
+en,next,adjective,after|succeeding|coming|future|adjacent,49,https://www.synopedia.com/synonym/next
+en,end,noun,conclusion|termination|point|period|death,50,https://www.synopedia.com/synonym/end
+en,show,verb,prove|demonstrate|exhibit|display|express,51,https://www.synopedia.com/synonym/show
+en,big,adjective,huge|large|massive|gigantic|handsome,52,https://www.synopedia.com/synonym/big
+en,feel,verb,take|handle|touch|have,53,https://www.synopedia.com/synonym/feel
+en,sure,adjective,certain|convinced|confident|positive|reliable,54,https://www.synopedia.com/synonym/sure
+en,team,noun,club|crew|squad|alliance,55,https://www.synopedia.com/synonym/team
+en,family,noun,home|house|household|genealogy|tribe,56,https://www.synopedia.com/synonym/family
+en,keep,verb,continue|stay|remain|abide|preserve,57,https://www.synopedia.com/synonym/keep
+en,please,verb,delight|satisfy|cheer|rejoice|will,58,https://www.synopedia.com/synonym/please
+en,put,verb,lay|redact|arrange|commit|try,59,https://www.synopedia.com/synonym/put
+en,money,noun,gold|cash|currency|moolah|funds,60,https://www.synopedia.com/synonym/money
+en,free,adjective,independent|unconstrained|unrestricted|unhindered|unoccupied,61,https://www.synopedia.com/synonym/free
+en,someone,noun,man|person|individual,62,https://www.synopedia.com/synonym/someone
+en,away,adverb,out|off|afield|apart|afar,63,https://www.synopedia.com/synonym/away
+en,left,adjective,remaining|odd|unexpended|sinistral|left-wing,64,https://www.synopedia.com/synonym/left
+en,number,noun,scalar|phone number|many|quantity|digit,65,https://www.synopedia.com/synonym/number
+en,city,noun,central business district|municipal|local administrative unit,66,https://www.synopedia.com/synonym/city
+en,lot,noun,many|great deal|plenty|deal|fortune,67,https://www.synopedia.com/synonym/lot
+en,name,noun,character|nickname|moniker|noun|gens,68,https://www.synopedia.com/synonym/name
+en,night,noun,sunset|dusk|nightfall|darkness|gloom,69,https://www.synopedia.com/synonym/night
+en,play,verb,act|execute|perform|get it on|dance,70,https://www.synopedia.com/synonym/play
+en,company,noun,society|association|group|partnership|firm,71,https://www.synopedia.com/synonym/company
+en,let,verb,allow|enable|empower|countenance|hire out,72,https://www.synopedia.com/synonym/let
+en,real,adjective,true|actual|genuine|legitimate|substantial,73,https://www.synopedia.com/synonym/real
+en,different,adjective,various|disparate|several|other|unusual,74,https://www.synopedia.com/synonym/different
+en,set,verb,establish|determine|fix|define|put,75,https://www.synopedia.com/synonym/set
+en,thought,noun,opinion|concept|intention|notion|reflection,76,https://www.synopedia.com/synonym/thought
+en,however,adverb,nevertheless|though|still|yet|howsoever,77,https://www.synopedia.com/synonym/however
+en,god,noun,deity|divinity|divine|immortal|arch,78,https://www.synopedia.com/synonym/god
+en,government,noun,administration|state|governance|authority|regimen,79,https://www.synopedia.com/synonym/government
+en,group,noun,bunch|set|cluster|company|band,80,https://www.synopedia.com/synonym/group
+en,public,noun,pub|tavern|world|society,81,https://www.synopedia.com/synonym/public
+en,top,noun,peak|summit|pinnacle|apex|crown,82,https://www.synopedia.com/synonym/top
+en,business,noun,trade|job|office|craft|company,83,https://www.synopedia.com/synonym/business
+en,care,noun,guardianship|responsibility|custody|charge|caution,84,https://www.synopedia.com/synonym/care
+en,start,verb,begin|get|set out|get going|jump,85,https://www.synopedia.com/synonym/start
+en,system,noun,arrangement|method|mode|order|structure,86,https://www.synopedia.com/synonym/system
+en,case,noun,fount|suit|lawsuit|type|display case,87,https://www.synopedia.com/synonym/case
+en,nothing,noun,nil|cipher|null|trifle|nothingness,88,https://www.synopedia.com/synonym/nothing
+en,person,noun,individual|man|somebody|someone,89,https://www.synopedia.com/synonym/person
+en,change,verb,alter|affect|modify|vary|turn to,90,https://www.synopedia.com/synonym/change
+en,full,adjective,ample|chock-full|rich|loaded|complete,91,https://www.synopedia.com/synonym/full
+en,live,verb,hold out|continue|remain|endure|reside,92,https://www.synopedia.com/synonym/live
+en,making,noun,devising|fashioning|qualification,93,https://www.synopedia.com/synonym/making
+en,point,noun,moment|time|juncture|step|place,94,https://www.synopedia.com/synonym/point
+en,read,verb,understand|scan|interpret|decipher|go up,95,https://www.synopedia.com/synonym/read
+en,bad,adjective,terrible|awful|horrible|dreadful|atrocious,96,https://www.synopedia.com/synonym/bad
+en,hard,adjective,difficult|trying|rough|arduous|unyielding,97,https://www.synopedia.com/synonym/hard
+en,mean,adjective,bad|poor|base|sorry|little,98,https://www.synopedia.com/synonym/mean
+en,once,adverb,formerly|erstwhile|whilom,99,https://www.synopedia.com/synonym/once
+en,support,verb,sustain|substantiate|corroborate|confirm|contribute,100,https://www.synopedia.com/synonym/support
+en,tell,verb,say|narrate|inform|distinguish|discover,101,https://www.synopedia.com/synonym/tell
+en,music,noun,melody|harmony|harmonics|euphony,102,https://www.synopedia.com/synonym/music
+en,power,noun,force|strength|energy|control|king,103,https://www.synopedia.com/synonym/power
+en,stop,verb,check|block|leave off|break off|stay over,104,https://www.synopedia.com/synonym/stop
+en,water,noun,body fluid|bodily fluid|hydrogen hydroxide|hydrogen oxide,105,https://www.synopedia.com/synonym/water
+en,based,adjective,real|maverick|keyed,106,https://www.synopedia.com/synonym/based
+en,believe,verb,think|understand|guess|suppose|trust,107,https://www.synopedia.com/synonym/believe
+en,call,verb,cry|scream|yell|holler|invite,108,https://www.synopedia.com/synonym/call
+en,head,noun,chief|principal|superintendent|director|mind,109,https://www.synopedia.com/synonym/head
+en,men,noun,manhood|menz,110,https://www.synopedia.com/synonym/men
+en,national,adjective,state|public|domestic,111,https://www.synopedia.com/synonym/national
+en,small,adjective,tiny|insignificant|slight|low|little,112,https://www.synopedia.com/synonym/small
+en,white,adjective,bleached|ashen|pallid|blank|stainless,113,https://www.synopedia.com/synonym/white
+en,far,adjective,distant,114,https://www.synopedia.com/synonym/far
+en,job,noun,business|occupation|thing|task|problem,115,https://www.synopedia.com/synonym/job
+en,side,noun,edge|lane|face|hand|half,116,https://www.synopedia.com/synonym/side
+en,try,verb,put|keep|make an effort|strive|hear,117,https://www.synopedia.com/synonym/try
+en,actually,adverb,really|indeed|truly|certainly,118,https://www.synopedia.com/synonym/actually
+en,later,adverb,after|afterwards|subsequently|on,119,https://www.synopedia.com/synonym/later
+en,less,adjective,lesser,120,https://www.synopedia.com/synonym/less
+en,line,noun,supply|origin|succession|transmission line|contour,121,https://www.synopedia.com/synonym/line
+en,order,noun,society|class|form|category|law,122,https://www.synopedia.com/synonym/order
+en,party,noun,alliance|faction|shindig|political party|fiesta,123,https://www.synopedia.com/synonym/party
+en,run,verb,move on|push|proceed|break away|extend,124,https://www.synopedia.com/synonym/run
+en,service,noun,work|avail|good offices|help|office,125,https://www.synopedia.com/synonym/service
+en,country,noun,nation|region|land|state,126,https://www.synopedia.com/synonym/country
+en,open,adjective,naked|transparent|candid|honest|available,127,https://www.synopedia.com/synonym/open
+en,season,noun,time of year|period,128,https://www.synopedia.com/synonym/season
+en,general,adjective,common|public|usual|regular|universal,129,https://www.synopedia.com/synonym/general
+en,trying,adjective,difficult,130,https://www.synopedia.com/synonym/trying
+en,united,adjective,unified|one|combined|amalgamated|cooperative,131,https://www.synopedia.com/synonym/united
+en,area,noun,field|district|zone|territory|country,132,https://www.synopedia.com/synonym/area
+en,black,adjective,raven|ebony|inky|swarthy|inglorious,133,https://www.synopedia.com/synonym/black
+en,following,adjective,after|subsequent|next|succeeding,134,https://www.synopedia.com/synonym/following
+en,law,noun,legislation|statute|justice|jurisprudence,135,https://www.synopedia.com/synonym/law
+en,together,adverb,jointly|collectively|collaboratively|mutually|simultaneously,136,https://www.synopedia.com/synonym/together
+en,war,noun,warfare|strife|fighting|hostilities,137,https://www.synopedia.com/synonym/war
+en,whole,adjective,entire|total|one|complete|healthy,138,https://www.synopedia.com/synonym/whole
+en,car,noun,vehicle|auto|motor car|wheels|wagon,139,https://www.synopedia.com/synonym/car
+en,face,noun,cheek|boldness|confidence|brass|look,140,https://www.synopedia.com/synonym/face
+en,kind,adjective,gentle|kindly|good|nice,141,https://www.synopedia.com/synonym/kind
+en,maybe,adverb,perhaps|possibly|mayhaps,142,https://www.synopedia.com/synonym/maybe
+en,president,noun,chair|chairperson|chief executive|moderator,143,https://www.synopedia.com/synonym/president
+en,story,noun,novel|narrative|tale|narration|tall tale,144,https://www.synopedia.com/synonym/story
+en,working,adjective,running|functional|operative,145,https://www.synopedia.com/synonym/working
+en,course,noun,class|way|route|medicine,146,https://www.synopedia.com/synonym/course
+en,health,noun,soundness|robustness,147,https://www.synopedia.com/synonym/health
+en,hope,noun,promise|expectation|possibility|anticipation|optimism,148,https://www.synopedia.com/synonym/hope
+en,important,adjective,critical|essential|crucial|significant|relevant,149,https://www.synopedia.com/synonym/important
+en,means,noun,way|method|expedient,150,https://www.synopedia.com/synonym/means
+en,news,noun,information|report|announcement|newscast|newsworthiness,151,https://www.synopedia.com/synonym/news
+en,able,adjective,capable|competent|good|qualified,152,https://www.synopedia.com/synonym/able
+en,book,noun,account|account book|ledger|bible|scripture,153,https://www.synopedia.com/synonym/book
+en,early,adjective,past|previous|old|other|first,154,https://www.synopedia.com/synonym/early
+en,information,noun,news|knowledge|advice|instruction|data,155,https://www.synopedia.com/synonym/information
+en,local,noun,public house|public|pub|tavern,156,https://www.synopedia.com/synonym/local
+en,post,noun,office|place|position|put|mail,157,https://www.synopedia.com/synonym/post
+en,thanks,noun,thank-you|blessing,158,https://www.synopedia.com/synonym/thanks
+en,video,noun,clip|vid|picture|television,159,https://www.synopedia.com/synonym/video
+en,young,adjective,youthful|adolescent|juvenile|boyish|inexperienced,160,https://www.synopedia.com/synonym/young
+en,social,adjective,gregarious|civic|convivial|friendly,161,https://www.synopedia.com/synonym/social
+en,talk,verb,tell|chat|chatter|babble|say,162,https://www.synopedia.com/synonym/talk
+en,court,verb,chase after|entice|suitor,163,https://www.synopedia.com/synonym/court
+en,fact,noun,actuality|truth|reality|act|case,164,https://www.synopedia.com/synonym/fact
+en,given,adjective,disposed|minded|apt|granted|assumed,165,https://www.synopedia.com/synonym/given
+en,half,noun,side|one-half,166,https://www.synopedia.com/synonym/half
+en,hand,noun,paw|side|finger|palm|fist,167,https://www.synopedia.com/synonym/hand
+en,level,noun,stage|zone|world|floor|storey,168,https://www.synopedia.com/synonym/level
+en,mind,noun,brain|head|intellect|reason|idea,169,https://www.synopedia.com/synonym/mind
+en,single,adjective,only|solitary|sole|singular|unmarried,170,https://www.synopedia.com/synonym/single
+en,become,verb,come|come to be|turn into|grow|shape up,171,https://www.synopedia.com/synonym/become
+en,body,noun,substance|person|man|creature|torso,172,https://www.synopedia.com/synonym/body
+en,coming,adjective,future|to come|upcoming|forthcoming,173,https://www.synopedia.com/synonym/coming
+en,control,verb,manage|govern|rule|regulate|moderate,174,https://www.synopedia.com/synonym/control
+en,death,noun,mortality|fatality|doom|expiration|destruction,175,https://www.synopedia.com/synonym/death
+en,food,noun,diet|bread|nourishment|sustenance|nutrient,176,https://www.synopedia.com/synonym/food
+en,guy,noun,man|person|boy|geezer,177,https://www.synopedia.com/synonym/guy
+en,office,noun,religious service|good offices|agency|post|department,178,https://www.synopedia.com/synonym/office
+en,pay,verb,yield|return|recompense|requite|give,179,https://www.synopedia.com/synonym/pay
+en,problem,noun,trouble|dilemma|riddle|puzzle|question,180,https://www.synopedia.com/synonym/problem
+en,south,adjective,southern|southerly|southernmost,181,https://www.synopedia.com/synonym/south
+en,true,adjective,real|genuine|honest|actual|rightful,182,https://www.synopedia.com/synonym/true
+en,almost,adverb,nearly|virtually|practically|well-nigh,183,https://www.synopedia.com/synonym/almost
+en,history,noun,chronicle|annals|account|record|past,184,https://www.synopedia.com/synonym/history
+en,large,adjective,huge|big|massive|enormous|bombastic,185,https://www.synopedia.com/synonym/large
+en,lost,adjective,confused|doomed|cursed|preoccupied|destroyed,186,https://www.synopedia.com/synonym/lost
+en,research,noun,study|investigation|inquiry|exploration,187,https://www.synopedia.com/synonym/research
+en,room,noun,chamber|quarters|space|legroom|apartment,188,https://www.synopedia.com/synonym/room
+en,several,adjective,various|different|multiple|distinct,189,https://www.synopedia.com/synonym/several
+en,taking,adjective,winning|attractive|fetching|engaging,190,https://www.synopedia.com/synonym/taking
+en,university,noun,college|institute|academy|seminary|varsity,191,https://www.synopedia.com/synonym/university
+en,win,verb,get|take|gain|succeed|earn,192,https://www.synopedia.com/synonym/win
+en,wrong,adjective,incorrect|false|bad|inaccurate|amiss,193,https://www.synopedia.com/synonym/wrong
+en,girl,noun,babe|young lady,194,https://www.synopedia.com/synonym/girl
+en,matter,noun,thing|affair|substance|stuff|subject,195,https://www.synopedia.com/synonym/matter
+en,pretty,adjective,good-looking|beautiful|lovely|cute,196,https://www.synopedia.com/synonym/pretty
+en,remember,verb,think|think back|think of|place|keep in mind,197,https://www.synopedia.com/synonym/remember
+en,air,noun,melody|manner|tune|way|atmosphere,198,https://www.synopedia.com/synonym/air
+en,bit,noun,smidge|morsel|trifle|scrap|portion,199,https://www.synopedia.com/synonym/bit
+en,friend,noun,buddy|comrade|companion|associate|supporter,200,https://www.synopedia.com/synonym/friend
+en,hit,verb,reach|make|catch|gain|smash,201,https://www.synopedia.com/synonym/hit
+en,nice,adjective,kind|beautiful|lovely|pleasant|delicious,202,https://www.synopedia.com/synonym/nice
+en,playing,noun,acting|performing,203,https://www.synopedia.com/synonym/playing
+en,probably,adverb,more than likely|possibly|supposedly|reputedly,204,https://www.synopedia.com/synonym/probably
+en,saying,noun,statement|mention|assertion|dictum|adage,205,https://www.synopedia.com/synonym/saying
+en,understand,verb,know|grasp|comprehend|discern|believe,206,https://www.synopedia.com/synonym/understand
+en,class,noun,category|sort|school|family|grade,207,https://www.synopedia.com/synonym/class
+en,close,adjective,near|intimate|immediate|nigh|private,208,https://www.synopedia.com/synonym/close
+en,idea,noun,sense|concept|impression|notion|thought,209,https://www.synopedia.com/synonym/idea
+en,international,adjective,external|outside|global|world-wide,210,https://www.synopedia.com/synonym/international
+en,past,adjective,previous|former|late|old,211,https://www.synopedia.com/synonym/past
+en,possible,adjective,viable|feasible|practicable|likely|conceivable,212,https://www.synopedia.com/synonym/possible
+en,wanted,adjective,precious|cherished|treasured,213,https://www.synopedia.com/synonym/wanted
+en,cause,noun,purpose|motive|aim|intention|reason,214,https://www.synopedia.com/synonym/cause
+en,due,adjective,needed|required|owing|unsettled|attributable,215,https://www.synopedia.com/synonym/due
+en,happy,adjective,glad|delighted|joyful|bright|fortunate,216,https://www.synopedia.com/synonym/happy
+en,human,adjective,fallible|weak|frail,217,https://www.synopedia.com/synonym/human
+en,move,verb,shift|relocate|transfer|change|go,218,https://www.synopedia.com/synonym/move
+en,question,noun,topic|problem|subject|proposition|doubt,219,https://www.synopedia.com/synonym/question
+en,series,noun,sequence|cavalcade|season|serial,220,https://www.synopedia.com/synonym/series
+en,wait,verb,await|linger|look|remain|stop,221,https://www.synopedia.com/synonym/wait
+en,woman,noun,lady|lass|human being|adult,222,https://www.synopedia.com/synonym/woman
+en,ask,verb,question|call for|want|need|seek,223,https://www.synopedia.com/synonym/ask
+en,community,noun,fraternity|society|public|association|people,224,https://www.synopedia.com/synonym/community
+en,data,noun,information|mobile data,225,https://www.synopedia.com/synonym/data
+en,late,adjective,delayed|overdue|belated|tardy|past,226,https://www.synopedia.com/synonym/late
+en,leave,verb,go|depart|go away|go out|give,227,https://www.synopedia.com/synonym/leave
+en,north,adjective,northern|boreal|arctic,228,https://www.synopedia.com/synonym/north
+en,saw,noun,saying,229,https://www.synopedia.com/synonym/saw
+en,special,adjective,particular|extraordinary|exceptional|especial|specific,230,https://www.synopedia.com/synonym/special
+en,watch,verb,attend|observe|find out|learn|take in,231,https://www.synopedia.com/synonym/watch
+en,future,adjective,coming|next|succeeding,232,https://www.synopedia.com/synonym/future
+en,light,adjective,airy|thin|small|insignificant|bright,233,https://www.synopedia.com/synonym/light
+en,low,adjective,poor|cheap|contemptible|degraded|depressed,234,https://www.synopedia.com/synonym/low
+en,morning,noun,daybreak|dawn|sunrise|break of day|forenoon,235,https://www.synopedia.com/synonym/morning
+en,police,noun,law|constabulary|administration,236,https://www.synopedia.com/synonym/police
+en,short,adjective,brief|summary|fleeting|succinct|jejune,237,https://www.synopedia.com/synonym/short
+en,stay,verb,remain|keep|continue|rest|uphold,238,https://www.synopedia.com/synonym/stay
+en,taken,adjective,infatuated|besotted,239,https://www.synopedia.com/synonym/taken
+en,age,noun,senescence|senility|dotage|era|distress,240,https://www.synopedia.com/synonym/age
+en,buy,verb,take on|accept|acquire|procure|bribe,241,https://www.synopedia.com/synonym/buy
+en,deal,noun,lot|good deal|great deal|mess|trade,242,https://www.synopedia.com/synonym/deal
+en,rather,adverb,actually|pretty|quite|somewhat|kinda,243,https://www.synopedia.com/synonym/rather
+en,reason,noun,motive|rationale|consideration|argument|mind,244,https://www.synopedia.com/synonym/reason
+en,red,adjective,scarlet|crimson|carmine|cerise|violent,245,https://www.synopedia.com/synonym/red
+en,report,noun,story|account|news report|statement|study,246,https://www.synopedia.com/synonym/report
+en,soon,adverb,quickly|promptly|imminently,247,https://www.synopedia.com/synonym/soon
+en,third,noun,one-third|tierce,248,https://www.synopedia.com/synonym/third
+en,turn,verb,become|fall|grow|twist|crank,249,https://www.synopedia.com/synonym/turn
+en,check,verb,turn back|hold back|find|find out|mark off,250,https://www.synopedia.com/synonym/check
+en,development,noun,growth|progress|increase|maturation|transformation,251,https://www.synopedia.com/synonym/development
+en,form,noun,human body|shape|process|method|structure,252,https://www.synopedia.com/synonym/form
+en,further,verb,advance|forward|encourage|promote|foster,253,https://www.synopedia.com/synonym/further
+en,heart,noun,spirit|core|essence|marrow|nerve,254,https://www.synopedia.com/synonym/heart
+en,act,noun,turn|action|proceeding|step|deed,255,https://www.synopedia.com/synonym/act
+en,child,noun,youngster|boy|offspring|little one|son,256,https://www.synopedia.com/synonym/child
+en,fire,verb,ignite|kindle|stoke|fuel|discharge,257,https://www.synopedia.com/synonym/fire
+en,fun,noun,entertainment|pleasure|enjoyment|amusement|frolic,258,https://www.synopedia.com/synonym/fun
+en,living,adjective,alive|alive and kicking|vital|active|extant,259,https://www.synopedia.com/synonym/living
+en,major,adjective,considerable|greater|senior|outstanding,260,https://www.synopedia.com/synonym/major
+en,phone,noun,headphone|earpiece|earphone|horn,261,https://www.synopedia.com/synonym/phone
+en,art,noun,artistry|artifice|cunning|subtlety,262,https://www.synopedia.com/synonym/art
+en,behind,noun,after|bottom|back|posterior,263,https://www.synopedia.com/synonym/behind
+en,building,noun,house|construction|erection|edifice,264,https://www.synopedia.com/synonym/building
+en,easy,adjective,smooth|convenient|soft|comfortable|natural,265,https://www.synopedia.com/synonym/easy
+en,market,noun,trade fair|mart|emporium|souq|market-place,266,https://www.synopedia.com/synonym/market
+en,near,adjective,close|adjacent|close by|around the corner|good,267,https://www.synopedia.com/synonym/near
+en,plan,noun,project|design|proposal|scheme|plot,268,https://www.synopedia.com/synonym/plan
+en,political,adjective,national|civic|governmental|politic|public,269,https://www.synopedia.com/synonym/political
+en,quite,adverb,very|completely|entirely|perfectly|rather,270,https://www.synopedia.com/synonym/quite
+en,west,noun,westward|westerly|occident,271,https://www.synopedia.com/synonym/west
+en,available,adjective,free|usable|advantageous|profitable|going,272,https://www.synopedia.com/synonym/available
+en,education,noun,instruction|teaching|schooling|scholarship|training,273,https://www.synopedia.com/synonym/education
+en,final,adjective,last|closing|concluding|latter|terminal,274,https://www.synopedia.com/synonym/final
+en,former,adjective,previous|past|preceding|earlier|old,275,https://www.synopedia.com/synonym/former
+en,front,noun,social movement|presence|battlefront|recto,276,https://www.synopedia.com/synonym/front
+en,list,noun,tip|leaning|tilt|lean,277,https://www.synopedia.com/synonym/list
+en,ready,adjective,prepared|willing|ripe|available|primed,278,https://www.synopedia.com/synonym/ready
+en,sometimes,adverb,now and then|now and again|every so often|occasionally,279,https://www.synopedia.com/synonym/sometimes
+en,son,noun,boy|lad,280,https://www.synopedia.com/synonym/son
+en,street,noun,road|way|boulevard|thoroughfare,281,https://www.synopedia.com/synonym/street
+en,bring,verb,get|draw|add|carry|make for,282,https://www.synopedia.com/synonym/bring
+en,college,noun,university|academy|institution|seminary|department,283,https://www.synopedia.com/synonym/college
+en,current,adjective,up-to-date|prevailing|latest|up-to-the-minute|present,284,https://www.synopedia.com/synonym/current
+en,example,noun,type|model|ideal|exemplar|instance,285,https://www.synopedia.com/synonym/example
+en,experience,verb,have|take|suffer|find|see,286,https://www.synopedia.com/synonym/experience
+en,meet,verb,see|encounter|come together|come across|assemble,287,https://www.synopedia.com/synonym/meet
+en,program,noun,computer program|computer programme|curriculum|syllabus|show,288,https://www.synopedia.com/synonym/program
+en,type,noun,kind|character|style|sort|data type,289,https://www.synopedia.com/synonym/type
+en,baby,noun,pet|darling|doll|sweetie|infant,290,https://www.synopedia.com/synonym/baby
+en,chance,noun,luck|fortune|hazard|venture|possibility,291,https://www.synopedia.com/synonym/chance
+en,father,noun,dad|papa|patriarch|forefather|founder,292,https://www.synopedia.com/synonym/father
+en,march,noun,procession|progression|advance|way|parade,293,https://www.synopedia.com/synonym/march
+en,process,noun,outgrowth|step|operation|method|task,294,https://www.synopedia.com/synonym/process
+en,song,noun,lyric|ballad|chanson,295,https://www.synopedia.com/synonym/song
+en,study,verb,meditate|purpose|contemplate|think about|examine,296,https://www.synopedia.com/synonym/study
+en,word,noun,news|statement|intelligence|expression|watchword,297,https://www.synopedia.com/synonym/word
+en,action,noun,activity|act|force|movement|lawsuit,298,https://www.synopedia.com/synonym/action
+en,clear,adjective,unambiguous|lucid|unequivocal|obvious|vivid,299,https://www.synopedia.com/synonym/clear
+en,outside,adjective,external|foreign|outward|extraneous|out-of-door,300,https://www.synopedia.com/synonym/outside
+en,self,noun,self-interest|ego,301,https://www.synopedia.com/synonym/self
+en,words,noun,row|language|lyric|voice|speech,302,https://www.synopedia.com/synonym/words
+en,board,noun,dining table|committee|panel|circuit board|council,303,https://www.synopedia.com/synonym/board
+en,cost,noun,price|expense|expenditure|outlay,304,https://www.synopedia.com/synonym/cost
+en,cut,verb,reduce|pare|lop|shorten|trim,305,https://www.synopedia.com/synonym/cut
+en,dr,noun,doctor|physician,306,https://www.synopedia.com/synonym/dr
+en,field,noun,area|arena|realm|sphere|ground,307,https://www.synopedia.com/synonym/field
+en,instead,adverb,rather|alternatively|in lieu,308,https://www.synopedia.com/synonym/instead
+en,main,adjective,principal|primary|major|central,309,https://www.synopedia.com/synonym/main
+en,moment,noun,no time|while|minute|juncture|matter,310,https://www.synopedia.com/synonym/moment
+en,mother,noun,matron|matriarch|mammy,311,https://www.synopedia.com/synonym/mother
+en,road,noun,street|track|route|highway|parade,312,https://www.synopedia.com/synonym/road
+en,thinking,noun,thought|thought process|belief|musing,313,https://www.synopedia.com/synonym/thinking
+en,town,noun,central business district|township|hamlet|metropolis|townsfolk,314,https://www.synopedia.com/synonym/town
+en,department,noun,district|division|branch|bailiwick|ministry,315,https://www.synopedia.com/synonym/department
+en,energy,noun,power|vitality|vim|verve|push,316,https://www.synopedia.com/synonym/energy
+en,fight,noun,battle|conflict|war|quarrel|combat,317,https://www.synopedia.com/synonym/fight
+en,fine,adjective,nice|thin|good|excellent|okay,318,https://www.synopedia.com/synonym/fine
+en,force,noun,strength|might|energy|impetus|pressure,319,https://www.synopedia.com/synonym/force
+en,hear,verb,find|read|understand|learn|listen,320,https://www.synopedia.com/synonym/hear
+en,issue,noun,upshot|return|proceeds|question|way out,321,https://www.synopedia.com/synonym/issue
+en,price,noun,cost|expense|outlay|fee|user charge,322,https://www.synopedia.com/synonym/price
+en,rest,noun,peace|quiet|still|stillness|repose,323,https://www.synopedia.com/synonym/rest
+en,running,adjective,working|functioning|linear|runny,324,https://www.synopedia.com/synonym/running
+en,space,noun,time|interval|way|duration|room,325,https://www.synopedia.com/synonym/space
+en,term,noun,period|word|full term|appellation,326,https://www.synopedia.com/synonym/term
+en,wife,noun,woman|matron,327,https://www.synopedia.com/synonym/wife
+en,beautiful,adjective,lovely|gorgeous|pretty|exquisite,328,https://www.synopedia.com/synonym/beautiful
+en,date,verb,age|period|epoch,329,https://www.synopedia.com/synonym/date
+en,land,noun,state|region|nation|district|property,330,https://www.synopedia.com/synonym/land
+en,miss,verb,overlook|leave out|skip|omit,331,https://www.synopedia.com/synonym/miss
+en,project,verb,launch|picture|fancy,332,https://www.synopedia.com/synonym/project
+en,shot,noun,dig|slam|shaft|jibe|dead reckoning,333,https://www.synopedia.com/synonym/shot
+en,site,noun,website,334,https://www.synopedia.com/synonym/site
+en,strong,adjective,powerful|forceful|robust|heavy|muscular,335,https://www.synopedia.com/synonym/strong
+en,account,noun,explanation|vignette|report|book|balance,336,https://www.synopedia.com/synonym/account
+en,especially,adverb,particularly|specially|chiefly|specifically,337,https://www.synopedia.com/synonym/especially
+en,include,verb,contain|involve|comprise|encompass,338,https://www.synopedia.com/synonym/include
+en,period,noun,season|term|duration|interval|menstrual cycle,339,https://www.synopedia.com/synonym/period
+en,position,noun,stance|posture|asana|situation|view,340,https://www.synopedia.com/synonym/position
+en,record,noun,phonograph record|disc|vinyl|wax|account,341,https://www.synopedia.com/synonym/record
+en,similar,adjective,analogous|same|akin|comparable|like,342,https://www.synopedia.com/synonym/similar
+en,total,adjective,complete|full|entire|whole,343,https://www.synopedia.com/synonym/total
+en,club,noun,society|social club|lodge|guild|night spot,344,https://www.synopedia.com/synonym/club
+en,common,adjective,ordinary|familiar|frequent|usual|popular,345,https://www.synopedia.com/synonym/common
+en,film,noun,picture|motion picture,346,https://www.synopedia.com/synonym/film
+en,lead,verb,take|conduct|direct|guide|pass,347,https://www.synopedia.com/synonym/lead
+en,likely,adjective,possible|probable|suitable|promising,348,https://www.synopedia.com/synonym/likely
+en,military,adjective,soldier-like|martial|warlike|militaristic|soldierly,349,https://www.synopedia.com/synonym/military
+en,perfect,adjective,ideal|exquisite|immaculate|consummate|impeccable,350,https://www.synopedia.com/synonym/perfect
+en,personal,noun,private|individual|particular|intimate,351,https://www.synopedia.com/synonym/personal
+en,security,noun,surety|guarantee|assurance|pledge|protection,352,https://www.synopedia.com/synonym/security
+en,share,noun,part|portion|interest|percentage,353,https://www.synopedia.com/synonym/share
+en,tv,noun,television|television receiver,354,https://www.synopedia.com/synonym/tv
+en,center,noun,heart|core|nucleus|heart and soul|plaza,355,https://www.synopedia.com/synonym/center
+en,county,noun,local administrative unit|shire|xian|hsien|sanjak,356,https://www.synopedia.com/synonym/county
+en,couple,verb,attach|wed|pair off,357,https://www.synopedia.com/synonym/couple
+en,dead,adjective,beat|bushed|deceased|lifeless,358,https://www.synopedia.com/synonym/dead
+en,happen,verb,come about|take place|come to pass|occur,359,https://www.synopedia.com/synonym/happen
+en,hold,verb,take|grasp|grip|cling|keep,360,https://www.synopedia.com/synonym/hold
+en,industry,noun,diligence|application|industriousness|attention|sector,361,https://www.synopedia.com/synonym/industry
+en,inside,adverb,within|deep down|internally|indoors,362,https://www.synopedia.com/synonym/inside
+en,player,noun,actor|thespian|role player|comedian|musician,363,https://www.synopedia.com/synonym/player
+en,private,adjective,confidential|secluded|secret|hidden|personal,364,https://www.synopedia.com/synonym/private
+en,return,verb,come back|send back|bring back|turn back|give back,365,https://www.synopedia.com/synonym/return
+en,sense,noun,feeling|idea|apprehension|mind|common sense,366,https://www.synopedia.com/synonym/sense
+en,star,noun,celebrity|idol|luminary|lead|principal,367,https://www.synopedia.com/synonym/star
+en,test,noun,trial|trial run|experiment|chance|item,368,https://www.synopedia.com/synonym/test
+en,view,noun,opinion|sight|observation|vista|panorama,369,https://www.synopedia.com/synonym/view
+en,break,verb,fail|give way|let out|give out|smash,370,https://www.synopedia.com/synonym/break
+en,event,noun,outcome|incident|occurrence|match|phenomenon,371,https://www.synopedia.com/synonym/event
+en,hour,noun,time of day|minute|hr,372,https://www.synopedia.com/synonym/hour
+en,member,noun,part|limb|portion|segment|virile member,373,https://www.synopedia.com/synonym/member
+en,middle,adjective,in-between|mediate,374,https://www.synopedia.com/synonym/middle
+en,needed,adjective,necessary|requisite|required|essential,375,https://www.synopedia.com/synonym/needed
+en,present,verb,gift|give|bestow|hand|show,376,https://www.synopedia.com/synonym/present
+en,result,noun,outcome|consequence|effect|upshot|resolution,377,https://www.synopedia.com/synonym/result
+en,sorry,adjective,unhappy|miserable|melancholy|dismal|pitiful,378,https://www.synopedia.com/synonym/sorry
+en,training,noun,education|practice|teaching|exercise|dressage,379,https://www.synopedia.com/synonym/training
+en,wish,noun,desire|will|mind|pleasure,380,https://www.synopedia.com/synonym/wish
+en,answer,verb,do|serve|suit|suffice,381,https://www.synopedia.com/synonym/answer
+en,boy,noun,cat|youth|lad|chap|son,382,https://www.synopedia.com/synonym/boy
+en,design,noun,pattern|model|shape|devise|aim,383,https://www.synopedia.com/synonym/design
+en,finally,adverb,last|ultimately|lastly|completely|totally,384,https://www.synopedia.com/synonym/finally
+en,gold,noun,metal|platinum|bullion|ingot|money,385,https://www.synopedia.com/synonym/gold
+en,gone,adjective,used up|played out|spent|exhausted|lost,386,https://www.synopedia.com/synonym/gone
+en,guess,verb,suppose|reckon|surmise|imagine|pretend,387,https://www.synopedia.com/synonym/guess
+en,interest,noun,benefit|income|cost of money|advantage|pursuit,388,https://www.synopedia.com/synonym/interest
+en,king,noun,baron|power|magnate|mogul|monarch,389,https://www.synopedia.com/synonym/king
+en,learn,verb,find|discover|know|understand|read,390,https://www.synopedia.com/synonym/learn
+en,policy,noun,insurance|insurance policy|system|plan|management,391,https://www.synopedia.com/synonym/policy
+en,society,noun,order|community|club|social club|company,392,https://www.synopedia.com/synonym/society
+en,alone,adjective,unaccompanied|available|unattached|lonely|solitary,393,https://www.synopedia.com/synonym/alone
+en,average,adjective,mediocre|middling|moderate|fair|common,394,https://www.synopedia.com/synonym/average
+en,bank,noun,block|panel|grid|shore|banker,395,https://www.synopedia.com/synonym/bank
+en,certain,adjective,sure|definite|confident|positive,396,https://www.synopedia.com/synonym/certain
+en,church,noun,temple|chapel|house of worship|congregation|cathedral,397,https://www.synopedia.com/synonym/church
+en,east,adjective,eastern|eastward|easterly|easternmost,398,https://www.synopedia.com/synonym/east
+en,hot,adjective,scorching|red-hot|fiery|sizzling|sultry,399,https://www.synopedia.com/synonym/hot
+en,medical,adjective,therapeutic|medicinal|curative|nonoperative,400,https://www.synopedia.com/synonym/medical
+en,movie,noun,film|picture|motion picture|photoplay,401,https://www.synopedia.com/synonym/movie
+en,original,adjective,primary|first|initial|seminal|creative,402,https://www.synopedia.com/synonym/original
+en,park,noun,plaza|garden|courtyard|parking area|parking lot,403,https://www.synopedia.com/synonym/park
+en,performance,noun,operation|production|work|achievement|execution,404,https://www.synopedia.com/synonym/performance
+en,press,verb,contract|constrict|urge on|bid|hit,405,https://www.synopedia.com/synonym/press
+en,received,adjective,accepted,406,https://www.synopedia.com/synonym/received
+en,role,noun,character|purpose|function|capacity|actor,407,https://www.synopedia.com/synonym/role
+en,tried,adjective,well-tried|time-tested|stressed,408,https://www.synopedia.com/synonym/tried
+en,worth,noun,price|value|quality|merit,409,https://www.synopedia.com/synonym/worth
+en,bill,noun,poster|placard|card|broadside|note,410,https://www.synopedia.com/synonym/bill
+en,cool,adjective,temperate|nonchalant|sober|moderate|fresh,411,https://www.synopedia.com/synonym/cool
+en,director,noun,chief|officer|manager|boss|board member,412,https://www.synopedia.com/synonym/director
+en,exactly,adverb,precisely|just|perfectly|right,413,https://www.synopedia.com/synonym/exactly
+en,giving,adjective,generous|big|liberal,414,https://www.synopedia.com/synonym/giving
+en,ground,noun,land|dry land|soil|turf|field,415,https://www.synopedia.com/synonym/ground
+en,meeting,noun,conference|gathering|meet-up|appointment|rendezvous,416,https://www.synopedia.com/synonym/meeting
+en,provide,verb,give|offer|furnish|contribute|allow,417,https://www.synopedia.com/synonym/provide
+en,relationship,noun,relation|alliance|kinship|connection,418,https://www.synopedia.com/synonym/relationship
+en,sound,adjective,healthy|strong|whole|solid|well-grounded,419,https://www.synopedia.com/synonym/sound
+en,source,noun,origin|root|beginning|cause|storehouse,420,https://www.synopedia.com/synonym/source
+en,usually,adverb,generally|normally|commonly|ordinarily|customarily,421,https://www.synopedia.com/synonym/usually
+en,value,verb,price|appraise|assess|evaluate|respect,422,https://www.synopedia.com/synonym/value
+en,evidence,verb,demonstrate|attest|indicate|evince|witness,423,https://www.synopedia.com/synonym/evidence
+en,follow,verb,trail|track|go after|seek|come after,424,https://www.synopedia.com/synonym/follow
+en,official,adjective,formal|authorized|approved|authoritative,425,https://www.synopedia.com/synonym/official
+en,ok,adjective,all right|cool|okay|hunky-dory,426,https://www.synopedia.com/synonym/ok
+en,production,noun,produce|manufacture|output|work|extension,427,https://www.synopedia.com/synonym/production
+en,rate,verb,cost|price|value|tax|respect,428,https://www.synopedia.com/synonym/rate
+en,reading,noun,recitation|calculation|perusal|pericope,429,https://www.synopedia.com/synonym/reading
+en,round,adjective,rotund|plump|globular|global|circular,430,https://www.synopedia.com/synonym/round
+en,save,verb,bring through|pull through|carry through|salvage|relieve,431,https://www.synopedia.com/synonym/save
+en,stand,verb,bear|tolerate|endure|suffer|resist,432,https://www.synopedia.com/synonym/stand
+en,stuff,noun,junk|twaddle|balderdash|gist|paraphernalia,433,https://www.synopedia.com/synonym/stuff
+en,tax,noun,levy|excise|imposition|impost|fee,434,https://www.synopedia.com/synonym/tax
+en,amount,noun,total|sum|sum total|substance|measure,435,https://www.synopedia.com/synonym/amount
+en,blue,adjective,drab|livid|dingy|juicy|gamey,436,https://www.synopedia.com/synonym/blue
+en,drive,verb,push|run|spur|propel|require,437,https://www.synopedia.com/synonym/drive
+en,eat,verb,consume|have|chew|swallow|use up,438,https://www.synopedia.com/synonym/eat
+en,fall,verb,drop|come down|descend|lower|come,439,https://www.synopedia.com/synonym/fall
+en,fast,adjective,swift|quick|rapid|speedy|profligate,440,https://www.synopedia.com/synonym/fast
+en,federal,adjective,national,441,https://www.synopedia.com/synonym/federal
+en,feeling,noun,emotion|impression|sensation|sense|touch,442,https://www.synopedia.com/synonym/feeling
+en,green,adjective,new|fresh|blooming|virgin|unseasoned,443,https://www.synopedia.com/synonym/green
+en,league,noun,union|federation|confederation|conference,444,https://www.synopedia.com/synonym/league
+en,management,noun,administration|agency|policy|treatment|manipulation,445,https://www.synopedia.com/synonym/management
+en,match,verb,fit|correspond|suit|agree|mate,446,https://www.synopedia.com/synonym/match
+en,model,noun,example|pattern|exemplar|paradigm|manikin,447,https://www.synopedia.com/synonym/model
+en,picture,noun,image|portrait|icon|illustration|movie,448,https://www.synopedia.com/synonym/picture
+en,size,noun,bulk|dimension|magnitude|largeness|scale,449,https://www.synopedia.com/synonym/size
+en,step,noun,whole tone|stride|footstep|process|stage,450,https://www.synopedia.com/synonym/step
+en,trust,noun,confidence|faith|belief|assurance|hope,451,https://www.synopedia.com/synonym/trust
+en,central,adjective,important|key|vital|crucial|main,452,https://www.synopedia.com/synonym/central
+en,forward,adjective,fresh|bold|cheeky|presumptuous|front,453,https://www.synopedia.com/synonym/forward
+en,key,noun,keystone|headstone|clue|answer key,454,https://www.synopedia.com/synonym/key
+en,mom,noun,mother|old lady|mommy|momma,455,https://www.synopedia.com/synonym/mom
+en,page,noun,folio|sheet|thumb|varlet,456,https://www.synopedia.com/synonym/page
+en,paid,adjective,for-pay|prepaid|salaried|gainful,457,https://www.synopedia.com/synonym/paid
+en,range,verb,order|course|rate|sort|roam,458,https://www.synopedia.com/synonym/range
+en,review,noun,reassessment|revaluation|follow-up|re-examination|recap,459,https://www.synopedia.com/synonym/review
+en,science,noun,knowledge|learning|sci,460,https://www.synopedia.com/synonym/science
+en,trade,verb,sell|bargain|dicker|chaffer|exchange,461,https://www.synopedia.com/synonym/trade
+en,various,adjective,different|several|numerous|miscellaneous,462,https://www.synopedia.com/synonym/various
+en,attention,noun,heed|respect|consideration|reflection|care,463,https://www.synopedia.com/synonym/attention
+en,brother,noun,comrade|friar,464,https://www.synopedia.com/synonym/brother
+en,character,noun,type|eccentric|tone|temperament|name,465,https://www.synopedia.com/synonym/character
+en,chief,noun,head|leader|director|boss|chieftain,466,https://www.synopedia.com/synonym/chief
+en,cup,noun,mug|chalice|beaker|tankard|suction cup,467,https://www.synopedia.com/synonym/cup
+en,football,noun,black box|black bag|nuclear football|atomic football|international football,468,https://www.synopedia.com/synonym/football
+en,hate,noun,hatred|dislike|animosity,469,https://www.synopedia.com/synonym/hate
+en,lower,verb,reduce|decrease|drop|lessen|bring down,470,https://www.synopedia.com/synonym/lower
+en,natural,adjective,normal|simple|regular|unaffected|innate,471,https://www.synopedia.com/synonym/natural
+en,property,noun,estate|land|parcel|attribute|dimension,472,https://www.synopedia.com/synonym/property
+en,quality,noun,characteristic|condition|character|kind|tone,473,https://www.synopedia.com/synonym/quality
+en,send,verb,pass|bring to pass|bring about|throw|transmit,474,https://www.synopedia.com/synonym/send
+en,style,noun,form of address|term of address|flair|panache|fashion,475,https://www.synopedia.com/synonym/style
+en,vote,noun,ballot|balloting|suffrage|enfranchisement|poll,476,https://www.synopedia.com/synonym/vote
+en,amazing,adjective,awesome|wonderful|astonishing|astounding|first-rate,477,https://www.synopedia.com/synonym/amazing
+en,august,adjective,grand|noble|royal|dignified|venerable,478,https://www.synopedia.com/synonym/august
+en,blood,noun,background|heritage|bloodline|parentage|rip,479,https://www.synopedia.com/synonym/blood
+en,china,noun,porcelain,480,https://www.synopedia.com/synonym/china
+en,complete,adjective,full|total|utter|perfect|entire,481,https://www.synopedia.com/synonym/complete
+en,dog,noun,hound|heel|fool|cad|frank,482,https://www.synopedia.com/synonym/dog
+en,economic,adjective,low-cost|competitive|economical|penny-pinching,483,https://www.synopedia.com/synonym/economic
+en,hell,noun,inferno|perdition|abyss|pit|nether world,484,https://www.synopedia.com/synonym/hell
+en,involved,adjective,complex|complicated|tangled|convoluted|interested,485,https://www.synopedia.com/synonym/involved
+en,language,noun,vocabulary|terminology|dialect|phraseology|words,486,https://www.synopedia.com/synonym/language
+en,lord,noun,nobleman|noble|feudal lord|magnate|master,487,https://www.synopedia.com/synonym/lord
+en,oil,noun,gas|crude|crude oil|petroleum|vegetable oil,488,https://www.synopedia.com/synonym/oil
+en,related,adjective,allied|akin|correlated|cognate|affiliated,489,https://www.synopedia.com/synonym/related
+en,serious,adjective,severe|grave|critical|dangerous|earnest,490,https://www.synopedia.com/synonym/serious
+en,stage,noun,level|tier|step|leg|phase,491,https://www.synopedia.com/synonym/stage
+en,title,noun,form of address|designation|epithet|denominate|crown,492,https://www.synopedia.com/synonym/title
+en,add,verb,sum|cast|sum up|cast up|join,493,https://www.synopedia.com/synonym/add
+en,article,noun,thing|particular|item|news item|piece,494,https://www.synopedia.com/synonym/article
+en,attack,verb,assault|assail|strike|storm|denounce,495,https://www.synopedia.com/synonym/attack
+en,decided,adjective,determined|firm|decisive|clear,496,https://www.synopedia.com/synonym/decided
+en,decision,noun,conclusion|determination|verdict|choice,497,https://www.synopedia.com/synonym/decision
+en,enjoy,verb,like|delight in|appreciate|revel,498,https://www.synopedia.com/synonym/enjoy
+en,entire,adjective,whole|total|overall|unbroken|complex-differentiable,499,https://www.synopedia.com/synonym/entire
+en,kill,verb,put to death|murder|slaughter|assassinate|destroy,500,https://www.synopedia.com/synonym/kill

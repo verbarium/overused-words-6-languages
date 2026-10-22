@@ -1,0 +1,501 @@
+language,word,part_of_speech,alternatives,frequency_rank,url
+ca,ara,adverb,avui|avui dia|actualment|hui dia,1,https://www.synopedia.com/ca/sinonim/ara
+ca,dia,noun,jornada|jorn|temps|data,2,https://www.synopedia.com/ca/sinonim/dia
+ca,gran,adjective,important|enorme|ampli|immens|primer,3,https://www.synopedia.com/ca/sinonim/gran
+ca,només,adverb,sols|tot just|solament|únicament,4,https://www.synopedia.com/ca/sinonim/nom%C3%A9s
+ca,any,noun,anyada|curs|exercici|temporada,5,https://www.synopedia.com/ca/sinonim/any
+ca,part,noun,banda|regió|meitat|secció|paper,6,https://www.synopedia.com/ca/sinonim/part
+ca,gent,noun,persones|poble|massa,7,https://www.synopedia.com/ca/sinonim/gent
+ca,dir,verb,fer|parlar|afirmar|assegurar,8,https://www.synopedia.com/ca/sinonim/dir
+ca,veure,verb,trobar|mirar|descobrir|considerar|visitar,9,https://www.synopedia.com/ca/sinonim/veure
+ca,lloc,noun,ubicació|indret|paratge|emplaçament,10,https://www.synopedia.com/ca/sinonim/lloc
+ca,temps,noun,dia|moment|hora|època|oratge,11,https://www.synopedia.com/ca/sinonim/temps
+ca,manera,noun,forma|estil|moda|mode|via,12,https://www.synopedia.com/ca/sinonim/manera
+ca,món,noun,natura|naturalesa|univers|cosmos|terra,13,https://www.synopedia.com/ca/sinonim/m%C3%B3n
+ca,govern,noun,estat|administració|règim|autoritat|governació,14,https://www.synopedia.com/ca/sinonim/govern
+ca,bé,adverb,ben|d'acord|prou,15,https://www.synopedia.com/ca/sinonim/b%C3%A9
+ca,ciutat,noun,plaça|població|metròpoli|urbs,16,https://www.synopedia.com/ca/sinonim/ciutat
+ca,millor,adjective,superior|preferible|òptim|més bo,17,https://www.synopedia.com/ca/sinonim/millor
+ca,vida,noun,temps|viure|edat|existència|alegria,18,https://www.synopedia.com/ca/sinonim/vida
+ca,tenir,verb,presentar|comptar|posseir|sustentar|patir,19,https://www.synopedia.com/ca/sinonim/tenir
+ca,país,noun,estat|poble|república|nació,20,https://www.synopedia.com/ca/sinonim/pa%C3%ADs
+ca,passat,noun,pretèrit|antigor|temps enrere|història,21,https://www.synopedia.com/ca/sinonim/passat
+ca,casa,noun,pis|llar|residència|vivenda|mas,22,https://www.synopedia.com/ca/sinonim/casa
+ca,sant,noun,imatge|gravat|estampa|onomàstica,23,https://www.synopedia.com/ca/sinonim/sant
+ca,història,noun,relació|crònica|relat|narració|mentida,24,https://www.synopedia.com/ca/sinonim/hist%C3%B2ria
+ca,avui,adverb,ara|ara per ara|ara com ara|a hores d'ara,25,https://www.synopedia.com/ca/sinonim/avui
+ca,donar,verb,oferir|portar|aportar|presentar|assestar,26,https://www.synopedia.com/ca/sinonim/donar
+ca,grup,noun,banda|conjunt|colla|agrupació|pilot,27,https://www.synopedia.com/ca/sinonim/grup
+ca,cosa,noun,fet|assumpte|objecte,28,https://www.synopedia.com/ca/sinonim/cosa
+ca,anar,verb,sortir|portar|marxar|viatjar|muntar,29,https://www.synopedia.com/ca/sinonim/anar
+ca,cas,noun,fet|història|ocasió|episodi,30,https://www.synopedia.com/ca/sinonim/cas
+ca,forma,noun,manera|mena|estil|figura|estructura,31,https://www.synopedia.com/ca/sinonim/forma
+ca,partit,noun,joc|encontre|matx|bàndol,32,https://www.synopedia.com/ca/sinonim/partit
+ca,moment,noun,temps|punt|segon|instant,33,https://www.synopedia.com/ca/sinonim/moment
+ca,president,noun,director|conductor|patró|gerent,34,https://www.synopedia.com/ca/sinonim/president
+ca,mort,noun,desaparició|defunció|decés|òbit|assassinat,35,https://www.synopedia.com/ca/sinonim/mort
+ca,vol,noun,esbart|volada|bandada|ramada|toc,36,https://www.synopedia.com/ca/sinonim/vol
+ca,guerra,noun,lluita|enfrontament|contesa|hostilitats|bel·ligerància,37,https://www.synopedia.com/ca/sinonim/guerra
+ca,poble,noun,gent|país|terra|nació|llogaret,38,https://www.synopedia.com/ca/sinonim/poble
+ca,cop,noun,xoc|topada|patacada|trompada|mal,39,https://www.synopedia.com/ca/sinonim/cop
+ca,suport,noun,favor|ajuda|assistència|ajut|base,40,https://www.synopedia.com/ca/sinonim/suport
+ca,ben,adverb,molt|bé|prou|bastant,41,https://www.synopedia.com/ca/sinonim/ben
+ca,nit,noun,matinada|vespre|capvespre|fosca|obscuritat,42,https://www.synopedia.com/ca/sinonim/nit
+ca,nom,noun,denominació|apel·lació|apel·latiu|epítet|reputació,43,https://www.synopedia.com/ca/sinonim/nom
+ca,punt,noun,lloc|indret|marca|senyal|mica,44,https://www.synopedia.com/ca/sinonim/punt
+ca,família,noun,casa|classe|nissaga|parentela,45,https://www.synopedia.com/ca/sinonim/fam%C3%ADlia
+ca,hora,noun,temps|moment,46,https://www.synopedia.com/ca/sinonim/hora
+ca,informació,noun,nova|comunicació|notícia|dada,47,https://www.synopedia.com/ca/sinonim/informaci%C3%B3
+ca,projecte,noun,programa|disseny|propòsit|esquema,48,https://www.synopedia.com/ca/sinonim/projecte
+ca,vegada,noun,cop|volta|ocasió|pic,49,https://www.synopedia.com/ca/sinonim/vegada
+ca,feina,noun,treball|ocupació|tasca|labor,50,https://www.synopedia.com/ca/sinonim/feina
+ca,acord,noun,tracte|pacte|conveni|entesa|judici,51,https://www.synopedia.com/ca/sinonim/acord
+ca,política,noun,estratègia|pla|línia d'actuació|tàctica,52,https://www.synopedia.com/ca/sinonim/pol%C3%ADtica
+ca,arribar,verb,aconseguir|venir|assolir|resultar,53,https://www.synopedia.com/ca/sinonim/arribar
+ca,dona,noun,senyora|muller|esposa|femella|cònjuge,54,https://www.synopedia.com/ca/sinonim/dona
+ca,final,noun,cap|fi|conclusió|finalització,55,https://www.synopedia.com/ca/sinonim/final
+ca,trobar,verb,veure|aconseguir|descobrir|considerar|pensar,56,https://www.synopedia.com/ca/sinonim/trobar
+ca,centre,noun,mig|cor|nucli|focus|cos,57,https://www.synopedia.com/ca/sinonim/centre
+ca,equip,noun,equipament|vestuari|equipatge|equipació|grup,58,https://www.synopedia.com/ca/sinonim/equip
+ca,nord,noun,tramuntana|septentrió,59,https://www.synopedia.com/ca/sinonim/nord
+ca,posar,verb,situar|deixar|ubicar|muntar|asseure,60,https://www.synopedia.com/ca/sinonim/posar
+ca,començar,verb,néixer|iniciar|estrenar|emprendre|debutar,61,https://www.synopedia.com/ca/sinonim/comen%C3%A7ar
+ca,escola,noun,institut|estudi|col·legi|acadèmia|programa,62,https://www.synopedia.com/ca/sinonim/escola
+ca,general,adjective,global|complet|ampli|públic,63,https://www.synopedia.com/ca/sinonim/general
+ca,clar,adjective,evident|transparent|lluminós|net|definit,64,https://www.synopedia.com/ca/sinonim/clar
+ca,parlar,verb,dir|xerrar|conversar|dialogar,65,https://www.synopedia.com/ca/sinonim/parlar
+ca,nacional,adjective,estatal|general|patri|nadiu,66,https://www.synopedia.com/ca/sinonim/nacional
+ca,social,adjective,cívic|comunitari|grupal|comunal,67,https://www.synopedia.com/ca/sinonim/social
+ca,pas,noun,entrada|accés|marxa|port|fet,68,https://www.synopedia.com/ca/sinonim/pas
+ca,tipus,noun,ordre|classe|mena|espècie|part,69,https://www.synopedia.com/ca/sinonim/tipus
+ca,important,adjective,gran|destacat|crucial|significatiu|fascinant,70,https://www.synopedia.com/ca/sinonim/important
+ca,potser,adverb,tal vegada|qui sap|tal volta|belleu,71,https://www.synopedia.com/ca/sinonim/potser
+ca,treball,noun,feina|ocupació|tasca|exercici|obra,72,https://www.synopedia.com/ca/sinonim/treball
+ca,programa,noun,projecte|sistema|pla|programació|horari,73,https://www.synopedia.com/ca/sinonim/programa
+ca,banda,noun,part|grup|companyia|conjunt|vora,74,https://www.synopedia.com/ca/sinonim/banda
+ca,carrer,noun,passeig|avinguda|calçada|artèria,75,https://www.synopedia.com/ca/sinonim/carrer
+ca,dret,noun,llibertat|poder|facultat|lliure arbitri|legalitat,76,https://www.synopedia.com/ca/sinonim/dret
+ca,internacional,adjective,mundial|global|universal|estranger,77,https://www.synopedia.com/ca/sinonim/internacional
+ca,públic,adjective,general|comú|universal|comunal|popular,78,https://www.synopedia.com/ca/sinonim/p%C3%BAblic
+ca,rei,noun,estimat|amor|sol,79,https://www.synopedia.com/ca/sinonim/rei
+ca,sistema,noun,ordre|mètode|disposició|ordenació|art,80,https://www.synopedia.com/ca/sinonim/sistema
+ca,cultura,noun,conreu|cultiu,81,https://www.synopedia.com/ca/sinonim/cultura
+ca,llengua,noun,parlar|parla|llenguatge|idioma,82,https://www.synopedia.com/ca/sinonim/llengua
+ca,força,noun,poder|violència|intensitat|fortalesa|esperit,83,https://www.synopedia.com/ca/sinonim/for%C3%A7a
+ca,llibertat,noun,dret|lliure albir|lliure arbitri|permís|autonomia,84,https://www.synopedia.com/ca/sinonim/llibertat
+ca,partir,verb,deixar|sortir|abandonar|separar,85,https://www.synopedia.com/ca/sinonim/partir
+ca,passar,verb,donar|entrar|traspassar|ultrapassar|ser,86,https://www.synopedia.com/ca/sinonim/passar
+ca,problema,noun,dificultat|qüestió|inconvenient|complicació|dubte,87,https://www.synopedia.com/ca/sinonim/problema
+ca,terra,noun,terreny|horta|conreu|cultiu|nació,88,https://www.synopedia.com/ca/sinonim/terra
+ca,través,noun,distància|ample|amplada|amplària|contrast,89,https://www.synopedia.com/ca/sinonim/trav%C3%A9s
+ca,compte,noun,càlcul|recompte|factura|nota|esment,90,https://www.synopedia.com/ca/sinonim/compte
+ca,educació,noun,formació|pràctica|instrucció|alfabetització|ensenyament,91,https://www.synopedia.com/ca/sinonim/educaci%C3%B3
+ca,exemple,noun,mostra|model|exemplar|exponent|lliçó,92,https://www.synopedia.com/ca/sinonim/exemple
+ca,fill,noun,descendent|nen|hereu|criatura|noi,93,https://www.synopedia.com/ca/sinonim/fill
+ca,llei,noun,constitució|estatut|legislació|jurisprudència|consideració,94,https://www.synopedia.com/ca/sinonim/llei
+ca,persona,noun,individu|ésser humà|subjecte|home|personatge,95,https://www.synopedia.com/ca/sinonim/persona
+ca,procés,noun,causa|judici|procediment|litigi|desenvolupament,96,https://www.synopedia.com/ca/sinonim/proc%C3%A9s
+ca,societat,noun,empresa|club|associació|companyia|món,97,https://www.synopedia.com/ca/sinonim/societat
+ca,abril,noun,primavera|joventut,98,https://www.synopedia.com/ca/sinonim/abril
+ca,aconseguir,verb,obtenir|assolir|lograr|atènyer|arribar,99,https://www.synopedia.com/ca/sinonim/aconseguir
+ca,canvi,noun,millora|modificació|variació|alteració|intercanvi,100,https://www.synopedia.com/ca/sinonim/canvi
+ca,costat,noun,part|banda|vora|flanc,101,https://www.synopedia.com/ca/sinonim/costat
+ca,deixar,verb,abandonar|prestar|permetre|llegar|sortir,102,https://www.synopedia.com/ca/sinonim/deixar
+ca,policia,noun,oficial|municipal|guàrdia|agent,103,https://www.synopedia.com/ca/sinonim/policia
+ca,saber,noun,coneixement|coneixements|sapiència|saviesa,104,https://www.synopedia.com/ca/sinonim/saber
+ca,sol,adjective,sec|pelat|despullat|eixut|solitari,105,https://www.synopedia.com/ca/sinonim/sol
+ca,plaça,noun,ciutat|localitat|pla|placeta,106,https://www.synopedia.com/ca/sinonim/pla%C3%A7a
+ca,població,noun,ciutat|poble|vila|vilatge|habitants,107,https://www.synopedia.com/ca/sinonim/poblaci%C3%B3
+ca,veu,noun,crit|clam|clamor|articulació|fonació,108,https://www.synopedia.com/ca/sinonim/veu
+ca,drets,noun,taxa|quota|tarifa,109,https://www.synopedia.com/ca/sinonim/drets
+ca,major,adjective,gran|elevat|degà|madur|superior,110,https://www.synopedia.com/ca/sinonim/major
+ca,camí,noun,ruta|carretera|recorregut|itinerari|vida,111,https://www.synopedia.com/ca/sinonim/cam%C3%AD
+ca,tornar,verb,retornar|regressar|restituir|tornar a fer|fer,112,https://www.synopedia.com/ca/sinonim/tornar
+ca,universitat,noun,facultat|acadèmia|campus|estudi general,113,https://www.synopedia.com/ca/sinonim/universitat
+ca,article,noun,escrit|text|crònica|reportatge|relat,114,https://www.synopedia.com/ca/sinonim/article
+ca,camp,noun,sector|àrea|àmbit|disciplina|campanya,115,https://www.synopedia.com/ca/sinonim/camp
+ca,empresa,noun,casa|societat|companyia|negoci|tasca,116,https://www.synopedia.com/ca/sinonim/empresa
+ca,llibre,noun,publicació|registre|volum|exemplar,117,https://www.synopedia.com/ca/sinonim/llibre
+ca,majoria,noun,gros|gruix|major part|generalitat,118,https://www.synopedia.com/ca/sinonim/majoria
+ca,mica,noun,miqueta|gota|pessic|engruna,119,https://www.synopedia.com/ca/sinonim/mica
+ca,música,noun,cançó|himne|balada|virolai|coral,120,https://www.synopedia.com/ca/sinonim/m%C3%BAsica
+ca,porta,noun,entrada|accés|portal|portalada|forat,121,https://www.synopedia.com/ca/sinonim/porta
+ca,servei,noun,suport|favor|protecció|assistència|lavabo,122,https://www.synopedia.com/ca/sinonim/servei
+ca,sud,noun,migdia|migjorn,123,https://www.synopedia.com/ca/sinonim/sud
+ca,home,noun,persona|humà|humanitat|ésser humà,124,https://www.synopedia.com/ca/sinonim/home
+ca,passa,noun,pas|migració|gambada|servei llarg|línia de passa,125,https://www.synopedia.com/ca/sinonim/passa
+ca,república,noun,estat|país|terra|nació|democràcia,126,https://www.synopedia.com/ca/sinonim/rep%C3%BAblica
+ca,terme,noun,final|extrem|conclusió|acabament|límit,127,https://www.synopedia.com/ca/sinonim/terme
+ca,favor,noun,suport|servei|protecció|auspici,128,https://www.synopedia.com/ca/sinonim/favor
+ca,massa,noun,pilot|pasta|embolic|pastat|gent,129,https://www.synopedia.com/ca/sinonim/massa
+ca,prou,adverb,força|per força|bastant|suficientment|pla,130,https://www.synopedia.com/ca/sinonim/prou
+ca,sentit,noun,coneixement|pensament|habilitat|seny|significat,131,https://www.synopedia.com/ca/sinonim/sentit
+ca,sols,adverb,només|tan sols|solament|únicament,132,https://www.synopedia.com/ca/sinonim/sols
+ca,vídeo,noun,filmació|enregistrament|gravació|clip,133,https://www.synopedia.com/ca/sinonim/v%C3%ADdeo
+ca,zona,noun,territori|regió|província|comarca|àrea,134,https://www.synopedia.com/ca/sinonim/zona
+ca,atenció,noun,compte|cura|vigilància|consideració|cortesia,135,https://www.synopedia.com/ca/sinonim/atenci%C3%B3
+ca,mare,noun,progenitora|causa|origen|llit|germana,136,https://www.synopedia.com/ca/sinonim/mare
+ca,possible,adjective,probable|potencial|viable|factible,137,https://www.synopedia.com/ca/sinonim/possible
+ca,servir,verb,treure|sacar|militar|assistir|exercir,138,https://www.synopedia.com/ca/sinonim/servir
+ca,viure,verb,sobreviure|existir|residir|habitar,139,https://www.synopedia.com/ca/sinonim/viure
+ca,campanya,noun,camp|plana|moviment,140,https://www.synopedia.com/ca/sinonim/campanya
+ca,matí,noun,matinada|alba|albada|primeres hores,141,https://www.synopedia.com/ca/sinonim/mat%C3%AD
+ca,por,noun,preocupació|temor|inquietud|temença,142,https://www.synopedia.com/ca/sinonim/por
+ca,realitat,noun,veritat|existència|fet|món real,143,https://www.synopedia.com/ca/sinonim/realitat
+ca,consell,noun,orientació|recomanació|assessorament|indicació|comitè,144,https://www.synopedia.com/ca/sinonim/consell
+ca,edició,noun,publicació|impressió|reedició|reimpressió|maquetació,145,https://www.synopedia.com/ca/sinonim/edici%C3%B3
+ca,espanyol,adjective,castellà|hispànic|hispà,146,https://www.synopedia.com/ca/sinonim/espanyol
+ca,mostra,noun,presentació|manifestació|exposició|exhibició|exemple,147,https://www.synopedia.com/ca/sinonim/mostra
+ca,pare,noun,progenitor|papa|genitor|patriarca|fundador,148,https://www.synopedia.com/ca/sinonim/pare
+ca,situació,noun,lloc|posició|ubicació|emplaçament|circumstància,149,https://www.synopedia.com/ca/sinonim/situaci%C3%B3
+ca,art,noun,tècnica|habilitat|destresa|mestria|sistema,150,https://www.synopedia.com/ca/sinonim/art
+ca,causa,noun,raó|motiu|origen|causant,151,https://www.synopedia.com/ca/sinonim/causa
+ca,imatge,noun,figura|representació|retrat|reflex|efígie,152,https://www.synopedia.com/ca/sinonim/imatge
+ca,pla,noun,programa|estratègia|tàctica|propòsit|planúria,153,https://www.synopedia.com/ca/sinonim/pla
+ca,presó,noun,penal|penitenciari|calabós|presidi|empresonament,154,https://www.synopedia.com/ca/sinonim/pres%C3%B3
+ca,prop,adverb,proper|arran|pròxim,155,https://www.synopedia.com/ca/sinonim/prop
+ca,seguretat,noun,confiança|esperança|crèdit|certesa|determinació,156,https://www.synopedia.com/ca/sinonim/seguretat
+ca,treballar,verb,tallar|transformar|processar|conformar|esforçar-se,157,https://www.synopedia.com/ca/sinonim/treballar
+ca,veritat,noun,justícia|raó|dreta llei|legitimitat|veracitat,158,https://www.synopedia.com/ca/sinonim/veritat
+ca,mar,noun,oceà|pèlag|pluja,159,https://www.synopedia.com/ca/sinonim/mar
+ca,obra,noun,acció|activitat|actuació|tasca|peça,160,https://www.synopedia.com/ca/sinonim/obra
+ca,civil,adjective,ciutadà|cívic|laic|particular,161,https://www.synopedia.com/ca/sinonim/civil
+ca,cos,noun,grup|comunitat|associació|corporació|caixa,162,https://www.synopedia.com/ca/sinonim/cos
+ca,demanar,verb,preguntar|sol·licitar|reclamar|exigir|requerir,163,https://www.synopedia.com/ca/sinonim/demanar
+ca,diners,noun,moneda|bossa|doblers|recursos|béns,164,https://www.synopedia.com/ca/sinonim/diners
+ca,espai,noun,temps|punt|estona|buit|camp,165,https://www.synopedia.com/ca/sinonim/espai
+ca,idea,noun,pensament|concepte|noció|opinió|intenció,166,https://www.synopedia.com/ca/sinonim/idea
+ca,llista,noun,relació|taula|repertori|inventari|classificació,167,https://www.synopedia.com/ca/sinonim/llista
+ca,lliure,adjective,solt|exempt|independent|autònom,168,https://www.synopedia.com/ca/sinonim/lliure
+ca,mitjans,noun,comunicació|premsa|diaris|periòdics|recursos,169,https://www.synopedia.com/ca/sinonim/mitjans
+ca,objectiu,noun,idea|propòsit|finalitat|meta|vidre,170,https://www.synopedia.com/ca/sinonim/objectiu
+ca,resta,noun,restant|residu|romanent|deixalla|altres,171,https://www.synopedia.com/ca/sinonim/resta
+ca,acabar,verb,parar|completar|finalitzar|terminar,172,https://www.synopedia.com/ca/sinonim/acabar
+ca,actual,adjective,contemporani|present|en curs|darrer,173,https://www.synopedia.com/ca/sinonim/actual
+ca,cara,noun,presència|aspecte|semblant|aparença|banda,174,https://www.synopedia.com/ca/sinonim/cara
+ca,futur,adjective,següent|posterior|ulterior|successiu,175,https://www.synopedia.com/ca/sinonim/futur
+ca,línia,noun,música|cançó|frase|melodia|curs,176,https://www.synopedia.com/ca/sinonim/l%C3%ADnia
+ca,mal,noun,malament|dany|perjudici|dolor|ferida,177,https://www.synopedia.com/ca/sinonim/mal
+ca,nivell,noun,punt|fase|grau|etapa,178,https://www.synopedia.com/ca/sinonim/nivell
+ca,popular,adjective,conegut|famós|reconegut|cèlebre|comú,179,https://www.synopedia.com/ca/sinonim/popular
+ca,salut,noun,sanitat|ànim|vitalitat|salvació|beatitud,180,https://www.synopedia.com/ca/sinonim/salut
+ca,conèixer,verb,saber|trobar|tenir idea|tenir per,181,https://www.synopedia.com/ca/sinonim/con%C3%A8ixer
+ca,director,noun,president|dirigent|gerent|directiu,182,https://www.synopedia.com/ca/sinonim/director
+ca,jove,noun,menor|xic|criatura|fadrí|nora,183,https://www.synopedia.com/ca/sinonim/jove
+ca,llarg,adjective,gran|alt|elevat|extens|interminable,184,https://www.synopedia.com/ca/sinonim/llarg
+ca,oficial,noun,jove|operari|fadrí|policia|guàrdia,185,https://www.synopedia.com/ca/sinonim/oficial
+ca,pau,noun,harmonia|treva|entesa|concòrdia|calma,186,https://www.synopedia.com/ca/sinonim/pau
+ca,seguir,verb,continuar|mantenir-se|prosseguir|observar|perseguir,187,https://www.synopedia.com/ca/sinonim/seguir
+ca,següent,adjective,futur|proper|pròxim|vinent,188,https://www.synopedia.com/ca/sinonim/seg%C3%BCent
+ca,estiu,noun,estació calorosa|canícula|temporada d'estiu,189,https://www.synopedia.com/ca/sinonim/estiu
+ca,festa,noun,celebració|diada|festivitat|festejos|festival,190,https://www.synopedia.com/ca/sinonim/festa
+ca,fi,noun,final|meta|darreria|acabament,191,https://www.synopedia.com/ca/sinonim/fi
+ca,mundial,adjective,universal|global|internacional|planetari,192,https://www.synopedia.com/ca/sinonim/mundial
+ca,nombre,noun,número|quantitat|xifra,193,https://www.synopedia.com/ca/sinonim/nombre
+ca,parlament,noun,discurs|sermó|congrés|conferència|hemicicle,194,https://www.synopedia.com/ca/sinonim/parlament
+ca,tard,adverb,tardanament|a deshora|amb retard|a les tantes,195,https://www.synopedia.com/ca/sinonim/tard
+ca,troba,noun,descobriment|descoberta|troballa,196,https://www.synopedia.com/ca/sinonim/troba
+ca,èxit,noun,reeixida|triomf|assoliment|succés,197,https://www.synopedia.com/ca/sinonim/%C3%A8xit
+ca,club,noun,associació|societat|entitat|cercle,198,https://www.synopedia.com/ca/sinonim/club
+ca,explicar,verb,parlar|fer saber|contar|narrar|justificar,199,https://www.synopedia.com/ca/sinonim/explicar
+ca,gairebé,adverb,de poc|quasi|pràcticament,200,https://www.synopedia.com/ca/sinonim/gaireb%C3%A9
+ca,paper,noun,part|funció|personatge|rol|acte,201,https://www.synopedia.com/ca/sinonim/paper
+ca,respecte,noun,estima|consideració|admiració|deferència|enteresa,202,https://www.synopedia.com/ca/sinonim/respecte
+ca,segle,noun,centúria|època|era,203,https://www.synopedia.com/ca/sinonim/segle
+ca,únic,adjective,clar|sol|singular|inigualable|pur,204,https://www.synopedia.com/ca/sinonim/%C3%BAnic
+ca,ahir,adverb,el dia abans|la vigília|el passat,205,https://www.synopedia.com/ca/sinonim/ahir
+ca,ajuntament,noun,reunió|conjunt|trobada|aplec|casa del comú,206,https://www.synopedia.com/ca/sinonim/ajuntament
+ca,central,adjective,principal|fonamental|primordial|nuclear|centrat,207,https://www.synopedia.com/ca/sinonim/central
+ca,comunicació,noun,informació|publicació|anunci|notificació|conferència,208,https://www.synopedia.com/ca/sinonim/comunicaci%C3%B3
+ca,especial,adjective,propi|particular|excepcional|peculiar,209,https://www.synopedia.com/ca/sinonim/especial
+ca,guanyar,verb,millorar|avançar|vèncer|derrotar|anticipar,210,https://www.synopedia.com/ca/sinonim/guanyar
+ca,mig,noun,centre|punt mitjà|meitat|cor|moll,211,https://www.synopedia.com/ca/sinonim/mig
+ca,morir,verb,morir-se|traspassar|expirar|finar,212,https://www.synopedia.com/ca/sinonim/morir
+ca,parla,noun,llengua|llenguatge|idioma|dialecte,213,https://www.synopedia.com/ca/sinonim/parla
+ca,premi,noun,guardó|trofeu|accèssit|medalla,214,https://www.synopedia.com/ca/sinonim/premi
+ca,sortir,verb,marxar|eixir|partir|aparèixer|deixar,215,https://www.synopedia.com/ca/sinonim/sortir
+ca,tema,noun,qüestió|contingut|matèria|assumpte|motiu,216,https://www.synopedia.com/ca/sinonim/tema
+ca,tens,adjective,tes|tibant,217,https://www.synopedia.com/ca/sinonim/tens
+ca,creu,noun,marca|condecoració,218,https://www.synopedia.com/ca/sinonim/creu
+ca,defensa,noun,protecció|manteniment|vigilància|salvaguarda|reserva,219,https://www.synopedia.com/ca/sinonim/defensa
+ca,demà,adverb,l'endemà|el dia següent|l'avenir|el futur,220,https://www.synopedia.com/ca/sinonim/dem%C3%A0
+ca,entrada,noun,pas|porta|accés|portal|introducció,221,https://www.synopedia.com/ca/sinonim/entrada
+ca,llegir,verb,entendre|interpretar|comprendre|desxifrar|devorar,222,https://www.synopedia.com/ca/sinonim/llegir
+ca,local,adjective,particular|propi|individual|singular|tòpic,223,https://www.synopedia.com/ca/sinonim/local
+ca,segur,adjective,clar|cert|ferm|fiable|inevitable,224,https://www.synopedia.com/ca/sinonim/segur
+ca,xarxa,noun,tela|filat|malla|xàrcia|internet,225,https://www.synopedia.com/ca/sinonim/xarxa
+ca,ajuda,noun,suport|assistència|cooperació|ajut,226,https://www.synopedia.com/ca/sinonim/ajuda
+ca,ajudar,verb,participar|assistir|afavorir|socórrer,227,https://www.synopedia.com/ca/sinonim/ajudar
+ca,aviat,adverb,d'aquí a poc|pròximament|de seguida|en breu|prompte,228,https://www.synopedia.com/ca/sinonim/aviat
+ca,comunitat,noun,cos|associació|religió|corporació|comunió,229,https://www.synopedia.com/ca/sinonim/comunitat
+ca,finalment,adverb,per acabar|per fi|a l'últim|a l'últim extrem,230,https://www.synopedia.com/ca/sinonim/finalment
+ca,fons,noun,recursos|diner|finances|cabals|dipòsit,231,https://www.synopedia.com/ca/sinonim/fons
+ca,lluita,noun,batalla|conflicte|combat|confrontació,232,https://www.synopedia.com/ca/sinonim/lluita
+ca,temporada,noun,època|període|estació|campanya|temps,233,https://www.synopedia.com/ca/sinonim/temporada
+ca,total,adjective,complet|sencer|global|general,234,https://www.synopedia.com/ca/sinonim/total
+ca,unió,noun,matrimoni|connexió|coalició|fusió,235,https://www.synopedia.com/ca/sinonim/uni%C3%B3
+ca,acte,noun,fet|procés|acció|actuació|número,236,https://www.synopedia.com/ca/sinonim/acte
+ca,cert,adjective,clar|segur|veritable|vertader|inevitable,237,https://www.synopedia.com/ca/sinonim/cert
+ca,crear,verb,fer|construir|formar|produir,238,https://www.synopedia.com/ca/sinonim/crear
+ca,desenvolupament,noun,evolució|creixement|maduració|desenrotllament|procés,239,https://www.synopedia.com/ca/sinonim/desenvolupament
+ca,exèrcit,noun,multitud|legió|host|gernació,240,https://www.synopedia.com/ca/sinonim/ex%C3%A8rcit
+ca,mà,noun,capa,241,https://www.synopedia.com/ca/sinonim/m%C3%A0
+ca,ordre,noun,sistema|pla|disposició|ordenació|mandat,242,https://www.synopedia.com/ca/sinonim/ordre
+ca,pensar,verb,creure|considerar|reflexionar|meditar|jutjar,243,https://www.synopedia.com/ca/sinonim/pensar
+ca,petit,adjective,modest|menut|reduït|minúscul,244,https://www.synopedia.com/ca/sinonim/petit
+ca,quedar,verb,romandre|restar|quedar-se|sobrar|seguir,245,https://www.synopedia.com/ca/sinonim/quedar
+ca,canviar,verb,modificar|transformar|alterar|convertir,246,https://www.synopedia.com/ca/sinonim/canviar
+ca,déu,noun,divinitat,247,https://www.synopedia.com/ca/sinonim/d%C3%A9u
+ca,joc,noun,equip|conjunt|repertori|assortiment|entreteniment,248,https://www.synopedia.com/ca/sinonim/joc
+ca,relació,noun,tracte|intercanvi|vincle|lligam|història,249,https://www.synopedia.com/ca/sinonim/relaci%C3%B3
+ca,control,noun,estudi|anàlisi|inspecció|monitoratge|mesura,250,https://www.synopedia.com/ca/sinonim/control
+ca,costa,noun,platja|riba|litoral|costera|pendent,251,https://www.synopedia.com/ca/sinonim/costa
+ca,curs,noun,camí|línia|trajectòria|traçat|classe,252,https://www.synopedia.com/ca/sinonim/curs
+ca,independència,noun,llibertat|autonomia|sobirania|autosuficiència,253,https://www.synopedia.com/ca/sinonim/independ%C3%A8ncia
+ca,portar,verb,fer|donar|anar|dur|incitar,254,https://www.synopedia.com/ca/sinonim/portar
+ca,sentir,verb,trobar|saber greu|notar|percebre,255,https://www.synopedia.com/ca/sinonim/sentir
+ca,acció,noun,fet|acte|activitat|actuació|títol,256,https://www.synopedia.com/ca/sinonim/acci%C3%B3
+ca,accés,noun,pas|porta|entrada|portal|atac,257,https://www.synopedia.com/ca/sinonim/acc%C3%A9s
+ca,cultural,adjective,intel·lectual|artístic|educatiu|social,258,https://www.synopedia.com/ca/sinonim/cultural
+ca,mans,adjective,manyac|mansuet|suau|pacient,259,https://www.synopedia.com/ca/sinonim/mans
+ca,moviment,noun,canvi|trasllat|desplaçament|agitació|campanya,260,https://www.synopedia.com/ca/sinonim/moviment
+ca,principal,adjective,fonamental|primer|destacat|primordial,261,https://www.synopedia.com/ca/sinonim/principal
+ca,rebre,verb,percebre|cobrar|guanyar|portar,262,https://www.synopedia.com/ca/sinonim/rebre
+ca,resposta,noun,resultat|solució|resolució|explicació|reacció,263,https://www.synopedia.com/ca/sinonim/resposta
+ca,últim,adjective,nou|d'avui|darrer|recent,264,https://www.synopedia.com/ca/sinonim/%C3%BAltim
+ca,actualment,adverb,ara|ara per ara|avui|avui dia,265,https://www.synopedia.com/ca/sinonim/actualment
+ca,mantenir,verb,conservar|sostenir|guardar|confirmar|alimentar,266,https://www.synopedia.com/ca/sinonim/mantenir
+ca,marxa,noun,viatge|sortida|partida|partença|pas,267,https://www.synopedia.com/ca/sinonim/marxa
+ca,participar,verb,ajudar|compartir|assistir|intervenir,268,https://www.synopedia.com/ca/sinonim/participar
+ca,teatre,noun,drama|comèdia|art dramàtic|dramatúrgia|escena,269,https://www.synopedia.com/ca/sinonim/teatre
+ca,voltant,noun,entorn|volts|encontorns,270,https://www.synopedia.com/ca/sinonim/voltant
+ca,alt,adjective,elevat|gran|enlairat|eminent|llarg,271,https://www.synopedia.com/ca/sinonim/alt
+ca,capital,adjective,clau|vital|essencial|primordial,272,https://www.synopedia.com/ca/sinonim/capital
+ca,conegut,adjective,popular|famós|reconegut|cèlebre,273,https://www.synopedia.com/ca/sinonim/conegut
+ca,especialment,adverb,particularment|essencialment|singularment|característicament|sobretot,274,https://www.synopedia.com/ca/sinonim/especialment
+ca,fàcil,adjective,clar|senzill|assequible|planer,275,https://www.synopedia.com/ca/sinonim/f%C3%A0cil
+ca,igual,adjective,semblant|mateix|similar|equivalent,276,https://www.synopedia.com/ca/sinonim/igual
+ca,mercat,noun,comerç|centre comercial|basar|mercadeig,277,https://www.synopedia.com/ca/sinonim/mercat
+ca,pel·lícula,noun,pell|coberta|capa|tel|producció,278,https://www.synopedia.com/ca/sinonim/pel%C2%B7l%C3%ADcula
+ca,prendre,verb,agafar|assumir|treure|ocupar,279,https://www.synopedia.com/ca/sinonim/prendre
+ca,real,adjective,veritable|autèntic|existent|tangible,280,https://www.synopedia.com/ca/sinonim/real
+ca,sort,noun,fortuna|ventura|destí|atzar|condició,281,https://www.synopedia.com/ca/sinonim/sort
+ca,sovint,adverb,freqüentment|amb freqüència|ara i adés|correntment,282,https://www.synopedia.com/ca/sinonim/sovint
+ca,territori,noun,zona|província|comarca|domini,283,https://www.synopedia.com/ca/sinonim/territori
+ca,càrrec,noun,treball|funció|ministeri|ofici|lloc,284,https://www.synopedia.com/ca/sinonim/c%C3%A0rrec
+ca,interior,noun,dins|cor|nucli|dintre|jugador del quadre,285,https://www.synopedia.com/ca/sinonim/interior
+ca,justícia,noun,dret|veritat|raó,286,https://www.synopedia.com/ca/sinonim/just%C3%ADcia
+ca,organització,noun,direcció|administració|estructura|preparació,287,https://www.synopedia.com/ca/sinonim/organitzaci%C3%B3
+ca,raó,noun,intel·ligència|enteniment|intel·lecte|discerniment|causa,288,https://www.synopedia.com/ca/sinonim/ra%C3%B3
+ca,realment,adverb,en realitat|efectivament|veritablement|en sèrio,289,https://www.synopedia.com/ca/sinonim/realment
+ca,sèrie,noun,seqüència|successió|espectre|tanda,290,https://www.synopedia.com/ca/sinonim/s%C3%A8rie
+ca,viu,adjective,despert|eixerit|lúcid|intens|gran,291,https://www.synopedia.com/ca/sinonim/viu
+ca,baix,adjective,vulgar|ordinari|exigu|petit|menyspreable,292,https://www.synopedia.com/ca/sinonim/baix
+ca,decidir,verb,resoldre|determinar|concloure|raonar|arranjar,293,https://www.synopedia.com/ca/sinonim/decidir
+ca,dur,verb,portar|conduir|transportar|carregar,294,https://www.synopedia.com/ca/sinonim/dur
+ca,festival,noun,festa|certamen|mostra|trobada,295,https://www.synopedia.com/ca/sinonim/festival
+ca,generalitat,noun,conjunt|col·lectivitat|majoria,296,https://www.synopedia.com/ca/sinonim/generalitat
+ca,llum,noun,làmpada|llàntia|il·luminació|claror|toia,297,https://www.synopedia.com/ca/sinonim/llum
+ca,personal,adjective,individual|particular|íntim|singular,298,https://www.synopedia.com/ca/sinonim/personal
+ca,son,noun,dormir|somnolència|sopor,299,https://www.synopedia.com/ca/sinonim/son
+ca,via,noun,pas|camí|ruta|carretera|manera,300,https://www.synopedia.com/ca/sinonim/via
+ca,convertir,verb,fer|tornar|canviar|transformar|atreure,301,https://www.synopedia.com/ca/sinonim/convertir
+ca,escriure,verb,publicar|editar|redactar|compondre,302,https://www.synopedia.com/ca/sinonim/escriure
+ca,esquerra,noun,esquerre|progressisme,303,https://www.synopedia.com/ca/sinonim/esquerra
+ca,institut,noun,centre|escola|liceu|gimnàs|comunitat,304,https://www.synopedia.com/ca/sinonim/institut
+ca,menjar,verb,carregar|ingerir|engolir|cruspir-se|sopar,305,https://www.synopedia.com/ca/sinonim/menjar
+ca,model,noun,exemple|mostra|marc|exemplar|plantilla,306,https://www.synopedia.com/ca/sinonim/model
+ca,pagar,verb,tornar|abonar|retornar|compensar|liquidar,307,https://www.synopedia.com/ca/sinonim/pagar
+ca,premsa,noun,mitjans|diaris|impremta|tòrcul,308,https://www.synopedia.com/ca/sinonim/premsa
+ca,presentar,verb,tenir|proposar|exposar|plantejar|animar,309,https://www.synopedia.com/ca/sinonim/presentar
+ca,regió,noun,part|zona|comarca|circumscripció,310,https://www.synopedia.com/ca/sinonim/regi%C3%B3
+ca,sobretot,adverb,especialment|principalment|eminentment,311,https://www.synopedia.com/ca/sinonim/sobretot
+ca,violència,noun,força|brutalitat|crueltat|fúria,312,https://www.synopedia.com/ca/sinonim/viol%C3%A8ncia
+ca,barri,noun,veïnat|raval|barriada|pati|lliça,313,https://www.synopedia.com/ca/sinonim/barri
+ca,base,noun,origen|principi|arrel|fonament|suport,314,https://www.synopedia.com/ca/sinonim/base
+ca,classe,noun,família|tipus|mena|categoria|curs,315,https://www.synopedia.com/ca/sinonim/classe
+ca,debat,noun,polèmica|discussió|disputa|controvèrsia|deliberació,316,https://www.synopedia.com/ca/sinonim/debat
+ca,diferent,adjective,divers|desigual|variat|distint,317,https://www.synopedia.com/ca/sinonim/diferent
+ca,difícil,adjective,dur|complicat|delicat|dificultós|escàs,318,https://www.synopedia.com/ca/sinonim/dif%C3%ADcil
+ca,economia,noun,estalvi|finances|hisenda|parsimònia,319,https://www.synopedia.com/ca/sinonim/economia
+ca,entendre,verb,llegir|interpretar|comprendre|copsar,320,https://www.synopedia.com/ca/sinonim/entendre
+ca,just,adjective,propi|recte|precís|honrat|complet,321,https://www.synopedia.com/ca/sinonim/just
+ca,mitjà,noun,sistema|mètode|recurs|instrument,322,https://www.synopedia.com/ca/sinonim/mitj%C3%A0
+ca,qualitat,noun,propietat|tret|característica|atribut|idoneïtat,323,https://www.synopedia.com/ca/sinonim/qualitat
+ca,viatge,noun,camí|circuit|desplaçament|trajecte|escapada,324,https://www.synopedia.com/ca/sinonim/viatge
+ca,vista,noun,visió|ull|perspectiva|panorama|judici,325,https://www.synopedia.com/ca/sinonim/vista
+ca,associació,noun,societat|club|comunitat|corporació|simbiosi,326,https://www.synopedia.com/ca/sinonim/associaci%C3%B3
+ca,autor,noun,escriptor|compositor|redactor|prologuista|creador,327,https://www.synopedia.com/ca/sinonim/autor
+ca,bo,adjective,excel·lent|agradable|bondadós|útil|deliciós,328,https://www.synopedia.com/ca/sinonim/bo
+ca,endavant,adverb,davant|avant|en endavant,329,https://www.synopedia.com/ca/sinonim/endavant
+ca,parc,noun,jardí|parc públic|zona verda|arbreda|umbracle,330,https://www.synopedia.com/ca/sinonim/parc
+ca,perdre,verb,destruir|corrompre|malversar|desaprofitar,331,https://www.synopedia.com/ca/sinonim/perdre
+ca,resultat,noun,resposta|efecte|solució|conseqüència,332,https://www.synopedia.com/ca/sinonim/resultat
+ca,departament,noun,sector|secció|divisió|estudi|cambra,333,https://www.synopedia.com/ca/sinonim/departament
+ca,diari,adjective,periòdic|quotidià|diürn|dietari,334,https://www.synopedia.com/ca/sinonim/diari
+ca,edifici,noun,casa|construcció|recinte|immoble,335,https://www.synopedia.com/ca/sinonim/edifici
+ca,entrar,verb,passar|irrompre|introduir-se|venir|incorporar-se,336,https://www.synopedia.com/ca/sinonim/entrar
+ca,entrevista,noun,conversa|consulta|xerrada|interviu|audiència,337,https://www.synopedia.com/ca/sinonim/entrevista
+ca,evitar,verb,prevenir|impedir|esquivar|eludir,338,https://www.synopedia.com/ca/sinonim/evitar
+ca,formació,noun,grup|companyia|colla|agrupació|preparació,339,https://www.synopedia.com/ca/sinonim/formaci%C3%B3
+ca,membre,noun,soci|integrant|component|afiliat|extremitat,340,https://www.synopedia.com/ca/sinonim/membre
+ca,motiu,noun,causa|raó|mòbil|renom|malnom,341,https://www.synopedia.com/ca/sinonim/motiu
+ca,pena,noun,dolor|llàstima|tristesa|aflicció|multa,342,https://www.synopedia.com/ca/sinonim/pena
+ca,pregunta,noun,qüestió|consulta|demanda|interrogació,343,https://www.synopedia.com/ca/sinonim/pregunta
+ca,riu,noun,corrent|curs d'aigua|afluent|torrent,344,https://www.synopedia.com/ca/sinonim/riu
+ca,televisió,noun,tele|televisor|pantalla,345,https://www.synopedia.com/ca/sinonim/televisi%C3%B3
+ca,atac,noun,ofensiva|atemptat|assalt|envestida,346,https://www.synopedia.com/ca/sinonim/atac
+ca,cor,noun,centre|mig|nucli|moll|coral,347,https://www.synopedia.com/ca/sinonim/cor
+ca,edat,noun,anys|vida|època|antiguitat,348,https://www.synopedia.com/ca/sinonim/edat
+ca,font,noun,deu|sortidor|brollador|broll|causa,349,https://www.synopedia.com/ca/sinonim/font
+ca,illa,noun,illot|atol|terra envoltada d'aigua,350,https://www.synopedia.com/ca/sinonim/illa
+ca,sala,noun,peça|habitació|saló|estança|auditori,351,https://www.synopedia.com/ca/sinonim/sala
+ca,utilitzar,verb,fer servir|aprofitar|usar|emprar|fer profit,352,https://www.synopedia.com/ca/sinonim/utilitzar
+ca,vi,noun,mistela|aigüeta,353,https://www.synopedia.com/ca/sinonim/vi
+ca,amor,noun,passió|afecte|estima|tendresa|estimat,354,https://www.synopedia.com/ca/sinonim/amor
+ca,comissió,noun,missió|encàrrec|comanda|comitè|junta,355,https://www.synopedia.com/ca/sinonim/comissi%C3%B3
+ca,data,noun,dia|moment|termini|jornada,356,https://www.synopedia.com/ca/sinonim/data
+ca,direcció,noun,organització|administració|gestió|comandament|directiva,357,https://www.synopedia.com/ca/sinonim/direcci%C3%B3
+ca,experiència,noun,pràctica|tècnica|habilitat|coneixements,358,https://www.synopedia.com/ca/sinonim/experi%C3%A8ncia
+ca,ple,adjective,complet|saturat|replet|prenyat|tip,359,https://www.synopedia.com/ca/sinonim/ple
+ca,posa,noun,aire|expressió|actitud,360,https://www.synopedia.com/ca/sinonim/posa
+ca,pàgina,noun,plana|full|foli|cara,361,https://www.synopedia.com/ca/sinonim/p%C3%A0gina
+ca,arreu,adverb,tot arreu|pertot|pertot arreu|de qualsevol manera|a la babalà,362,https://www.synopedia.com/ca/sinonim/arreu
+ca,companyia,noun,banda|partida|esquadró|grup|empresa,363,https://www.synopedia.com/ca/sinonim/companyia
+ca,construcció,noun,edifici|immoble|edificació|obra|elaboració,364,https://www.synopedia.com/ca/sinonim/construcci%C3%B3
+ca,cotxe,noun,turisme|vehicle|auto|carruatge|automòbil,365,https://www.synopedia.com/ca/sinonim/cotxe
+ca,espera,noun,suspensió|demora|remissió|retardament|esperança,366,https://www.synopedia.com/ca/sinonim/espera
+ca,estudi,noun,investigació|recerca|informe|anàlisi|departament,367,https://www.synopedia.com/ca/sinonim/estudi
+ca,falta,noun,manca|escassetat|mancança|carència|error,368,https://www.synopedia.com/ca/sinonim/falta
+ca,filla,noun,descendent|nena|hereva|criatura,369,https://www.synopedia.com/ca/sinonim/filla
+ca,interès,noun,atenció|atractiu|afecte|inclinació|benefici,370,https://www.synopedia.com/ca/sinonim/inter%C3%A8s
+ca,mira,noun,idea|intenció|propòsit|finalitat,371,https://www.synopedia.com/ca/sinonim/mira
+ca,qüestió,noun,problema|tema|matèria|assumpte|pregunta,372,https://www.synopedia.com/ca/sinonim/q%C3%BCesti%C3%B3
+ca,senyor,noun,mestre|amo|cabdill|capitost|cavaller,373,https://www.synopedia.com/ca/sinonim/senyor
+ca,títol,noun,procés|instrument|diploma|titular|encapçalament,374,https://www.synopedia.com/ca/sinonim/t%C3%ADtol
+ca,dreta,noun,cop de dreta|mà dreta,375,https://www.synopedia.com/ca/sinonim/dreta
+ca,església,noun,temple|catedral|capella|basílica,376,https://www.synopedia.com/ca/sinonim/esgl%C3%A9sia
+ca,mapa,noun,pla|carta|plànol|mapamundi,377,https://www.synopedia.com/ca/sinonim/mapa
+ca,prova,noun,examen|test|demostració|experiment|concurs,378,https://www.synopedia.com/ca/sinonim/prova
+ca,recursos,noun,fons|finances|diner|cabals|mitjans,379,https://www.synopedia.com/ca/sinonim/recursos
+ca,ràdio,noun,radiodifusió,380,https://www.synopedia.com/ca/sinonim/r%C3%A0dio
+ca,mena,noun,forma|tipus|classe|espècie|mentida,381,https://www.synopedia.com/ca/sinonim/mena
+ca,missatge,noun,notícia|nota|correu|missiva|contingut,382,https://www.synopedia.com/ca/sinonim/missatge
+ca,natural,adjective,clar|corrent|senzill|espontani|originari,383,https://www.synopedia.com/ca/sinonim/natural
+ca,notícia,noun,nova|informació|comunicat|missatge|explicació,384,https://www.synopedia.com/ca/sinonim/not%C3%ADcia
+ca,opinió,noun,punt de vista|judici|criteri|parer,385,https://www.synopedia.com/ca/sinonim/opini%C3%B3
+ca,oportunitat,noun,ocasió|alternativa|avinentesa|benefici|avantatge,386,https://www.synopedia.com/ca/sinonim/oportunitat
+ca,paraula,noun,veu|terme|mot|vocable|compromís,387,https://www.synopedia.com/ca/sinonim/paraula
+ca,perdut,noun,llibertí,388,https://www.synopedia.com/ca/sinonim/perdut
+ca,publicació,noun,edició|reedició|reimpressió|llibre|comunicació,389,https://www.synopedia.com/ca/sinonim/publicaci%C3%B3
+ca,visita,noun,estada|entrevista|trobada|inspecció,390,https://www.synopedia.com/ca/sinonim/visita
+ca,administració,noun,govern|organització|direcció|gestió|presidència,391,https://www.synopedia.com/ca/sinonim/administraci%C3%B3
+ca,antic,adjective,vell|remot|ancià|arcaic,392,https://www.synopedia.com/ca/sinonim/antic
+ca,baixa,noun,caiguda|descens|víctima,393,https://www.synopedia.com/ca/sinonim/baixa
+ca,fort,adjective,gran|potent|robust|resistent|tònic,394,https://www.synopedia.com/ca/sinonim/fort
+ca,militar,noun,comandant|capità,395,https://www.synopedia.com/ca/sinonim/militar
+ca,museu,noun,galeria|pinacoteca|exposició|col·lecció,396,https://www.synopedia.com/ca/sinonim/museu
+ca,número,noun,nombre|xifra|bit|dígit|exemplar,397,https://www.synopedia.com/ca/sinonim/n%C3%BAmero
+ca,preu,noun,valor|cost|import,398,https://www.synopedia.com/ca/sinonim/preu
+ca,propi,adjective,particular|especial|peculiar|típic|digne,399,https://www.synopedia.com/ca/sinonim/propi
+ca,reunió,noun,grup|ajuntament|trobada|agrupació|ple,400,https://www.synopedia.com/ca/sinonim/reuni%C3%B3
+ca,sector,noun,part|camp|àmbit|ram,401,https://www.synopedia.com/ca/sinonim/sector
+ca,tarda,noun,vesprada|capvespre|horabaixa,402,https://www.synopedia.com/ca/sinonim/tarda
+ca,versió,noun,variant|adaptació|traducció|interpretació,403,https://www.synopedia.com/ca/sinonim/versi%C3%B3
+ca,cançó,noun,tonada|melodia|cant|tema|himne,404,https://www.synopedia.com/ca/sinonim/can%C3%A7%C3%B3
+ca,clau,adjective,fonamental|essencial|bàsic|decisiu,405,https://www.synopedia.com/ca/sinonim/clau
+ca,dubte,noun,incertesa|escrúpol|recel|sentiment,406,https://www.synopedia.com/ca/sinonim/dubte
+ca,gènere,noun,producte|mercaderia|mena,407,https://www.synopedia.com/ca/sinonim/g%C3%A8nere
+ca,junts,adverb,plegats|conjuntament|units|alhora,408,https://www.synopedia.com/ca/sinonim/junts
+ca,municipal,noun,policia|guàrdia|agent,409,https://www.synopedia.com/ca/sinonim/municipal
+ca,pitjor,adjective,inferior|més dolent|dolentíssim,410,https://www.synopedia.com/ca/sinonim/pitjor
+ca,professor,noun,mestre|docent|catedràtic|ensenyant|músic,411,https://www.synopedia.com/ca/sinonim/professor
+ca,recordar,verb,fer pensar|fer present|advertir|fer avinent|commemorar,412,https://www.synopedia.com/ca/sinonim/recordar
+ca,referència,noun,menció|esment|al·lusió|citació|font,413,https://www.synopedia.com/ca/sinonim/refer%C3%A8ncia
+ca,revista,noun,inspecció|gaseta,414,https://www.synopedia.com/ca/sinonim/revista
+ca,taula,noun,llista|relació|índex|enumeració|post,415,https://www.synopedia.com/ca/sinonim/taula
+ca,assassinat,noun,mort|matança|homicidi|magnicidi,416,https://www.synopedia.com/ca/sinonim/assassinat
+ca,castell,noun,palau|torre|fortalesa|alcàsser|construcció,417,https://www.synopedia.com/ca/sinonim/castell
+ca,escoltar,verb,seguir|observar|obeir|fer cas|atendre,418,https://www.synopedia.com/ca/sinonim/escoltar
+ca,foc,noun,calor|passió|ardor|fogositat|llar,419,https://www.synopedia.com/ca/sinonim/foc
+ca,germà,noun,amic|company|soci|camarada,420,https://www.synopedia.com/ca/sinonim/germ%C3%A0
+ca,investigació,noun,estudi|recerca|inquisició|indagació,421,https://www.synopedia.com/ca/sinonim/investigaci%C3%B3
+ca,lluny,adjective,allunyat|llunyà|remot|distant,422,https://www.synopedia.com/ca/sinonim/lluny
+ca,origen,noun,inici|començament|naixement|procedència,423,https://www.synopedia.com/ca/sinonim/origen
+ca,participació,noun,compromís|implicació|aportació|contribució,424,https://www.synopedia.com/ca/sinonim/participaci%C3%B3
+ca,presentació,noun,exposició|declaració|explicació|exhibició,425,https://www.synopedia.com/ca/sinonim/presentaci%C3%B3
+ca,text,noun,fragment|passatge|escrit,426,https://www.synopedia.com/ca/sinonim/text
+ca,època,noun,era|temps|edat|període,427,https://www.synopedia.com/ca/sinonim/%C3%A8poca
+ca,acabat,adjective,format|decidit|preparat|completat|passat,428,https://www.synopedia.com/ca/sinonim/acabat
+ca,cinema,noun,sala de cinema|cine|cinematografia|cel·luloide,429,https://www.synopedia.com/ca/sinonim/cinema
+ca,color,noun,aspecte|semblant|aparença|matís|coloració,430,https://www.synopedia.com/ca/sinonim/color
+ca,conjunt,noun,grup|banda|joc|acumulació|complex,431,https://www.synopedia.com/ca/sinonim/conjunt
+ca,construir,verb,crear|aixecar|bastir|edificar|interpretar,432,https://www.synopedia.com/ca/sinonim/construir
+ca,energia,noun,ànima|intensitat|impuls|vitalitat,433,https://www.synopedia.com/ca/sinonim/energia
+ca,greu,adjective,seriós|alarmant|perillós|crític|pesat,434,https://www.synopedia.com/ca/sinonim/greu
+ca,jugar,verb,córrer-la|manejar|esgrimir,435,https://www.synopedia.com/ca/sinonim/jugar
+ca,principi,noun,inici|començament|origen|fonament|cap,436,https://www.synopedia.com/ca/sinonim/principi
+ca,vila,noun,poble|població|municipi|localitat,437,https://www.synopedia.com/ca/sinonim/vila
+ca,deixat,adjective,descurat|negligent|abandonat|aturat,438,https://www.synopedia.com/ca/sinonim/deixat
+ca,francès,adjective,gal|gavatx|gàl·lic,439,https://www.synopedia.com/ca/sinonim/franc%C3%A8s
+ca,jornada,noun,dia|diada|jorn,440,https://www.synopedia.com/ca/sinonim/jornada
+ca,manifestació,noun,mostra|expressió|declaració|afirmació,441,https://www.synopedia.com/ca/sinonim/manifestaci%C3%B3
+ca,marc,noun,camp|àmbit|abast|esfera|model,442,https://www.synopedia.com/ca/sinonim/marc
+ca,proper,adjective,pròxim|veí|vinent|immediat|íntim,443,https://www.synopedia.com/ca/sinonim/proper
+ca,victòria,noun,triomf|èxit|guany|conquesta,444,https://www.synopedia.com/ca/sinonim/vict%C3%B2ria
+ca,activitat,noun,obra|acte|acció|moviment|feina,445,https://www.synopedia.com/ca/sinonim/activitat
+ca,anterior,adjective,superior|previ|precedent|primordial|proppassat,446,https://www.synopedia.com/ca/sinonim/anterior
+ca,aprendre,verb,estudiar|instruir-se|assabentar-se|assimilar,447,https://www.synopedia.com/ca/sinonim/aprendre
+ca,celebrar,verb,lloar|elogiar|festejar|complimentar,448,https://www.synopedia.com/ca/sinonim/celebrar
+ca,continuar,verb,seguir|conservar|reprendre|prosseguir,449,https://www.synopedia.com/ca/sinonim/continuar
+ca,democràcia,noun,sobirania popular|república|autogovern,450,https://www.synopedia.com/ca/sinonim/democr%C3%A0cia
+ca,entorn,noun,voltant|volts|volt|contorn|ambient,451,https://www.synopedia.com/ca/sinonim/entorn
+ca,importància,noun,valor|rellevància|protagonisme|transcendència,452,https://www.synopedia.com/ca/sinonim/import%C3%A0ncia
+ca,obrir,verb,engegar|estrenar|desplegar|inaugurar|aprofundir,453,https://www.synopedia.com/ca/sinonim/obrir
+ca,obtenir,verb,aconseguir|prendre|adquirir|obtindre,454,https://www.synopedia.com/ca/sinonim/obtenir
+ca,posició,noun,lloc|situació|condició|ubicació,455,https://www.synopedia.com/ca/sinonim/posici%C3%B3
+ca,recerca,noun,estudi|investigació|cerca|indagació,456,https://www.synopedia.com/ca/sinonim/recerca
+ca,amic,noun,germà|company|soci|camarada|enamorat,457,https://www.synopedia.com/ca/sinonim/amic
+ca,compartir,verb,dividir|concedir|repartir|assignar|participar,458,https://www.synopedia.com/ca/sinonim/compartir
+ca,comú,adjective,habitual|normal|usual|estàndard,459,https://www.synopedia.com/ca/sinonim/com%C3%BA
+ca,congrés,noun,parlament|assemblea|conferència|convenció,460,https://www.synopedia.com/ca/sinonim/congr%C3%A9s
+ca,decisió,noun,resolució|sentència|determinació|part dispositiva,461,https://www.synopedia.com/ca/sinonim/decisi%C3%B3
+ca,escrit,noun,notícia|carta|nota|lletra|document,462,https://www.synopedia.com/ca/sinonim/escrit
+ca,exposició,noun,mostra|presentació|manifestació|exhibició|expo,463,https://www.synopedia.com/ca/sinonim/exposici%C3%B3
+ca,format,adjective,acabat|preparat|desenvolupat|configurat,464,https://www.synopedia.com/ca/sinonim/format
+ca,hospital,noun,clínica|sanatori,465,https://www.synopedia.com/ca/sinonim/hospital
+ca,inici,noun,començament|principi|origen|iniciació,466,https://www.synopedia.com/ca/sinonim/inici
+ca,perill,noun,risc|amenaça|inseguretat|perillositat,467,https://www.synopedia.com/ca/sinonim/perill
+ca,protecció,noun,favor|refugi|asil|resguard|escut,468,https://www.synopedia.com/ca/sinonim/protecci%C3%B3
+ca,assemblea,noun,consell|ple|reunió|junta,469,https://www.synopedia.com/ca/sinonim/assemblea
+ca,creació,noun,fundació|institució|introducció|instauració,470,https://www.synopedia.com/ca/sinonim/creaci%C3%B3
+ca,crisi,noun,accés|atac|depressió|prostració|alarma,471,https://www.synopedia.com/ca/sinonim/crisi
+ca,independent,adjective,lliure|autònom|solt,472,https://www.synopedia.com/ca/sinonim/independent
+ca,judici,noun,procés|opinió|seny|litigi,473,https://www.synopedia.com/ca/sinonim/judici
+ca,lliga,noun,unió|aliança|adhesió|lligam|aliatge,474,https://www.synopedia.com/ca/sinonim/lliga
+ca,meitat,noun,part|mig|mitjania,475,https://www.synopedia.com/ca/sinonim/meitat
+ca,palau,noun,castell|torre|casal|recinte,476,https://www.synopedia.com/ca/sinonim/palau
+ca,patrimoni,noun,béns|riquesa|hisenda|possessions|herència,477,https://www.synopedia.com/ca/sinonim/patrimoni
+ca,presència,noun,cara|planta|aspecte|aparença|companyia,478,https://www.synopedia.com/ca/sinonim/pres%C3%A8ncia
+ca,to,noun,color|matís|tonalitat|accent|entonació,479,https://www.synopedia.com/ca/sinonim/to
+ca,constitució,noun,formació|fundació|establiment|composició|complexió,480,https://www.synopedia.com/ca/sinonim/constituci%C3%B3
+ca,estudiants,noun,alumnes|alumnat|estudiantat,481,https://www.synopedia.com/ca/sinonim/estudiants
+ca,feliç,adjective,content|orgullós|exultant|pletòric|faust,482,https://www.synopedia.com/ca/sinonim/feli%C3%A7
+ca,gestió,noun,direcció|administració|lideratge|gerència|regulació,483,https://www.synopedia.com/ca/sinonim/gesti%C3%B3
+ca,habitants,noun,poble|població,484,https://www.synopedia.com/ca/sinonim/habitants
+ca,honor,noun,dignitat|honra|reputació|prestigi,485,https://www.synopedia.com/ca/sinonim/honor
+ca,negre,adjective,trist|depriment|obscur|desolador,486,https://www.synopedia.com/ca/sinonim/negre
+ca,període,noun,era|edat|època|etapa,487,https://www.synopedia.com/ca/sinonim/per%C3%ADode
+ca,port,noun,pas|coll|grau|forat|moll,488,https://www.synopedia.com/ca/sinonim/port
+ca,posat,noun,expressió|aspecte|actitud|gest,489,https://www.synopedia.com/ca/sinonim/posat
+ca,publicar,verb,escriure|treure|editar,490,https://www.synopedia.com/ca/sinonim/publicar
+ca,superior,adjective,alt|elevat|anterior|principal|excel·lent,491,https://www.synopedia.com/ca/sinonim/superior
+ca,unitat,noun,unió|cohesió|conjunt|element,492,https://www.synopedia.com/ca/sinonim/unitat
+ca,aire,noun,música|cant|melodia|tonada|expressió,493,https://www.synopedia.com/ca/sinonim/aire
+ca,carta,noun,notícia|quatre ratlles|epístola|missiva|llei,494,https://www.synopedia.com/ca/sinonim/carta
+ca,comprar,verb,adquirir|obtenir|pagar|mercadejar,495,https://www.synopedia.com/ca/sinonim/comprar
+ca,iniciativa,noun,proposta|projecte|acció|empenta,496,https://www.synopedia.com/ca/sinonim/iniciativa
+ca,interessant,adjective,atractiu|suggerent|suggeridor,497,https://www.synopedia.com/ca/sinonim/interessant
+ca,lluitar,verb,combatre|barallar-se|batallar|pugnar|xocar,498,https://www.synopedia.com/ca/sinonim/lluitar
+ca,memòria,noun,record|recordança|comunicació|tesi,499,https://www.synopedia.com/ca/sinonim/mem%C3%B2ria
+ca,mestre,noun,senyor|capità|patró|amo|professor,500,https://www.synopedia.com/ca/sinonim/mestre

@@ -1,0 +1,501 @@
+language,word,part_of_speech,alternatives,frequency_rank,url
+fr,dire,verb,penser|expliquer|raconter|admettre|prononcer,1,https://www.synopedia.com/fr/synonyme/dire
+fr,voir,verb,découvrir|remarquer|éprouver|percevoir|regarder,2,https://www.synopedia.com/fr/synonyme/voir
+fr,savoir,noun,pouvoir|connaissance|science|comprendre|connaitre,3,https://www.synopedia.com/fr/synonyme/savoir
+fr,vouloir,verb,tenir|souhaiter|prétendre|désirer|aimer,4,https://www.synopedia.com/fr/synonyme/vouloir
+fr,petit,adjective,léger|minuscule|modeste|menu|courtaud,5,https://www.synopedia.com/fr/synonyme/petit
+fr,venir,verb,sortir|arriver|présenter|inviter|débarquer,6,https://www.synopedia.com/fr/synonyme/venir
+fr,prendre,verb,tenir|obtenir|saisir|emporter|reprendre,7,https://www.synopedia.com/fr/synonyme/prendre
+fr,homme,noun,humain|créature|individu|être humain|mec,8,https://www.synopedia.com/fr/synonyme/homme
+fr,jour,noun,vie|date,9,https://www.synopedia.com/fr/synonyme/jour
+fr,temps,noun,époque|période|durée|jours|instant,10,https://www.synopedia.com/fr/synonyme/temps
+fr,falloir,verb,devoir,11,https://www.synopedia.com/fr/synonyme/falloir
+fr,grand,adjective,énorme|immense|vaste|considérable|mûr,12,https://www.synopedia.com/fr/synonyme/grand
+fr,main,noun,poing|menotte,13,https://www.synopedia.com/fr/synonyme/main
+fr,passer,verb,aller|traverser|franchir|dépasser|présenter,14,https://www.synopedia.com/fr/synonyme/passer
+fr,parler,verb,discuter|causer|jaser|converser|révéler,15,https://www.synopedia.com/fr/synonyme/parler
+fr,mettre,verb,poser|remettre|placer|ranger|commencer,16,https://www.synopedia.com/fr/synonyme/mettre
+fr,chose,noun,fait|objet,17,https://www.synopedia.com/fr/synonyme/chose
+fr,regarder,verb,toucher|observer|examiner|considérer|concerner,18,https://www.synopedia.com/fr/synonyme/regarder
+fr,femme,noun,mère|fille|dame|femelle|ami,19,https://www.synopedia.com/fr/synonyme/femme
+fr,demander,verb,appeler|inviter|réclamer|solliciter|exiger,20,https://www.synopedia.com/fr/synonyme/demander
+fr,trouver,verb,penser|imaginer|considérer|situer|découvrir,21,https://www.synopedia.com/fr/synonyme/trouver
+fr,suivre,verb,surveiller|observer|obéir|respecter|assister,22,https://www.synopedia.com/fr/synonyme/suivre
+fr,croire,verb,penser|tenir|considérer|estimer,23,https://www.synopedia.com/fr/synonyme/croire
+fr,heure,noun,moment|époque|horaire,24,https://www.synopedia.com/fr/synonyme/heure
+fr,tête,noun,face|épaule|cerveau|crâne|chapeau,25,https://www.synopedia.com/fr/synonyme/t%C3%AAte
+fr,seul,adjective,unique|isolé|solo|à part|distinct,26,https://www.synopedia.com/fr/synonyme/seul
+fr,donner,verb,remettre|présenter|apporter|rapporter|prêter,27,https://www.synopedia.com/fr/synonyme/donner
+fr,penser,verb,dire|réfléchir|admettre|envisager|juger,28,https://www.synopedia.com/fr/synonyme/penser
+fr,vie,noun,activité|jour|terre|destin|train-train,29,https://www.synopedia.com/fr/synonyme/vie
+fr,laisser,verb,oublier|abandonner|déposer|confier|perdre,30,https://www.synopedia.com/fr/synonyme/laisser
+fr,coup,noun,choc|heurt|verre|pot|frappe,31,https://www.synopedia.com/fr/synonyme/coup
+fr,aimer,verb,apprécier|adorer|préférer|faire l'amour|goûter,32,https://www.synopedia.com/fr/synonyme/aimer
+fr,rester,verb,durer|habiter|demeurer|persister|séjourner,33,https://www.synopedia.com/fr/synonyme/rester
+fr,bon,adjective,sain|correct|convenable|satisfaisant|simple,34,https://www.synopedia.com/fr/synonyme/bon
+fr,mère,noun,enceinte|belle-mère|marâtre|accouchée|sœur,35,https://www.synopedia.com/fr/synonyme/m%C3%A8re
+fr,monde,noun,planète|globe|planète bleue|atlas planétaire|univers,36,https://www.synopedia.com/fr/synonyme/monde
+fr,tenir,verb,garder|supporter|résister|maintenir|croire,37,https://www.synopedia.com/fr/synonyme/tenir
+fr,nuit,noun,ombre|obscurité|ténèbres|crépuscule|soirée,38,https://www.synopedia.com/fr/synonyme/nuit
+fr,enfant,noun,petit|fille|fils|mineur|bout d'chou,39,https://www.synopedia.com/fr/synonyme/enfant
+fr,père,noun,beau-père|paternel|pater|frère|aïeul,40,https://www.synopedia.com/fr/synonyme/p%C3%A8re
+fr,arriver,verb,atteindre|réussir|parvenir|aboutir|commencer,41,https://www.synopedia.com/fr/synonyme/arriver
+fr,entendre,verb,écouter|saisir|surprendre|penser|vouloir dire,42,https://www.synopedia.com/fr/synonyme/entendre
+fr,sentir,verb,éprouver|ressentir|flairer|humer|encadrer,43,https://www.synopedia.com/fr/synonyme/sentir
+fr,attendre,verb,espérer|patienter|différer|temporiser|hésiter,44,https://www.synopedia.com/fr/synonyme/attendre
+fr,air,noun,morceau|mélodie|aria|genre|atmosphère,45,https://www.synopedia.com/fr/synonyme/air
+fr,devant,adverb,près|en présence|en face|face,46,https://www.synopedia.com/fr/synonyme/devant
+fr,moment,noun,heure|instant|passage|période|tour,47,https://www.synopedia.com/fr/synonyme/moment
+fr,an,noun,année,48,https://www.synopedia.com/fr/synonyme/an
+fr,connaître,verb,savoir|reconnaître|subir|avoir connaissance,49,https://www.synopedia.com/fr/synonyme/conna%C3%AEtre
+fr,sortir,verb,venir|partir|quitter|échapper|tirer,50,https://www.synopedia.com/fr/synonyme/sortir
+fr,beau,adjective,joli|magnifique|superbe|chouette|resplendissant,51,https://www.synopedia.com/fr/synonyme/beau
+fr,porte,noun,entrée|rideau|porche|trappe|vantail,52,https://www.synopedia.com/fr/synonyme/porte
+fr,comprendre,verb,embrasser|saisir|concevoir|renfermer|apprendre,53,https://www.synopedia.com/fr/synonyme/comprendre
+fr,voix,noun,avis|parole|appel|conseil|pensée,54,https://www.synopedia.com/fr/synonyme/voix
+fr,fille,noun,femme|demoiselle|jeune femme|jeune fille|enfant,55,https://www.synopedia.com/fr/synonyme/fille
+fr,maison,noun,foyer|domicile|résidence|habitation|famille,56,https://www.synopedia.com/fr/synonyme/maison
+fr,sembler,verb,paraître|avoir l'air|apparaître|passer pour,57,https://www.synopedia.com/fr/synonyme/sembler
+fr,jeune,adjective,petit|juvénile|débutant|inexpérimenté|enfantin,58,https://www.synopedia.com/fr/synonyme/jeune
+fr,côté,noun,face|bord|droite|flanc|aspect,59,https://www.synopedia.com/fr/synonyme/c%C3%B4t%C3%A9
+fr,visage,noun,personne|face|nez|figure|caractère,60,https://www.synopedia.com/fr/synonyme/visage
+fr,rue,noun,allée|boulevard|avenue|ruelle|pavé,61,https://www.synopedia.com/fr/synonyme/rue
+fr,soir,noun,soirée|coucher|crépuscule|tombée du jour,62,https://www.synopedia.com/fr/synonyme/soir
+fr,mot,noun,parole|expression|sentence|locution|lettre,63,https://www.synopedia.com/fr/synonyme/mot
+fr,devenir,verb,partir|tomber|rendre|évoluer|retrouver,64,https://www.synopedia.com/fr/synonyme/devenir
+fr,vieux,adjective,antique|poussiéreux|démodé|suranné|délabré,65,https://www.synopedia.com/fr/synonyme/vieux
+fr,maintenant,adverb,aujourd'hui|désormais|actuellement|présentement|après,66,https://www.synopedia.com/fr/synonyme/maintenant
+fr,ouvrir,verb,commencer|engager|écarter|démarrer|desceller,67,https://www.synopedia.com/fr/synonyme/ouvrir
+fr,revenir,verb,retourner|réintégrer|coûter|rétracter|avaler son chapeau,68,https://www.synopedia.com/fr/synonyme/revenir
+fr,bras,noun,accoudoir|travailleur|travailleuse|patte|giron,69,https://www.synopedia.com/fr/synonyme/bras
+fr,pied,noun,pince|latte|arpion|bas|queue,70,https://www.synopedia.com/fr/synonyme/pied
+fr,partir,verb,aller|filer|s'en aller|y aller|commencer,71,https://www.synopedia.com/fr/synonyme/partir
+fr,noir,adjective,ivre|sombre|obscur|brindezingue|mélancolie,72,https://www.synopedia.com/fr/synonyme/noir
+fr,corps,noun,mort|cadavre|tronc|dépouille|fond,73,https://www.synopedia.com/fr/synonyme/corps
+fr,porter,verb,apporter|amener|emporter|transporter|avoir,74,https://www.synopedia.com/fr/synonyme/porter
+fr,place,noun,lieu|endroit|espace|position|poste,75,https://www.synopedia.com/fr/synonyme/place
+fr,rendre,verb,entrer|remettre|livrer|traduire|aller,76,https://www.synopedia.com/fr/synonyme/rendre
+fr,répondre,verb,expliquer|satisfaire|réagir|correspondre|répliquer,77,https://www.synopedia.com/fr/synonyme/r%C3%A9pondre
+fr,presque,adverb,comme|environ|pratiquement|quasi|à un cheveu près,78,https://www.synopedia.com/fr/synonyme/presque
+fr,appeler,verb,rappeler|inviter|évoquer|désigner|demander,79,https://www.synopedia.com/fr/synonyme/appeler
+fr,arrêter,verb,finir|abandonner|cesser|interrompre|retenir,80,https://www.synopedia.com/fr/synonyme/arr%C3%AAter
+fr,vivre,verb,être|exister|habiter|demeurer|respirer,81,https://www.synopedia.com/fr/synonyme/vivre
+fr,eau,noun,pluie|sueur,82,https://www.synopedia.com/fr/synonyme/eau
+fr,terre,noun,planète|vie|sol|univers|champ,83,https://www.synopedia.com/fr/synonyme/terre
+fr,mort,noun,disparition|agonie|décès|anéantissement|corps,84,https://www.synopedia.com/fr/synonyme/mort
+fr,chercher,verb,essayer|tenter|étudier|rechercher,85,https://www.synopedia.com/fr/synonyme/chercher
+fr,paraître,verb,apparaître|sembler|poindre|passer pour|être publié,86,https://www.synopedia.com/fr/synonyme/para%C3%AEtre
+fr,long,adjective,lent|interminable|élancé|allongé|prolixe,87,https://www.synopedia.com/fr/synonyme/long
+fr,tomber,verb,pendre|effondrer|s'écrouler|se casser la binette|descendre,88,https://www.synopedia.com/fr/synonyme/tomber
+fr,lever,verb,retirer|ôter|recueillir|prélever|monter,89,https://www.synopedia.com/fr/synonyme/lever
+fr,blanc,noun,correcteur liquide|vin blanc|crème|toubab|lilial,90,https://www.synopedia.com/fr/synonyme/blanc
+fr,vrai,adjective,juste|véritable|réel|correct|pire,91,https://www.synopedia.com/fr/synonyme/vrai
+fr,regard,noun,bouche d'égout|expression|coup d'œil|point de vue|tabouret,92,https://www.synopedia.com/fr/synonyme/regard
+fr,commencer,verb,arriver|démarrer|entamer|débuter|naître,93,https://www.synopedia.com/fr/synonyme/commencer
+fr,finir,verb,cesser|terminer|achever|aboutir|mourir,94,https://www.synopedia.com/fr/synonyme/finir
+fr,retrouver,verb,se remémorer|rencontrer|rejoindre|devenir|redécouvrir,95,https://www.synopedia.com/fr/synonyme/retrouver
+fr,chambre,noun,piaule|appartement|cellule|studio|assemblée,96,https://www.synopedia.com/fr/synonyme/chambre
+fr,sûr,adjective,vrai|clair|certain|assuré|éprouvé,97,https://www.synopedia.com/fr/synonyme/s%C3%BBr
+fr,gens,noun,monde|hommes|foule|beau monde,98,https://www.synopedia.com/fr/synonyme/gens
+fr,poser,verb,reposer|installer|placer|formuler|atterrir,99,https://www.synopedia.com/fr/synonyme/poser
+fr,monter,verb,remonter|construire|élever|organiser|grimper,100,https://www.synopedia.com/fr/synonyme/monter
+fr,amour,noun,tendresse|éros|cupidon,101,https://www.synopedia.com/fr/synonyme/amour
+fr,dernier,adjective,nouveau|récent|final|définitif|queue de peloton,102,https://www.synopedia.com/fr/synonyme/dernier
+fr,peine,noun,mal|douleur|chagrin|affliction|condamnation,103,https://www.synopedia.com/fr/synonyme/peine
+fr,entrer,verb,arriver|commencer|pénétrer|introduire|saisir,104,https://www.synopedia.com/fr/synonyme/entrer
+fr,bout,noun,fond|morceau|pointe|extrémité|carré,105,https://www.synopedia.com/fr/synonyme/bout
+fr,seulement,adverb,juste|simplement|à peine|rien que|uniquement,106,https://www.synopedia.com/fr/synonyme/seulement
+fr,matin,noun,matinée|commencement|potron-minet,107,https://www.synopedia.com/fr/synonyme/matin
+fr,dieu,noun,père|seigneur|divinité|déité|légende,108,https://www.synopedia.com/fr/synonyme/dieu
+fr,asseoir,verb,placer|fonder|affermir|baser|appuyer,109,https://www.synopedia.com/fr/synonyme/asseoir
+fr,nom,noun,prénom|surnom|pseudonyme|patronyme|dénomination,110,https://www.synopedia.com/fr/synonyme/nom
+fr,mourir,verb,partir|tuer|disparaître|succomber|noyer,111,https://www.synopedia.com/fr/synonyme/mourir
+fr,tirer,verb,voler|arracher|traîner|abattre|dégager,112,https://www.synopedia.com/fr/synonyme/tirer
+fr,table,noun,cuisine|repas|restaurant|assiette|guéridon,113,https://www.synopedia.com/fr/synonyme/table
+fr,perdre,verb,détourner|égarer|dérouter|dilapider|gaspiller,114,https://www.synopedia.com/fr/synonyme/perdre
+fr,tourner,verb,virer|détourner|pivoter|obliquer|marcher,115,https://www.synopedia.com/fr/synonyme/tourner
+fr,fond,noun,corps|âme|tréfonds|arrière-fond|derrière,116,https://www.synopedia.com/fr/synonyme/fond
+fr,année,noun,classe|niveau|an,117,https://www.synopedia.com/fr/synonyme/ann%C3%A9e
+fr,plein,adjective,rond|complet|bourré|pété|grosse,118,https://www.synopedia.com/fr/synonyme/plein
+fr,autour,adverb,près|alentour|aux côtés|sous le signe|environ,119,https://www.synopedia.com/fr/synonyme/autour
+fr,histoire,noun,récit|chronique|anecdote|narration|sujet,120,https://www.synopedia.com/fr/synonyme/histoire
+fr,guerre,noun,bataille|lutte|conflit|hostilités|honneur,121,https://www.synopedia.com/fr/synonyme/guerre
+fr,ami,noun,frère|camarade|amant|compagnon|confident,122,https://www.synopedia.com/fr/synonyme/ami
+fr,gros,adjective,énorme|épais|vulgaire|gigantesque|bouffi,123,https://www.synopedia.com/fr/synonyme/gros
+fr,ville,noun,commune|capitale|cité|métropole|mairie,124,https://www.synopedia.com/fr/synonyme/ville
+fr,vite,adverb,bientôt|tôt|rapidement|précipitamment|raide,125,https://www.synopedia.com/fr/synonyme/vite
+fr,doute,noun,crainte|soupçon|méfiance|circonspection|hésitation,126,https://www.synopedia.com/fr/synonyme/doute
+fr,derrière,noun,fesse|arrière-train|séant|fond|dos,127,https://www.synopedia.com/fr/synonyme/derri%C3%A8re
+fr,ailleurs,adverb,là|là-bas|partout|autre part,128,https://www.synopedia.com/fr/synonyme/ailleurs
+fr,force,noun,pouvoir|violence|puissance|énergie|fermeté,129,https://www.synopedia.com/fr/synonyme/force
+fr,écrire,verb,noter|composer|rédiger|griffonner|inscrire,130,https://www.synopedia.com/fr/synonyme/%C3%A9crire
+fr,instant,noun,moment|minute|seconde|immédiat|temps,131,https://www.synopedia.com/fr/synonyme/instant
+fr,reprendre,verb,refaire|relever|rattraper|regagner|récupérer,132,https://www.synopedia.com/fr/synonyme/reprendre
+fr,lit,noun,couche|dodo|divan|paillasse|sofa,133,https://www.synopedia.com/fr/synonyme/lit
+fr,jouer,verb,produire|fonctionner|figurer|berner|folâtrer,134,https://www.synopedia.com/fr/synonyme/jouer
+fr,jeter,verb,débarrasser|lâcher|larguer|flanquer|sauter,135,https://www.synopedia.com/fr/synonyme/jeter
+fr,longtemps,adverb,longuement,136,https://www.synopedia.com/fr/synonyme/longtemps
+fr,soleil,noun,étoile|feu du ciel|ostensoir|girandole|beauclaire de roche,137,https://www.synopedia.com/fr/synonyme/soleil
+fr,idée,noun,image|sentiment|opinion|vision|théorie,138,https://www.synopedia.com/fr/synonyme/id%C3%A9e
+fr,question,noun,demande|problème|sujet|interrogation|point,139,https://www.synopedia.com/fr/synonyme/question
+fr,marcher,verb,tenir|tourner|courir|rouler|avancer,140,https://www.synopedia.com/fr/synonyme/marcher
+fr,silence,noun,calme|secret|soupir|museau|mutisme,141,https://www.synopedia.com/fr/synonyme/silence
+fr,monsieur,noun,sieur,142,https://www.synopedia.com/fr/synonyme/monsieur
+fr,lire,verb,déchiffrer|relire|feuilleter|dévorer|ânonner,143,https://www.synopedia.com/fr/synonyme/lire
+fr,rire,verb,sourire|moquer|plaisanter|fendre la pipe,144,https://www.synopedia.com/fr/synonyme/rire
+fr,part,noun,morceau|tranche|fraction|quote-part,145,https://www.synopedia.com/fr/synonyme/part
+fr,quitter,verb,partir|laisser|mourir|abandonner|sortir,146,https://www.synopedia.com/fr/synonyme/quitter
+fr,mur,noun,enceinte|paroi|cloison|rempart|rideau,147,https://www.synopedia.com/fr/synonyme/mur
+fr,fin,noun,mort|crépuscule|bout|arrivée|terme,148,https://www.synopedia.com/fr/synonyme/fin
+fr,écouter,verb,obéir|soumettre|entendre|boire|ouir,149,https://www.synopedia.com/fr/synonyme/%C3%A9couter
+fr,peur,noun,angoisse|crainte|panique|effroi|chienne,150,https://www.synopedia.com/fr/synonyme/peur
+fr,raison,noun,sens|esprit|intellect|sens commun|prétexte,151,https://www.synopedia.com/fr/synonyme/raison
+fr,tour,noun,course|circuit|périple|circonvolution|coup,152,https://www.synopedia.com/fr/synonyme/tour
+fr,sorte,noun,espèce|façon|genre|forme|manière,153,https://www.synopedia.com/fr/synonyme/sorte
+fr,ciel,noun,atmosphère|voûte|azur|zénith|espace,154,https://www.synopedia.com/fr/synonyme/ciel
+fr,mois,noun,salaire,155,https://www.synopedia.com/fr/synonyme/mois
+fr,descendre,verb,tuer|abattre|buter|abaisser|tomber,156,https://www.synopedia.com/fr/synonyme/descendre
+fr,bois,noun,ramure|branchage|andouiller|forêt|futaie,157,https://www.synopedia.com/fr/synonyme/bois
+fr,français,adjective,francophone|hexagonal,158,https://www.synopedia.com/fr/synonyme/fran%C3%A7ais
+fr,essayer,verb,chercher|tenter|tâcher|tenter le coup|commencer,159,https://www.synopedia.com/fr/synonyme/essayer
+fr,nouveau,adjective,insolite|inattendu|novateur|innovant|bleu,160,https://www.synopedia.com/fr/synonyme/nouveau
+fr,surtout,adverb,principalement|singulièrement|par-dessus tout,161,https://www.synopedia.com/fr/synonyme/surtout
+fr,retourner,verb,rentrer|revenir|reprendre|renvoyer|labourer,162,https://www.synopedia.com/fr/synonyme/retourner
+fr,pousser,verb,ouvrir|forcer|repousser|bousculer|appuyer,163,https://www.synopedia.com/fr/synonyme/pousser
+fr,épaule,noun,tête|angle d'épaule,164,https://www.synopedia.com/fr/synonyme/%C3%A9paule
+fr,train,noun,wagon|rame|rail|tortillard|vitesse,165,https://www.synopedia.com/fr/synonyme/train
+fr,route,noun,chemin|marche|voie|autoroute|sentier,166,https://www.synopedia.com/fr/synonyme/route
+fr,oublier,verb,laisser|manquer|ignorer|désapprendre|noyer,167,https://www.synopedia.com/fr/synonyme/oublier
+fr,apprendre,verb,informer|enseigner|cultiver|initier|instruire,168,https://www.synopedia.com/fr/synonyme/apprendre
+fr,livre,noun,écrit|ouvrage|tome|fascicule|lire,169,https://www.synopedia.com/fr/synonyme/livre
+fr,servir,verb,aider|utiliser|secourir|faire usage|présenter,170,https://www.synopedia.com/fr/synonyme/servir
+fr,bouche,noun,boîte à camembert|lèvre|mâchoire|ouverture|embouchure,171,https://www.synopedia.com/fr/synonyme/bouche
+fr,voiture,noun,auto|wagon|automobile|carrosse|poubelle,172,https://www.synopedia.com/fr/synonyme/voiture
+fr,continuer,verb,tenir|poursuivre|maintenir|prolonger|donner suite,173,https://www.synopedia.com/fr/synonyme/continuer
+fr,bruit,noun,éclat|tonnerre|vacarme|tintamarre|rumeur,174,https://www.synopedia.com/fr/synonyme/bruit
+fr,plutôt,adverb,assez|de préférence|un peu|par préférence,175,https://www.synopedia.com/fr/synonyme/plut%C3%B4t
+fr,manger,verb,avaler|dévorer|consommer|grignoter|écraser,176,https://www.synopedia.com/fr/synonyme/manger
+fr,fenêtre,noun,trou|zone|vitre|fente|hublot,177,https://www.synopedia.com/fr/synonyme/fen%C3%AAtre
+fr,rentrer,verb,entrer|retrouver|retourner|rejoindre|revenir,178,https://www.synopedia.com/fr/synonyme/rentrer
+fr,façon,noun,manière|mode|sorte|forme|habitude,179,https://www.synopedia.com/fr/synonyme/fa%C3%A7on
+fr,montrer,verb,offrir|présenter|exposer|exhiber|manifester,180,https://www.synopedia.com/fr/synonyme/montrer
+fr,pièce,noun,unité|pion|comédie|saynète|salle,181,https://www.synopedia.com/fr/synonyme/pi%C3%A8ce
+fr,suite,noun,fil|liste|série|succession|séquence,182,https://www.synopedia.com/fr/synonyme/suite
+fr,famille,noun,maison|tribu|descendance|ascendance|parenté,183,https://www.synopedia.com/fr/synonyme/famille
+fr,boire,verb,avaler|consommer|ingurgiter|désaltérer|laper,184,https://www.synopedia.com/fr/synonyme/boire
+fr,vraiment,adverb,bien|beaucoup|absolument|réellement,185,https://www.synopedia.com/fr/synonyme/vraiment
+fr,lumière,noun,feu|lueur|clarté|étincelle|éclairage,186,https://www.synopedia.com/fr/synonyme/lumi%C3%A8re
+fr,rouge,noun,écarlate|pourpre|vermillon|carmin|coquelicot,187,https://www.synopedia.com/fr/synonyme/rouge
+fr,geste,noun,action|acte|posture|mimique|signe,188,https://www.synopedia.com/fr/synonyme/geste
+fr,face,noun,tête|visage|figure|museau|vis-à-vis,189,https://www.synopedia.com/fr/synonyme/face
+fr,cheveu,noun,tête|poil|crinière,190,https://www.synopedia.com/fr/synonyme/cheveu
+fr,lieu,noun,espace|scène|départ|occasion|adresse,191,https://www.synopedia.com/fr/synonyme/lieu
+fr,besoin,noun,nécessaire|nécessité|désir|attente,192,https://www.synopedia.com/fr/synonyme/besoin
+fr,travail,noun,métier|emploi|ouvrage|profession|mal,193,https://www.synopedia.com/fr/synonyme/travail
+fr,courir,verb,aller|parcourir|trotter|vagabonder|continuer,194,https://www.synopedia.com/fr/synonyme/courir
+fr,sourire,verb,rigoler|plaisanter,195,https://www.synopedia.com/fr/synonyme/sourire
+fr,garçon,noun,gamin|célibataire|fieu,196,https://www.synopedia.com/fr/synonyme/gar%C3%A7on
+fr,raconter,verb,conter|retracer|relater|narrer,197,https://www.synopedia.com/fr/synonyme/raconter
+fr,dormir,verb,coucher|reposer|ronfler|somnoler|traîner,198,https://www.synopedia.com/fr/synonyme/dormir
+fr,envie,noun,soif|curiosité|jalousie|convoitise|désir,199,https://www.synopedia.com/fr/synonyme/envie
+fr,mer,noun,fleuve|océan|flots|large|lac,200,https://www.synopedia.com/fr/synonyme/mer
+fr,garder,verb,surveiller|maintenir|veiller|préserver|tenir,201,https://www.synopedia.com/fr/synonyme/garder
+fr,doigt,noun,fond|orteil|larmichette,202,https://www.synopedia.com/fr/synonyme/doigt
+fr,milieu,noun,univers|cadre|environnement|écologie|centre,203,https://www.synopedia.com/fr/synonyme/milieu
+fr,lettre,noun,courrier|missive|dépêche|pli|mot,204,https://www.synopedia.com/fr/synonyme/lettre
+fr,affaire,noun,procès|tâche|entreprise|histoire|cas,205,https://www.synopedia.com/fr/synonyme/affaire
+fr,fils,noun,jeune|progéniture|fieu,206,https://www.synopedia.com/fr/synonyme/fils
+fr,travers,noun,côté|flanc|péage,207,https://www.synopedia.com/fr/synonyme/travers
+fr,changer,verb,transformer|modifier|renouveler|substituer|tourner,208,https://www.synopedia.com/fr/synonyme/changer
+fr,pays,noun,nation|population|communauté|concitoyen|état,209,https://www.synopedia.com/fr/synonyme/pays
+fr,imaginer,verb,trouver|penser|inventer|supposer,210,https://www.synopedia.com/fr/synonyme/imaginer
+fr,crier,verb,hurler|braire|hululer|ululer,211,https://www.synopedia.com/fr/synonyme/crier
+fr,général,adjective,commandant|global,212,https://www.synopedia.com/fr/synonyme/g%C3%A9n%C3%A9ral
+fr,feu,noun,folie|animation|embrasement|incandescence|flamme,213,https://www.synopedia.com/fr/synonyme/feu
+fr,ordre,noun,hiérarchie|classement|agencement|ordonnancement|demande,214,https://www.synopedia.com/fr/synonyme/ordre
+fr,expliquer,verb,justifier|exposer|éclaircir|expliciter|découler,215,https://www.synopedia.com/fr/synonyme/expliquer
+fr,plaisir,noun,bonheur|jouissance|volupté|délice|amour,216,https://www.synopedia.com/fr/synonyme/plaisir
+fr,ombre,noun,nuit|obscurité|silhouette|pénombre|tache,217,https://www.synopedia.com/fr/synonyme/ombre
+fr,apercevoir,verb,observer|distinguer|constater|entrevoir|remarquer,218,https://www.synopedia.com/fr/synonyme/apercevoir
+fr,chemin,noun,route|allée|piste|itinéraire|sentier,219,https://www.synopedia.com/fr/synonyme/chemin
+fr,verre,noun,rasade|coup|pot|vitre|glace,220,https://www.synopedia.com/fr/synonyme/verre
+fr,glisser,verb,introduire|insérer|intercaler|tomber|couler,221,https://www.synopedia.com/fr/synonyme/glisser
+fr,reconnaître,verb,remettre|distinguer|identifier|discerner|avouer,222,https://www.synopedia.com/fr/synonyme/reconna%C3%AEtre
+fr,bord,noun,côte|côté|plage|rive|bateau,223,https://www.synopedia.com/fr/synonyme/bord
+fr,ajouter,verb,augmenter|rajouter|additionner,224,https://www.synopedia.com/fr/synonyme/ajouter
+fr,recevoir,verb,accepter|admettre|subir|recueillir|accueillir,225,https://www.synopedia.com/fr/synonyme/recevoir
+fr,lèvre,noun,bec|babine,226,https://www.synopedia.com/fr/synonyme/l%C3%A8vre
+fr,jambe,noun,quille|jarret|guibolle|pied|poteau,227,https://www.synopedia.com/fr/synonyme/jambe
+fr,vent,noun,tempête|ouragan|cyclone|typhon|flatulence,228,https://www.synopedia.com/fr/synonyme/vent
+fr,occuper,verb,exercer|employer|infester|habiter|demeurer,229,https://www.synopedia.com/fr/synonyme/occuper
+fr,agir,verb,bouger|opérer|procéder|employer|être,230,https://www.synopedia.com/fr/synonyme/agir
+fr,tendre,adjective,doux|affectueux|sentimental|caressant|mou,231,https://www.synopedia.com/fr/synonyme/tendre
+fr,état,noun,pays|situation|condition|république|santé,232,https://www.synopedia.com/fr/synonyme/%C3%A9tat
+fr,sens,noun,raison|esprit|opinion|perception|signification,233,https://www.synopedia.com/fr/synonyme/sens
+fr,âge,noun,ans|époque|période|vieillesse,234,https://www.synopedia.com/fr/synonyme/%C3%A2ge
+fr,cas,noun,cause|affaire|situation|éventualité,235,https://www.synopedia.com/fr/synonyme/cas
+fr,frère,noun,frangin|moine|père|ami|camarade,236,https://www.synopedia.com/fr/synonyme/fr%C3%A8re
+fr,esprit,noun,raison|âme|conscience|entendement|grâce,237,https://www.synopedia.com/fr/synonyme/esprit
+fr,salle,noun,théâtre|public|spectateurs|amphithéâtre|chambre,238,https://www.synopedia.com/fr/synonyme/salle
+fr,souvenir,noun,mémoire|réminiscence|commémoration|souvenance|trace,239,https://www.synopedia.com/fr/synonyme/souvenir
+fr,décider,verb,prononcer|ordonner|choisir|déterminer|convaincre,240,https://www.synopedia.com/fr/synonyme/d%C3%A9cider
+fr,dos,noun,arrière|brasse|crawl|reins|revers,241,https://www.synopedia.com/fr/synonyme/dos
+fr,offrir,verb,avancer|proposer|fournir|sacrifier|montrer,242,https://www.synopedia.com/fr/synonyme/offrir
+fr,fort,adjective,puissant|habile|vigoureux|musclé|violent,243,https://www.synopedia.com/fr/synonyme/fort
+fr,possible,adjective,vraisemblable|plausible|faisable|réalisable|éventuel,244,https://www.synopedia.com/fr/synonyme/possible
+fr,partie,noun,jeu|tennis|basket|ping-pong|section,245,https://www.synopedia.com/fr/synonyme/partie
+fr,arbre,noun,tige|arbuste|arborescence,246,https://www.synopedia.com/fr/synonyme/arbre
+fr,compte,noun,numéro|score|comptes consolidés|comptes sociaux,247,https://www.synopedia.com/fr/synonyme/compte
+fr,bleu,noun,meurtrissure|nouveau|canard|salopette|blanc-bec,248,https://www.synopedia.com/fr/synonyme/bleu
+fr,propre,adjective,honnête|convenable|intègre|comme il faut|comme un sou neuf,249,https://www.synopedia.com/fr/synonyme/propre
+fr,serrer,verb,fermer|presser|étreindre|enlacer|rapprocher,250,https://www.synopedia.com/fr/synonyme/serrer
+fr,sang,noun,hémoglobine|sève,251,https://www.synopedia.com/fr/synonyme/sang
+fr,soudain,adjective,brusque|brutal|prompt|en un éclair de temps|inattendu,252,https://www.synopedia.com/fr/synonyme/soudain
+fr,chef,noun,manager|dirigeant|animateur|directeur|maître,253,https://www.synopedia.com/fr/synonyme/chef
+fr,compter,verb,croire|comprendre|prévoir|estimer|calculer,254,https://www.synopedia.com/fr/synonyme/compter
+fr,papier,noun,pièce d'identité|feuille|copie,255,https://www.synopedia.com/fr/synonyme/papier
+fr,travailler,verb,apprendre|fonctionner|cultiver|cravacher|mettre la main à la pâte,256,https://www.synopedia.com/fr/synonyme/travailler
+fr,remettre,verb,rendre|déposer|réintégrer|surseoir|reconnaître,257,https://www.synopedia.com/fr/synonyme/remettre
+fr,rappeler,verb,appeler|souvenir|évoquer|remémorer|revoir,258,https://www.synopedia.com/fr/synonyme/rappeler
+fr,minute,noun,instant|seconde|min,259,https://www.synopedia.com/fr/synonyme/minute
+fr,traverser,verb,courir|franchir|parcourir|sillonner|couper,260,https://www.synopedia.com/fr/synonyme/traverser
+fr,mauvais,adjective,mal|sale|malin|gâté|pire,261,https://www.synopedia.com/fr/synonyme/mauvais
+fr,répéter,verb,reprendre|redire|ressasser|réitérer|rendre,262,https://www.synopedia.com/fr/synonyme/r%C3%A9p%C3%A9ter
+fr,coin,noun,angle|encoignure|quartier|espace|bout,263,https://www.synopedia.com/fr/synonyme/coin
+fr,couleur,noun,robe|teint|teinte|coloris|peinture,264,https://www.synopedia.com/fr/synonyme/couleur
+fr,découvrir,verb,apprendre|observer|inventer|surprendre|trouver,265,https://www.synopedia.com/fr/synonyme/d%C3%A9couvrir
+fr,journal,noun,carnet|magazine|bulletin|hebdomadaire|actualité,266,https://www.synopedia.com/fr/synonyme/journal
+fr,manquer,verb,tomber|perdre|oublier|rater|faiblir,267,https://www.synopedia.com/fr/synonyme/manquer
+fr,cause,noun,raison|motif|fondement|mère|intention,268,https://www.synopedia.com/fr/synonyme/cause
+fr,fermer,verb,couper|serrer|éteindre|enfermer|terminer,269,https://www.synopedia.com/fr/synonyme/fermer
+fr,haut,adjective,ancien|élevé|supérieur|éminent|puissant,270,https://www.synopedia.com/fr/synonyme/haut
+fr,coucher,verb,baiser|couchailler|étendre|allonger|basculer,271,https://www.synopedia.com/fr/synonyme/coucher
+fr,approcher,verb,aborder|rapprocher|côtoyer|avoisiner|ressembler,272,https://www.synopedia.com/fr/synonyme/approcher
+fr,odeur,noun,parfum|senteur|arôme|relent,273,https://www.synopedia.com/fr/synonyme/odeur
+fr,avancer,verb,marcher|présenter|progresser|aller de l'avant|bouger,274,https://www.synopedia.com/fr/synonyme/avancer
+fr,argent,noun,liquide|sou|finance|denier|or,275,https://www.synopedia.com/fr/synonyme/argent
+fr,oreille,noun,confiance|pli|antenne|corne|grenouille,276,https://www.synopedia.com/fr/synonyme/oreille
+fr,effet,noun,résultat|conséquence|impact|incidence|genre,277,https://www.synopedia.com/fr/synonyme/effet
+fr,toucher,verb,regarder|gagner|atteindre|percevoir|émouvoir,278,https://www.synopedia.com/fr/synonyme/toucher
+fr,heureux,adjective,content|joyeux|ravi|bienheureux|prospère,279,https://www.synopedia.com/fr/synonyme/heureux
+fr,aussitôt,adverb,immédiatement|sur-le-champ|instantanément|d'emblée,280,https://www.synopedia.com/fr/synonyme/aussit%C3%B4t
+fr,pierre,noun,rocher|dalle|roche|gemme|gravier,281,https://www.synopedia.com/fr/synonyme/pierre
+fr,image,noun,dessin|miniature|illustration|vignette|vision,282,https://www.synopedia.com/fr/synonyme/image
+fr,rencontrer,verb,voir|trouver|contacter|croiser|retrouver,283,https://www.synopedia.com/fr/synonyme/rencontrer
+fr,pauvre,adjective,malheureux|maigre|misérable|pitoyable|fauché,284,https://www.synopedia.com/fr/synonyme/pauvre
+fr,peau,noun,fourrure|épiderme|derme|cuir|chair,285,https://www.synopedia.com/fr/synonyme/peau
+fr,bas,adjective,grave|court|vil|mesquin|gris,286,https://www.synopedia.com/fr/synonyme/bas
+fr,jardin,noun,parc|verger|plantation|potager|clos,287,https://www.synopedia.com/fr/synonyme/jardin
+fr,chien,noun,gardien|chiot|roquet|meilleur ami de l'homme|sergent,288,https://www.synopedia.com/fr/synonyme/chien
+fr,permettre,verb,aller|vouloir|offrir|accorder|favoriser,289,https://www.synopedia.com/fr/synonyme/permettre
+fr,type,noun,individu|gonze|zigomar|genre|archétype,290,https://www.synopedia.com/fr/synonyme/type
+fr,disparaître,verb,mourir|périr|succomber|trépasser|fondre,291,https://www.synopedia.com/fr/synonyme/dispara%C3%AEtre
+fr,mouvement,noun,geste|déplacement|circulation|va-et-vient|rond de jambe,292,https://www.synopedia.com/fr/synonyme/mouvement
+fr,battre,verb,frapper|remuer|cogner|passer à tabac|combattre,293,https://www.synopedia.com/fr/synonyme/battre
+fr,cacher,verb,taire|couvrir|dissimuler|occulter|renfermer,294,https://www.synopedia.com/fr/synonyme/cacher
+fr,gagner,verb,toucher|vaincre|conquérir|remporter|atteindre,295,https://www.synopedia.com/fr/synonyme/gagner
+fr,partout,adverb,ici|ailleurs|là-bas|quelque part|n'importe où,296,https://www.synopedia.com/fr/synonyme/partout
+fr,cheval,noun,poney|la plus belle conquête de l'homme|équitation|cavalier|pur-sang,297,https://www.synopedia.com/fr/synonyme/cheval
+fr,parole,noun,mot|propos|pensée|discours|voix,298,https://www.synopedia.com/fr/synonyme/parole
+fr,cesser,verb,finir|disparaître|taire|renoncer|exploser,299,https://www.synopedia.com/fr/synonyme/cesser
+fr,envoyer,verb,lancer|adresser|renvoyer|acheminer|dépêcher,300,https://www.synopedia.com/fr/synonyme/envoyer
+fr,nez,noun,museau|mufle|narine|groin|odorat,301,https://www.synopedia.com/fr/synonyme/nez
+fr,café,noun,bar|bistro|estaminet|débit de boissons,302,https://www.synopedia.com/fr/synonyme/caf%C3%A9
+fr,cours,noun,classe|leçon|conférence|enseignement|parcours,303,https://www.synopedia.com/fr/synonyme/cours
+fr,forme,noun,figure|silhouette|apparence|contour|sorte,304,https://www.synopedia.com/fr/synonyme/forme
+fr,valoir,verb,procurer|correspondre|équivaloir,305,https://www.synopedia.com/fr/synonyme/valoir
+fr,sac,noun,musette|cartable|sacoche|besace|poche,306,https://www.synopedia.com/fr/synonyme/sac
+fr,jeu,noun,loterie|loto|tombola|partie|tactique,307,https://www.synopedia.com/fr/synonyme/jeu
+fr,importer,verb,tenir à cœur|soucier|introduire,308,https://www.synopedia.com/fr/synonyme/importer
+fr,nouvelle,adjective,neuve|récente,309,https://www.synopedia.com/fr/synonyme/nouvelle
+fr,foutre,verb,ficher,310,https://www.synopedia.com/fr/synonyme/foutre
+fr,empêcher,verb,prévenir|étouffer|interdire|réprimer,311,https://www.synopedia.com/fr/synonyme/emp%C3%AAcher
+fr,tuer,verb,suicider|assassiner|exterminer|décimer|emporter,312,https://www.synopedia.com/fr/synonyme/tuer
+fr,bientôt,adverb,vite|rapidement|incessamment|prochainement|avant peu,313,https://www.synopedia.com/fr/synonyme/bient%C3%B4t
+fr,reste,noun,trace|miette|fond|différence|surplus,314,https://www.synopedia.com/fr/synonyme/reste
+fr,tellement,adverb,tant,315,https://www.synopedia.com/fr/synonyme/tellement
+fr,frapper,verb,taper|cogner|heurter|assommer|toucher,316,https://www.synopedia.com/fr/synonyme/frapper
+fr,nu,adjective,déshabillé|vide|austère|dépouillé|dégarni,317,https://www.synopedia.com/fr/synonyme/nu
+fr,libre,adjective,ouvert|libéré|cavalier|gratuit|indépendant,318,https://www.synopedia.com/fr/synonyme/libre
+fr,lancer,verb,partir|commencer|démarrer|débuter|jeter,319,https://www.synopedia.com/fr/synonyme/lancer
+fr,fleur,noun,crème de la crème|vertu|virginité|floraison|efflorescence,320,https://www.synopedia.com/fr/synonyme/fleur
+fr,fou,adjective,dérangé|maniaque|fêlé|aliéné|absurde,321,https://www.synopedia.com/fr/synonyme/fou
+fr,droit,adjective,juste|rectiligne|équitable|vertical|titre,322,https://www.synopedia.com/fr/synonyme/droit
+fr,rouler,verb,empaumer|marcher|tourner|escroquer|avancer,323,https://www.synopedia.com/fr/synonyme/rouler
+fr,pleurer,verb,crier|plaindre|sangloter|déplorer|suinter,324,https://www.synopedia.com/fr/synonyme/pleurer
+fr,bonheur,noun,plaisir|joie|félicité|béatitude|euphorie,325,https://www.synopedia.com/fr/synonyme/bonheur
+fr,ligne,noun,courbe|front|frontière|biais,326,https://www.synopedia.com/fr/synonyme/ligne
+fr,installer,verb,placer|loger|investir|aménager|disposer,327,https://www.synopedia.com/fr/synonyme/installer
+fr,froid,adjective,glacé|glacial|austère|gelé|sec,328,https://www.synopedia.com/fr/synonyme/froid
+fr,signe,noun,signal|indice|augure|présage|preuve,329,https://www.synopedia.com/fr/synonyme/signe
+fr,remonter,verb,lever|relever|redresser|retrousser|reconstruire,330,https://www.synopedia.com/fr/synonyme/remonter
+fr,suffire,verb,se contenter|faire l'affaire|faire le café|satisfaire|être suffisant,331,https://www.synopedia.com/fr/synonyme/suffire
+fr,apporter,verb,amener|produire|fournir|procurer|contribuer,332,https://www.synopedia.com/fr/synonyme/apporter
+fr,apparaître,verb,arriver|paraître|naître|ressortir|installer,333,https://www.synopedia.com/fr/synonyme/appara%C3%AEtre
+fr,front,noun,coalition|champ de bataille|bloc|ligne|combat,334,https://www.synopedia.com/fr/synonyme/front
+fr,hôtel,noun,pension|auberge|motel|palais|palace,335,https://www.synopedia.com/fr/synonyme/h%C3%B4tel
+fr,debout,adverb,verticalement,336,https://www.synopedia.com/fr/synonyme/debout
+fr,aider,verb,servir|faciliter|secourir|venir en aide,337,https://www.synopedia.com/fr/synonyme/aider
+fr,retour,noun,réapparition|résurgence,338,https://www.synopedia.com/fr/synonyme/retour
+fr,genre,noun,sorte|espèce|forme|acabit|style,339,https://www.synopedia.com/fr/synonyme/genre
+fr,manière,noun,façon|sorte|forme|mode|attitude,340,https://www.synopedia.com/fr/synonyme/mani%C3%A8re
+fr,ressembler,verb,correspondre|caractériser|tenir de|approcher|former,341,https://www.synopedia.com/fr/synonyme/ressembler
+fr,sentiment,noun,idée|impression|émotion|sensation|opinion,342,https://www.synopedia.com/fr/synonyme/sentiment
+fr,bouger,verb,courir|déplacer|remuer|mouvoir,343,https://www.synopedia.com/fr/synonyme/bouger
+fr,clair,adjective,précis|brillant|lumineux|limpide|simple,344,https://www.synopedia.com/fr/synonyme/clair
+fr,lentement,adverb,doucement|peu à peu|tranquillement|mollement|paisiblement,345,https://www.synopedia.com/fr/synonyme/lentement
+fr,parvenir,verb,arriver|atteindre|réussir|venir à bout,346,https://www.synopedia.com/fr/synonyme/parvenir
+fr,pencher,verb,préférer|incliner|courber,347,https://www.synopedia.com/fr/synonyme/pencher
+fr,oser,verb,tenter|risquer|aller|se mettre à l'eau|se jeter à l'eau,348,https://www.synopedia.com/fr/synonyme/oser
+fr,cri,noun,appel|hurlement|rugissement|aboiement|clameur,349,https://www.synopedia.com/fr/synonyme/cri
+fr,impression,noun,goût|image|sentiment|sensation|imprimerie,350,https://www.synopedia.com/fr/synonyme/impression
+fr,ancien,adjective,archaïque|préhistorique|vétuste|antédiluvien|vieux,351,https://www.synopedia.com/fr/synonyme/ancien
+fr,gris,adjective,triste|terne|bas|grisé|beige,352,https://www.synopedia.com/fr/synonyme/gris
+fr,habitude,noun,coutume|routine|façon|manière|style,353,https://www.synopedia.com/fr/synonyme/habitude
+fr,passage,noun,rue|voie|allée|ruelle|traversée,354,https://www.synopedia.com/fr/synonyme/passage
+fr,préparer,verb,organiser|dresser|cuisiner|concocter|arriver,355,https://www.synopedia.com/fr/synonyme/pr%C3%A9parer
+fr,juste,adjective,vrai|droit|exact|honnête,356,https://www.synopedia.com/fr/synonyme/juste
+fr,marche,noun,promenade|manifestation|progression|randonnée|route,357,https://www.synopedia.com/fr/synonyme/marche
+fr,refuser,verb,résister|nier|rejeter|dénier|priver,358,https://www.synopedia.com/fr/synonyme/refuser
+fr,âme,noun,fond|esprit|psyché|charbon ardent,359,https://www.synopedia.com/fr/synonyme/%C3%A2me
+fr,pensée,noun,raison|esprit|imagination|dessein,360,https://www.synopedia.com/fr/synonyme/pens%C3%A9e
+fr,maître,noun,précepteur|mentor|éducateur|professeur des écoles|doyen,361,https://www.synopedia.com/fr/synonyme/ma%C3%AEtre
+fr,dame,noun,pilon|reine|belladone|tolet,362,https://www.synopedia.com/fr/synonyme/dame
+fr,léger,adjective,doux|fragile|vaporeux|petit|mince,363,https://www.synopedia.com/fr/synonyme/l%C3%A9ger
+fr,sol,noun,terre|fond|terrain|plancher|parterre,364,https://www.synopedia.com/fr/synonyme/sol
+fr,joie,noun,plaisir|bonheur|gaieté|allégresse|fierté,365,https://www.synopedia.com/fr/synonyme/joie
+fr,payer,verb,régler|rembourser|verser|acquitter|acheter,366,https://www.synopedia.com/fr/synonyme/payer
+fr,cour,noun,tribunal|patio|cassation|atrium,367,https://www.synopedia.com/fr/synonyme/cour
+fr,bureau,noun,service|cabinet|agence|office|assemblée,368,https://www.synopedia.com/fr/synonyme/bureau
+fr,pareil,adjective,identique|analogue|du même tabac|semblable|gémeau,369,https://www.synopedia.com/fr/synonyme/pareil
+fr,lendemain,noun,demain,370,https://www.synopedia.com/fr/synonyme/lendemain
+fr,escalier,noun,marche|descente|perron|colimaçon,371,https://www.synopedia.com/fr/synonyme/escalier
+fr,simple,adjective,facile|aisé|modeste|naïf|humble,372,https://www.synopedia.com/fr/synonyme/simple
+fr,acheter,verb,obtenir|procurer|acquérir|troquer|corrompre,373,https://www.synopedia.com/fr/synonyme/acheter
+fr,exister,verb,être|vivre|subsister|y avoir|compter,374,https://www.synopedia.com/fr/synonyme/exister
+fr,robe,noun,jupe|tunique|soutane|toge|couleur,375,https://www.synopedia.com/fr/synonyme/robe
+fr,entier,adjective,total|global|inébranlable|tout entier,376,https://www.synopedia.com/fr/synonyme/entier
+fr,vide,adjective,désert|vain|vacant|inhabité|mort,377,https://www.synopedia.com/fr/synonyme/vide
+fr,dur,adjective,difficile|pénible|rude|austère|résistant,378,https://www.synopedia.com/fr/synonyme/dur
+fr,armée,noun,troupes|escadron|milice|forces armées|force,379,https://www.synopedia.com/fr/synonyme/arm%C3%A9e
+fr,parent,noun,géniteur|génitrice|procréateur|procréatrice|aïeul,380,https://www.synopedia.com/fr/synonyme/parent
+fr,poche,noun,sac|sacoche|pochon|sac plastique|valise,381,https://www.synopedia.com/fr/synonyme/poche
+fr,lourd,adjective,lent|pesant|écrasant|laborieux|grave,382,https://www.synopedia.com/fr/synonyme/lourd
+fr,vert,adjective,kaki|caca d'oie|écologique|glauque|aigrelet,383,https://www.synopedia.com/fr/synonyme/vert
+fr,doux,adjective,tendre|aimable|caressant|sociable|agréable,384,https://www.synopedia.com/fr/synonyme/doux
+fr,ensemble,noun,groupe|somme|totalité|groupement|famille,385,https://www.synopedia.com/fr/synonyme/ensemble
+fr,église,noun,chapelle|temple|cathédrale|basilique|religion,386,https://www.synopedia.com/fr/synonyme/%C3%A9glise
+fr,accepter,verb,recevoir|souffrir|admettre|consentir,387,https://www.synopedia.com/fr/synonyme/accepter
+fr,conduire,verb,emmener|mener|diriger|guider|amener,388,https://www.synopedia.com/fr/synonyme/conduire
+fr,maman,noun,mamma|sa mère|moman,389,https://www.synopedia.com/fr/synonyme/maman
+fr,vue,noun,paysage|vision|aspect|panorama|idée,390,https://www.synopedia.com/fr/synonyme/vue
+fr,village,noun,localité|bourg|hameau,391,https://www.synopedia.com/fr/synonyme/village
+fr,école,noun,classe|collège|courant,392,https://www.synopedia.com/fr/synonyme/%C3%A9cole
+fr,retenir,verb,maintenir|accrocher|réserver|enchaîner|contenir,393,https://www.synopedia.com/fr/synonyme/retenir
+fr,sec,adjective,froid|aride,394,https://www.synopedia.com/fr/synonyme/sec
+fr,service,noun,entretien|assistance|bureau|mission|charge,395,https://www.synopedia.com/fr/synonyme/service
+fr,remarquer,verb,apercevoir|observer|distinguer|noter|s'aviser,396,https://www.synopedia.com/fr/synonyme/remarquer
+fr,ventre,noun,abdomen|estomac|entrailles|renflement,397,https://www.synopedia.com/fr/synonyme/ventre
+fr,goût,noun,appétit|attrait|boulimie|appétence|saveur,398,https://www.synopedia.com/fr/synonyme/go%C3%BBt
+fr,espèce,noun,famille|ordre|essence|genre|sorte,399,https://www.synopedia.com/fr/synonyme/esp%C3%A8ce
+fr,début,noun,départ|entrée|naissance|commencement|première,400,https://www.synopedia.com/fr/synonyme/d%C3%A9but
+fr,présent,adjective,actuel|instant présent,401,https://www.synopedia.com/fr/synonyme/pr%C3%A9sent
+fr,fixer,verb,installer|préciser|définir|déterminer|lier,402,https://www.synopedia.com/fr/synonyme/fixer
+fr,couper,verb,tailler|découper|trancher|sectionner|fermer,403,https://www.synopedia.com/fr/synonyme/couper
+fr,vérité,noun,certitude|sincérité|véracité|axiome|vrai,404,https://www.synopedia.com/fr/synonyme/v%C3%A9rit%C3%A9
+fr,phrase,noun,expression|tirade|locution|syntagme,405,https://www.synopedia.com/fr/synonyme/phrase
+fr,voyage,noun,visite|trajet|expédition|déplacement|pèlerinage,406,https://www.synopedia.com/fr/synonyme/voyage
+fr,plaire,verb,séduire|aimer|complaire,407,https://www.synopedia.com/fr/synonyme/plaire
+fr,taire,verb,cacher|cesser|dissimuler|passer sous silence|ne pas desserrer les dents,408,https://www.synopedia.com/fr/synonyme/taire
+fr,revoir,verb,réviser|repenser|reconsidérer|revisiter|rappeler,409,https://www.synopedia.com/fr/synonyme/revoir
+fr,époque,noun,temps|âge|période|ère,410,https://www.synopedia.com/fr/synonyme/%C3%A9poque
+fr,feuille,noun,papier|journal|page|lame|abaisse,411,https://www.synopedia.com/fr/synonyme/feuille
+fr,mener,verb,conduire|emmener|amener|diriger|prendre le lead,412,https://www.synopedia.com/fr/synonyme/mener
+fr,endroit,noun,place|lieu public|adret|point|coin,413,https://www.synopedia.com/fr/synonyme/endroit
+fr,embrasser,verb,baiser|serrer|faire la bise|claquer la bise|comprendre,414,https://www.synopedia.com/fr/synonyme/embrasser
+fr,effort,noun,mal,415,https://www.synopedia.com/fr/synonyme/effort
+fr,chance,noun,bonheur|occasion|fortune|concours heureux de circonstances|opportunité,416,https://www.synopedia.com/fr/synonyme/chance
+fr,accord,noun,contrat|traité|convention|arrangement|harmonie,417,https://www.synopedia.com/fr/synonyme/accord
+fr,intérieur,adjective,intime|interne|spirituel|intestin|dedans,418,https://www.synopedia.com/fr/synonyme/int%C3%A9rieur
+fr,saisir,verb,atteindre|attraper|capturer|empoigner|distinguer,419,https://www.synopedia.com/fr/synonyme/saisir
+fr,présence,noun,assistance,420,https://www.synopedia.com/fr/synonyme/pr%C3%A9sence
+fr,cuisine,noun,table|repas|nourriture|assiette|gastronomie,421,https://www.synopedia.com/fr/synonyme/cuisine
+fr,présenter,verb,servir|offrir|avancer|adresser|venir,422,https://www.synopedia.com/fr/synonyme/pr%C3%A9senter
+fr,espérer,verb,compter|prévoir|désirer|tabler|promettre,423,https://www.synopedia.com/fr/synonyme/esp%C3%A9rer
+fr,rejoindre,verb,entrer|retrouver|regagner|rallier|confluer,424,https://www.synopedia.com/fr/synonyme/rejoindre
+fr,gauche,adjective,empoté|godiche|gourd|inhabile,425,https://www.synopedia.com/fr/synonyme/gauche
+fr,sauter,verb,traverser|franchir|bondir|sautiller|jeter,426,https://www.synopedia.com/fr/synonyme/sauter
+fr,simplement,adverb,juste|seulement|uniquement|rien que|naturellement,427,https://www.synopedia.com/fr/synonyme/simplement
+fr,boîte,noun,coffre|carton|malle|coffret|disco,428,https://www.synopedia.com/fr/synonyme/bo%C3%AEte
+fr,annoncer,verb,arriver|proclamer|prédire|notifier,429,https://www.synopedia.com/fr/synonyme/annoncer
+fr,choisir,verb,décider|préférer|sélectionner|opter|composer,430,https://www.synopedia.com/fr/synonyme/choisir
+fr,cher,adjective,précieux|coûteux|ruineux|chéri|onéreux,431,https://www.synopedia.com/fr/synonyme/cher
+fr,couvrir,verb,cacher|étouffer|dominer|recouvrir|parcourir,432,https://www.synopedia.com/fr/synonyme/couvrir
+fr,larme,noun,gémissement|sanglot|pleur|goutte|nuage,433,https://www.synopedia.com/fr/synonyme/larme
+fr,préférer,verb,aimer|pencher|aimer mieux|favoriser|avantager,434,https://www.synopedia.com/fr/synonyme/pr%C3%A9f%C3%A9rer
+fr,éloigner,verb,retirer|écarter|repousser|évincer|distancer,435,https://www.synopedia.com/fr/synonyme/%C3%A9loigner
+fr,siècle,noun,époque,436,https://www.synopedia.com/fr/synonyme/si%C3%A8cle
+fr,mesure,noun,retenue|circonspection|décision|disposition|grandeur,437,https://www.synopedia.com/fr/synonyme/mesure
+fr,échapper,verb,sortir|fuir|enfuir|soustraire|réchapper,438,https://www.synopedia.com/fr/synonyme/%C3%A9chapper
+fr,patron,noun,chef|dirigeant|tenancier|chef d'entreprise|bistrot,439,https://www.synopedia.com/fr/synonyme/patron
+fr,ouvert,adjective,libre|public|découvert|bée|accueillant,440,https://www.synopedia.com/fr/synonyme/ouvert
+fr,gouvernement,noun,ministère,441,https://www.synopedia.com/fr/synonyme/gouvernement
+fr,rapport,noun,récit|exposé|compte-rendu|produit|bilan,442,https://www.synopedia.com/fr/synonyme/rapport
+fr,chat,noun,minette|minet|matou|félin|loup,443,https://www.synopedia.com/fr/synonyme/chat
+fr,mètre,noun,unité de mesure,444,https://www.synopedia.com/fr/synonyme/m%C3%A8tre
+fr,soldat,noun,militaire|fantassin|conscrit|tireur|vétéran,445,https://www.synopedia.com/fr/synonyme/soldat
+fr,demeurer,verb,rester|durer|subsister|persister|vivre,446,https://www.synopedia.com/fr/synonyme/demeurer
+fr,rêve,noun,idée|chimère|utopie|fantasmagorie|cauchemar,447,https://www.synopedia.com/fr/synonyme/r%C3%AAve
+fr,abandonner,verb,renoncer|céder|reculer|résigner|livrer,448,https://www.synopedia.com/fr/synonyme/abandonner
+fr,doucement,adverb,lentement|légèrement|insensiblement|progressivement|piano,449,https://www.synopedia.com/fr/synonyme/doucement
+fr,rêver,verb,imaginer|méditer|rêvasser|être dans la lune|cauchemarder,450,https://www.synopedia.com/fr/synonyme/r%C3%AAver
+fr,genou,noun,cuisse,451,https://www.synopedia.com/fr/synonyme/genou
+fr,éprouver,verb,sentir|souffrir|tenter|ressentir,452,https://www.synopedia.com/fr/synonyme/%C3%A9prouver
+fr,tenter,verb,inviter|risquer|oser|entreprendre|essayer,453,https://www.synopedia.com/fr/synonyme/tenter
+fr,atteindre,verb,toucher|frapper|saisir|heurter|arriver,454,https://www.synopedia.com/fr/synonyme/atteindre
+fr,tôt,adverb,de bonne heure|au lever du jour|de bon matin|au petit matin|déjà,455,https://www.synopedia.com/fr/synonyme/t%C3%B4t
+fr,exemple,noun,modèle|échantillon|citation|illustration|type,456,https://www.synopedia.com/fr/synonyme/exemple
+fr,assurer,verb,affirmer|gérer|approvisionner|préserver|garantir,457,https://www.synopedia.com/fr/synonyme/assurer
+fr,langue,noun,patois|argot|dialecte|langage|jargon,458,https://www.synopedia.com/fr/synonyme/langue
+fr,appuyer,verb,maintenir|presser|consolider|étayer|reposer,459,https://www.synopedia.com/fr/synonyme/appuyer
+fr,contraire,adjective,opposé|adverse|contradictoire|défavorable,460,https://www.synopedia.com/fr/synonyme/contraire
+fr,chanter,verb,siffler|fredonner|plaire|entonner|roucouler,461,https://www.synopedia.com/fr/synonyme/chanter
+fr,sombre,adjective,noir|obscur|mélancolique|lugubre|sinistre,462,https://www.synopedia.com/fr/synonyme/sombre
+fr,dent,noun,chicot|pointe|aiguille,463,https://www.synopedia.com/fr/synonyme/dent
+fr,réveiller,verb,réchauffer|éveiller|ranimer|revigorer,464,https://www.synopedia.com/fr/synonyme/r%C3%A9veiller
+fr,relever,verb,lever|remonter|redresser|reconstruire|souligner,465,https://www.synopedia.com/fr/synonyme/relever
+fr,attention,noun,gentillesse|considération|vigilance|contention,466,https://www.synopedia.com/fr/synonyme/attention
+fr,accompagner,verb,suivre|conduire|amener|escorter|doubler,467,https://www.synopedia.com/fr/synonyme/accompagner
+fr,objet,noun,gadget|corps céleste|pièce|élément|rareté,468,https://www.synopedia.com/fr/synonyme/objet
+fr,mari,noun,époux|cher et tendre|homme|compagnon,469,https://www.synopedia.com/fr/synonyme/mari
+fr,hasard,noun,coïncidence|coup de dé|fortune|risque|incertitude,470,https://www.synopedia.com/fr/synonyme/hasard
+fr,murmurer,verb,chanter|chuchoter|marmonner|susurrer,471,https://www.synopedia.com/fr/synonyme/murmurer
+fr,départ,noun,début|abandon|abdication|envol|naissance,472,https://www.synopedia.com/fr/synonyme/d%C3%A9part
+fr,traîner,verb,dormir|marcher|languir|lambiner|tarder,473,https://www.synopedia.com/fr/synonyme/tra%C3%AEner
+fr,pluie,noun,orage|averse|bruine|crachin|flot,474,https://www.synopedia.com/fr/synonyme/pluie
+fr,groupe,noun,troupe|peloton|procession|famille|ensemble,475,https://www.synopedia.com/fr/synonyme/groupe
+fr,hésiter,verb,tâter|tourner autour du pot|balancer|niaiser avec la puck|douter,476,https://www.synopedia.com/fr/synonyme/h%C3%A9siter
+fr,charger,verb,engager|placer|accuser|exagérer|remplir,477,https://www.synopedia.com/fr/synonyme/charger
+fr,réussir,verb,arriver|marcher|gagner|aboutir|avoir le vent en poupe,478,https://www.synopedia.com/fr/synonyme/r%C3%A9ussir
+fr,joue,noun,pommette|bajoue,479,https://www.synopedia.com/fr/synonyme/joue
+fr,seconde,noun,instant|minute|deuxième|classe de seconde,480,https://www.synopedia.com/fr/synonyme/seconde
+fr,emporter,verb,entraîner|conquérir|ravir|remporter|tuer,481,https://www.synopedia.com/fr/synonyme/emporter
+fr,prêt,noun,crédit,482,https://www.synopedia.com/fr/synonyme/pr%C3%AAt
+fr,couler,verb,verser|sourdre|s'écouler|échouer|sombrer,483,https://www.synopedia.com/fr/synonyme/couler
+fr,amuser,verb,jouer|plaire|moquer|rigoler|distraire,484,https://www.synopedia.com/fr/synonyme/amuser
+fr,joli,adjective,beau|gentil|agréable|mignon|belle,485,https://www.synopedia.com/fr/synonyme/joli
+fr,énorme,adjective,immense|gigantesque|considérable|colossal|incalculable,486,https://www.synopedia.com/fr/synonyme/%C3%A9norme
+fr,proposer,verb,offrir|présenter|soumettre|suggérer,487,https://www.synopedia.com/fr/synonyme/proposer
+fr,naître,verb,apparaître|surgir|éclore|poindre|venir au monde,488,https://www.synopedia.com/fr/synonyme/na%C3%AEtre
+fr,souffrir,verb,supporter|subir|endurer|pâtir|languir,489,https://www.synopedia.com/fr/synonyme/souffrir
+fr,entrée,noun,début|accès|vestibule|antichambre|rentrée,490,https://www.synopedia.com/fr/synonyme/entr%C3%A9e
+fr,herbe,noun,gazon|pâturage|chiendent|hasch,491,https://www.synopedia.com/fr/synonyme/herbe
+fr,tante,noun,tata|tantine|mont-de-piété,492,https://www.synopedia.com/fr/synonyme/tante
+fr,chaise,noun,charpente|chauffeuse|patache,493,https://www.synopedia.com/fr/synonyme/chaise
+fr,difficile,adjective,impossible|pénible|compliqué|ardu|exigeant,494,https://www.synopedia.com/fr/synonyme/difficile
+fr,droite,noun,tribord|parallèle|dextre|ligne droite,495,https://www.synopedia.com/fr/synonyme/droite
+fr,bête,noun,tarte|corniaud|cornichon|animal|bestiole,496,https://www.synopedia.com/fr/synonyme/b%C3%AAte
+fr,intéresser,verb,occuper|toucher|plaire|préoccuper|concerner,497,https://www.synopedia.com/fr/synonyme/int%C3%A9resser
+fr,désir,noun,envie|volonté|souhait|aspiration,498,https://www.synopedia.com/fr/synonyme/d%C3%A9sir
+fr,surprendre,verb,découvrir|tromper|prendre au dépourvu|prendre par surprise|étonner,499,https://www.synopedia.com/fr/synonyme/surprendre
+fr,étonner,verb,surprendre|stupéfier|ébahir|époustoufler|émerveiller,500,https://www.synopedia.com/fr/synonyme/%C3%A9tonner
